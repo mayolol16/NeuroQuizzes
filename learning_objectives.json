@@ -1,0 +1,296 @@
+[
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_01",
+    "text": "Describe the embryological and anatomical divisions of the central nervous system (telencephalon, diencephalon, mesencephalon, metencephalon, myelencephalon, spinal cord).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_02",
+    "text": "Identify the lobes of the brain (frontal, parietal, temporal, occipital, limbic, insula) and the anatomical landmarks of primary gyri and sulci (central, lateral, parieto-occipital, calcarine).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_03",
+    "text": "Correlate cerebral cortical lobes with their primary specialized functions and clinical deficit syndromes (motor, sensory, visual, auditory, receptive/expressive language, executive).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_04",
+    "text": "Describe the internal architectural organization of the cerebrum, including gray matter (cortex, deep basal nuclei) and white matter tracts (corpus callosum, internal capsule anterior/posterior limbs, corona radiata).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_05",
+    "text": "Identify the gross external landmarks and divisions of the brainstem (midbrain, pons, medulla oblongata) and their cranial nerve emergence points.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_ANAT_06",
+    "text": "Describe the cranial meningeal layers (dura mater, arachnoid mater, pia mater), the intracranial dural reflections (falx cerebri, tentorium cerebelli), and the pathology of intracranial hemorrhages (epidural, subdural, subarachnoid).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "1.1 CNS Anatomy & Organization"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_01",
+    "text": "Detail the embryological stages of primary and secondary neurulation, identifying the derivatives of neuroectoderm, surface ectoderm, and neural crest cells.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_02",
+    "text": "Map the 3 primary brain vesicles (prosencephalon, mesencephalon, rhombencephalon) to the 5 secondary vesicles and their corresponding adult CNS and ventricular structures.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_03",
+    "text": "Explain the dorsal-ventral patterning of the neural tube guided by SHH and BMP, distinguishing the alar plate (sensory) from the basal plate (motor) separated by the sulcus limitans.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_04",
+    "text": "Describe the cellular mechanics of cortical development (radial glial scaffolding, inside-out neuronal migration) and disorders of proliferation/migration (microcephaly, lissencephaly, pachygyria, heterotopias).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_05",
+    "text": "Diagnose and differentiate neural tube defects (anencephaly, spina bifida occulta, meningocele, myelomeningocele, encephalocele), including maternal serum AFP and acetylcholinesterase diagnostics, and folic acid prevention.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_06",
+    "text": "Contrast Arnold-Chiari Malformation Type I (isolated cerebellar tonsillar herniation, adult onset, syringomyelia association) with Type II (tonsillar and vermian herniation, congenital myelomeningocele, hydrocephalus).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_DEV_07",
+    "text": "Identify the clinical and radiological hallmarks of Dandy-Walker malformation (agenesis/hypoplasia of cerebellar vermis, cystic fourth ventricle enlargement, posterior fossa enlargement) and Holoprosencephaly (failure of hemispheric cleavage, SHH mutation, trisomy 13).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "CNS Development & Congenital Malformations"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_LSD_01",
+    "text": "Differentiate autosomal recessive and X-linked sphingolipidoses by enzyme defect, accumulated lipid substrate, and systemic vs neurodegenerative clinical features.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Lysosomal Storage Diseases & Neurodegeneration"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_LSD_02",
+    "text": "Contrast Tay-Sachs disease (hexosaminidase A defect, GM2 ganglioside accumulation, hyperreflexia, cherry-red spot, onion-skin lysosomes, NO hepatosplenomegaly) with Niemann-Pick disease (sphingomyelinase defect, hepatosplenomegaly, foamy histiocytes).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Lysosomal Storage Diseases & Neurodegeneration"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_LSD_03",
+    "text": "Describe the clinical presentation and histology of Gaucher disease (glucocerebrosidase defect, hepatosplenomegaly, avascular bone necrosis, lipid-laden macrophages with crumpled paper cytoplasm).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Lysosomal Storage Diseases & Neurodegeneration"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_LSD_04",
+    "text": "Recognize the manifestations of Fabry disease (X-linked recessive, alpha-galactosidase A defect, ceramide trihexoside accumulation, acroparesthesias, angiokeratomas, hypohidrosis, progressive renal/cardiac failure), Krabbe disease, and Metachromatic leukodystrophy.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Lysosomal Storage Diseases & Neurodegeneration"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_01",
+    "text": "Explain the biophysical basis of the neuronal resting membrane potential (-70 mV), K+ equilibrium potential, leak potassium conductances, and the electrogenic action of the Na+/K+-ATPase pump.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_02",
+    "text": "Detail the gating kinetics of voltage-gated Na+ channels (activation gate, inactivation gate) and voltage-gated K+ channels throughout the action potential, defining the absolute and relative refractory periods.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_03",
+    "text": "Explain factors influencing conduction velocity, including axonal diameter (internal longitudinal resistance), myelination (decreased membrane capacitance, increased membrane resistance), and saltatory conduction at nodes of Ranvier.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_04",
+    "text": "Describe the pharmacological mechanism of local anesthetics (blockade of voltage-gated Na+ channels from the intracellular cytoplasmic side), state-dependence (preference for inactivated/open channels), and nerve fiber susceptibility (small/myelinated > unmyelinated > large motor).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_05",
+    "text": "Classify local anesthetics into esters (metabolized by plasma pseudocholinesterase; e.g., procaine, tetracaine, benzocaine) and amides (metabolized by hepatic CYP450; two 'i's: lidocaine, bupivacaine, ropivacaine, mepivacaine).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_06",
+    "text": "Explain the impact of tissue pH on local anesthetic bioavailability (acidic infected tissue shifts equilibrium toward ionized form, reducing tissue penetration) and the rationale/contraindications of epinephrine co-administration.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_AP_07",
+    "text": "Identify local anesthetic systemic toxicity (LAST: metallic taste, perioral paresthesias, seizures, cardiotoxicity/arrhythmias with bupivacaine) and immediate resuscitation with 20% intravenous lipid emulsion (Intralipid).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Action Potential & Local Anesthetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_SYN_01",
+    "text": "Delineate the molecular steps of synaptic transmission: depolarization, presynaptic voltage-gated Ca2+ influx (N- and P/Q-type channels), SNARE complex-mediated vesicle fusion (synaptobrevin, syntaxin, SNAP-25), exocytosis, and reuptake/recycling.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Synaptic Transmission & Neurotransmitters"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_SYN_02",
+    "text": "Contrast ionotropic (AMPA, NMDA, kainate) and metabotropic glutamate receptors, detailing the voltage-dependent Mg2+ block of NMDA receptors, Ca2+ permeability, synaptic plasticity, and glutamate excitotoxicity.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Synaptic Transmission & Neurotransmitters"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_SYN_03",
+    "text": "Describe inhibitory neurotransmission: GABA-A receptors (ionotropic Cl- channels, modulated by benzodiazepines, barbiturates, ethanol, z-drugs), GABA-B receptors (G-protein coupled K+ activation, baclofen), and glycine receptors.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Synaptic Transmission & Neurotransmitters"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_SYN_04",
+    "text": "Identify the primary central synthesis pathways, rate-limiting enzymes, and anatomical origins of monoamines: Dopamine (VTA, Substantia nigra), Norepinephrine (Locus coeruleus), Serotonin (Raphe nuclei), and Acetylcholine (Basal nucleus of Meynert).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Synaptic Transmission & Neurotransmitters"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_HISTO_01",
+    "text": "Identify the structural components of neurons (soma, dendrites, axon hillock, axon, Nissl substance/rough ER) and mechanisms of anterograde (kinesin) and retrograde (dynein) axonal transport.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Histology of Nervous Tissue & Glial Cells"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_HISTO_02",
+    "text": "Characterize the histological features and physiological roles of CNS glial cells: Astrocytes (GFAP+, K+ buffering, neurotransmitter recycling, blood-brain barrier maintenance, reactive gliosis), Oligodendrocytes (myelinating multiple CNS axons), Microglia (mesodermal origin, phagocytosis), and Ependymal cells.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Histology of Nervous Tissue & Glial Cells"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_HISTO_03",
+    "text": "Contrast PNS Schwann cells (myelinating a single internode of one axon, promoting axonal regeneration) with CNS oligodendrocytes (inhibiting axonal regeneration via Nogo proteins).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Histology of Nervous Tissue & Glial Cells"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_01",
+    "text": "Trace the pathway of cerebrospinal fluid (CSF) flow from choroid plexus synthesis through the ventricular chambers, foramina (Monro, Sylvian aqueduct, Luschka, Magendie), subarachnoid space, and venous drainage via arachnoid granulations.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_02",
+    "text": "Differentiate communicating (non-obstructive) vs non-communicating (obstructive) hydrocephalus by etiology, lumbar puncture opening pressure, and ventricular dilatation patterns.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_03",
+    "text": "Recognize the clinical presentation and neuroimaging of Normal Pressure Hydrocephalus (NPH: classic wet, wacky, wobbly triad of urinary incontinence, cognitive decline, magnetic gait) and response to high-volume CSF tap or VP shunt.",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_04",
+    "text": "Distinguish Hydrocephalus ex vacuo (compensatory ventricular enlargement due to cortical neurodegenerative atrophy) and Idiopathic Intracranial Hypertension (pseudotumor cerebri: elevated ICP, papilledema, normal ventricles, empty sella).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_05",
+    "text": "Diagnose acute cerebral herniation syndromes (subfalcine/ACA compression; uncal/ipsilateral CN III blown pupil, contralateral PCA stroke, Duret hemorrhage; tonsillar/fatal respiratory arrest).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_VENT_06",
+    "text": "Explain the physiological mechanisms of medical interventions for elevated intracranial pressure: head-of-bed elevation, therapeutic hyperventilation (hypocapnia-induced vasoconstriction), and hyperosmolar therapy (mannitol, hypertonic saline).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Ventricular System, CSF Dynamics & Hydrocephalus"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_NMJ_01",
+    "text": "Contrast Myasthenia Gravis (post-synaptic AChR autoantibodies, fatiguing muscle weakness with use, ptosis/diplopia, thymoma association) with Lambert-Eaton Myasthenic Syndrome (pre-synaptic P/Q-type VGCC antibodies, weakness improving with use, autonomic dysfunction, hyporeflexia, small cell lung cancer association).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_NMJ_02",
+    "text": "Explain the mechanism of Botulinum neurotoxin (cleavage of SNARE proteins synaptobrevin/SNAP-25 preventing presynaptic ACh exocytosis) and its clinical presentation (descending flaccid paralysis, cranial neuropathies, mydriasis, infant botulism).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_NMJ_03",
+    "text": "Detail the pharmacokinetics and clinical applications of acetylcholinesterase inhibitors (pyridostigmine, neostigmine, edrophonium, physostigmine, donepezil), distinguishing quaternary amines (peripherally acting) from tertiary amines (CNS-penetrating).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_NMJ_04",
+    "text": "Differentiate a Myasthenic Crisis (under-medication, respiratory failure, improves with AChE-I) from a Cholinergic Crisis (excessive AChE-I, depolarizing paralysis, muscarinic excess; managed by stopping AChE-I and administering atropine).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W1_NMJ_05",
+    "text": "Recognize the toxidrome of organophosphate and nerve agent poisoning (irreversible AChE phosphorylation, DUMBBELSS muscarinic toxicity and nicotinic weakness) and its emergency management (Atropine for muscarinic blockade, Pralidoxime/2-PAM for AChE reactivation before enzyme aging).",
+    "exam": "E1",
+    "week": "E1-W1",
+    "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  }
+]

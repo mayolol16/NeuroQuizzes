@@ -1,0 +1,1657 @@
+/* ==========================================================================
+   IMC535 USMLE STEP 1 / UWORLD AUTHENTIC CLINICAL DESIGN SYSTEM
+   Clean & Clear Board Examination Aesthetics (Light & Dark Modes)
+   ========================================================================== */
+
+:root {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", Menlo, Consolas, "Courier New", monospace;
+  --font-serif: Georgia, "Times New Roman", serif;
+
+  /* UWorld / USMLE Clean Clinical Light Palette (DEFAULT) */
+  --bg-main: #F4F6F9;
+  --bg-header: #0F233D;          /* Authentic USMLE / UWorld Navy */
+  --bg-header-hover: #163255;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #FAFCFF;
+  --bg-panel: #EDF2F7;
+  --bg-alt: #E2E8F0;
+  
+  --border-subtle: #D8DFEB;
+  --border-card: #CBD5E1;
+  --border-accent: #2563EB;
+
+  --text-primary: #1E293B;       /* High-contrast crisp clinical slate */
+  --text-secondary: #475569;
+  --text-muted: #64748B;
+  --text-header: #FFFFFF;
+  --text-header-muted: #94A3B8;
+
+  /* Accent Colors */
+  --primary: #0066CC;            /* USMLE / UWorld Royal Blue */
+  --primary-hover: #0052A3;
+  --primary-light: #EBF4FC;
+  --primary-glow: rgba(0, 102, 204, 0.2);
+
+  --accent-emerald: #059669;      /* Correct / Success Green */
+  --accent-emerald-bg: #ECFDF5;
+  --accent-emerald-border: #10B981;
+
+  --accent-rose: #DC2626;         /* Incorrect / Danger Red */
+  --accent-rose-bg: #FEF2F2;
+  --accent-rose-border: #EF4444;
+
+  --accent-amber: #D97706;        /* Warning / Flag Amber */
+  --accent-amber-bg: #FFFBEB;
+
+  --accent-purple: #4F46E5;       /* UWorld Educational Objective Purple */
+  --accent-purple-bg: #EEF2FF;
+
+  --radius-xs: 3px;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* ==========================================================================
+   UWorld Night / Dark Mode Theme
+   ========================================================================== */
+body.theme-dark {
+  --bg-main: #0B111E;
+  --bg-header: #070D18;
+  --bg-header-hover: #0F172A;
+  --bg-card: #131D2F;
+  --bg-card-hover: #18243A;
+  --bg-panel: #1A263D;
+  --bg-alt: #1F2E4A;
+  
+  --border-subtle: #243452;
+  --border-card: #2B3D5E;
+  --border-accent: #3B82F6;
+
+  --text-primary: #F1F5F9;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  --text-header: #F8FAFC;
+  --text-header-muted: #94A3B8;
+
+  --primary: #3B82F6;
+  --primary-hover: #60A5FA;
+  --primary-light: rgba(59, 130, 246, 0.15);
+  --primary-glow: rgba(59, 130, 246, 0.3);
+
+  --accent-emerald: #10B981;
+  --accent-emerald-bg: rgba(16, 185, 129, 0.15);
+  --accent-emerald-border: #059669;
+
+  --accent-rose: #EF4444;
+  --accent-rose-bg: rgba(239, 68, 68, 0.15);
+  --accent-rose-border: #DC2626;
+
+  --accent-amber: #F59E0B;
+  --accent-amber-bg: rgba(245, 158, 11, 0.15);
+
+  --accent-purple: #818CF8;
+  --accent-purple-bg: rgba(79, 70, 229, 0.15);
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.6);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.7);
+}
+
+/* ==========================================================================
+   Base Elements & Reset
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ==========================================================================
+   Header: UWorld / USMLE Primary Top Bar
+   ========================================================================== */
+.app-header {
+  background-color: var(--bg-header);
+  color: var(--text-header);
+  border-bottom: 2px solid #0052A3;
+  padding: 0.5rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.app-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+}
+
+.logo-icon {
+  font-size: 1.6rem;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+}
+
+.logo-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: #FFFFFF;
+}
+
+.logo-subtitle {
+  font-size: 0.72rem;
+  color: var(--text-header-muted);
+  font-weight: 500;
+}
+
+/* Navigation Tabs in Header */
+.nav-tabs {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.nav-tab {
+  background: transparent;
+  color: #CBD5E1;
+  border: 1px solid transparent;
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.nav-tab:hover {
+  background: var(--bg-header-hover);
+  color: #FFFFFF;
+}
+
+.nav-tab.active {
+  background: #1D4ED8;
+  color: #FFFFFF;
+  border-color: #3B82F6;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.stat-pill {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--radius-sm);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  min-width: 75px;
+}
+
+.stat-label {
+  font-size: 0.65rem;
+  color: var(--text-header-muted);
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.stat-value {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-family: var(--font-mono);
+}
+
+.btn-icon {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+  padding: 0.4rem 0.65rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-icon:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+/* ==========================================================================
+   Main Content Layout
+   ========================================================================== */
+.app-main {
+  flex: 1;
+  padding: 1.5rem 2rem;
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.view-panel {
+  display: none;
+}
+
+.view-panel.active {
+  display: block;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ==========================================================================
+   Cards & Layout Utilities
+   ========================================================================== */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.card-header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.mt-2 { margin-top: 0.5rem; }
+.mt-3 { margin-top: 1rem; }
+.mt-4 { margin-top: 1.5rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-3 { margin-bottom: 1rem; }
+.mb-4 { margin-bottom: 1.5rem; }
+.p-4 { padding: 1.5rem; }
+.text-center { text-align: center; }
+.text-muted { color: var(--text-muted); }
+.text-secondary { color: var(--text-secondary); }
+
+/* ==========================================================================
+   Dashboard View
+   ========================================================================== */
+.dashboard-hero {
+  background: linear-gradient(135deg, #0F233D 0%, #1E3A8A 100%);
+  color: #FFFFFF;
+  border-radius: var(--radius-lg);
+  padding: 2rem 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 20px rgba(15, 35, 61, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hero-text h2 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.02em;
+}
+
+.hero-text p {
+  color: #CBD5E1;
+  font-size: 0.92rem;
+  max-width: 680px;
+  line-height: 1.5;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1.25rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.stat-card-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.stat-card-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-xs);
+  background: var(--bg-alt);
+  color: var(--text-secondary);
+}
+
+.stat-card-badge.danger {
+  background: var(--accent-rose-bg);
+  color: var(--accent-rose);
+}
+
+.stat-card-badge.success {
+  background: var(--accent-emerald-bg);
+  color: var(--accent-emerald);
+}
+
+.stat-card-badge.warning {
+  background: var(--accent-amber-bg);
+  color: var(--accent-amber);
+}
+
+.stat-card-value {
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+  margin-bottom: 0.5rem;
+}
+
+.stat-progress-bar {
+  background: var(--bg-alt);
+  height: 6px;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.stat-progress-fill {
+  background: var(--primary);
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+.stat-subtext {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.section-title {
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin: 1.5rem 0 0.85rem 0;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+/* Exam Module Cards */
+.modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.module-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: var(--shadow-sm);
+}
+
+.module-card:hover {
+  border-color: var(--primary);
+  box-shadow: var(--shadow-md);
+}
+
+.module-header {
+  margin-bottom: 0.75rem;
+}
+
+.module-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-xs);
+  background: var(--primary-light);
+  color: var(--primary);
+  margin-bottom: 0.4rem;
+  text-transform: uppercase;
+}
+
+.module-header h4 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.module-desc {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.module-stats {
+  background: var(--bg-panel);
+  border-radius: var(--radius-sm);
+  padding: 0.65rem 0.85rem;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.82rem;
+  margin-bottom: 0.75rem;
+}
+
+.module-stat-row span:last-child {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  margin-left: 0.25rem;
+}
+
+/* Table Design */
+.table-container {
+  overflow-x: auto;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.86rem;
+}
+
+.data-table th {
+  background: var(--bg-panel);
+  color: var(--text-secondary);
+  padding: 0.75rem 1rem;
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--border-subtle);
+}
+
+.data-table td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  vertical-align: middle;
+}
+
+.data-table tr:hover td {
+  background: var(--bg-card-hover);
+}
+
+/* Status Badges */
+.status-badge {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-xs);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.status-badge.status-danger {
+  background: var(--accent-rose-bg);
+  color: var(--accent-rose);
+  border: 1px solid var(--accent-rose-border);
+}
+
+.status-badge.status-warning {
+  background: var(--accent-amber-bg);
+  color: var(--accent-amber);
+}
+
+.status-badge.status-success {
+  background: var(--accent-emerald-bg);
+  color: var(--accent-emerald);
+}
+
+.status-badge.status-muted {
+  background: var(--bg-alt);
+  color: var(--text-muted);
+}
+
+/* Filter controls */
+.filters-inline {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.form-select, .form-input {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border: 1px solid var(--border-card);
+  padding: 0.45rem 0.8rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-family: var(--font-sans);
+}
+
+.form-select:focus, .form-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-glow);
+}
+
+/* ==========================================================================
+   Buttons System
+   ========================================================================== */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 0.55rem 1.1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: #FFFFFF;
+}
+
+.btn-primary:hover {
+  background: var(--primary-hover);
+}
+
+.btn-secondary {
+  background: var(--bg-panel);
+  color: var(--text-primary);
+  border-color: var(--border-subtle);
+}
+
+.btn-secondary:hover {
+  background: var(--bg-alt);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--primary);
+  border-color: var(--border-card);
+}
+
+.btn-outline:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+}
+
+.btn-success {
+  background: var(--accent-emerald);
+  color: #FFFFFF;
+}
+
+.btn-danger {
+  background: var(--accent-rose);
+  color: #FFFFFF;
+}
+
+.btn-lg {
+  padding: 0.75rem 1.4rem;
+  font-size: 0.95rem;
+}
+
+.btn-sm {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+}
+
+.btn-xs {
+  padding: 0.2rem 0.5rem;
+  font-size: 0.75rem;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.btn-group {
+  display: inline-flex;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid var(--border-card);
+}
+
+.btn-group .btn-filter {
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  border: none;
+  border-right: 1px solid var(--border-card);
+  border-radius: 0;
+  padding: 0.45rem 0.85rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-group .btn-filter:last-child {
+  border-right: none;
+}
+
+.btn-group .btn-filter:hover {
+  background: var(--bg-card-hover);
+  color: var(--text-primary);
+}
+
+.btn-group .btn-filter.active {
+  background: var(--primary);
+  color: #FFFFFF;
+}
+
+/* ==========================================================================
+   AUTHENTIC USMLE / UWORLD EXAMINATION ENVIRONMENT (#view-active-quiz)
+   ========================================================================== */
+
+/* Authentic Examination Toolbar */
+.quiz-header {
+  background: #0F233D;
+  color: #FFFFFF;
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+  border: 1px solid #0052A3;
+  border-bottom: 2px solid #0066CC;
+  padding: 0.65rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.quiz-header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.quiz-title-badge {
+  background: #1D4ED8;
+  color: #FFFFFF;
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-xs);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.quiz-progress-text {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #FFFFFF;
+  letter-spacing: -0.01em;
+}
+
+.quiz-block-id {
+  font-size: 0.78rem;
+  color: #94A3B8;
+  font-family: var(--font-mono);
+}
+
+.quiz-header-center {
+  display: flex;
+  align-items: center;
+}
+
+.quiz-timer {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.timer-digits {
+  font-family: var(--font-mono);
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #38BDF8;
+}
+
+.btn-timer-toggle {
+  background: transparent;
+  border: none;
+  color: #CBD5E1;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.quiz-header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Examination Tool Buttons */
+.btn-tool {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+  padding: 0.35rem 0.7rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.btn-tool:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.btn-tool.active-tool {
+  background: #2563EB;
+  border-color: #60A5FA;
+  box-shadow: 0 0 8px rgba(37, 99, 235, 0.5);
+}
+
+.btn-tool.flagged {
+  background: var(--accent-rose);
+  border-color: #F87171;
+  color: #FFFFFF;
+}
+
+/* Examination Viewport & Layout */
+.quiz-viewport {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-top: none;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  padding: 2rem 2.5rem;
+  box-shadow: var(--shadow-md);
+  min-height: 520px;
+}
+
+.quiz-content-split {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+/* Metadata Bar */
+.q-metadata-bar {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-xs);
+}
+
+.badge-primary {
+  background: var(--primary-light);
+  color: var(--primary);
+}
+
+.badge-subtle {
+  background: var(--bg-panel);
+  color: var(--text-secondary);
+}
+
+.badge-success {
+  background: var(--accent-emerald-bg);
+  color: var(--accent-emerald);
+}
+
+.badge-danger {
+  background: var(--accent-rose-bg);
+  color: var(--accent-rose);
+}
+
+/* Clinical Stem Typography */
+.q-stem-text {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+  font-weight: 450;
+  user-select: text;
+  margin-bottom: 1.5rem;
+}
+
+/* Highlighting Engine Marks */
+mark.user-highlight {
+  border-radius: 2px;
+  padding: 0.08em 0.15em;
+  cursor: pointer;
+}
+
+mark.user-highlight.yellow {
+  background-color: #FEF08A; /* Classic UWorld Yellow */
+  color: #1E293B;
+}
+
+mark.user-highlight.green {
+  background-color: #BBF7D0; /* Soft Green */
+  color: #1E293B;
+}
+
+mark.user-highlight.pink {
+  background-color: #FBCFE8; /* UWorld Soft Pink */
+  color: #1E293B;
+}
+
+/* Floating Highlighter Bubble */
+.highlight-bubble {
+  position: absolute;
+  background: #0F233D;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 4px 8px;
+  display: flex;
+  gap: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+  z-index: 50;
+}
+
+.bubble-color {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #FFFFFF;
+  cursor: pointer;
+}
+
+.bubble-color.yellow { background: #FEF08A; }
+.bubble-color.green { background: #BBF7D0; }
+.bubble-color.pink { background: #FBCFE8; }
+
+/* Clinical Diagnostic Image Display */
+.q-media-container {
+  margin: 1.25rem 0;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--border-subtle);
+  background: #000000;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.diagnostic-image {
+  max-height: 440px;
+  width: auto;
+  max-width: 100%;
+  display: block;
+  cursor: zoom-in;
+}
+
+/* Answer Choices: Authentic UWorld / USMLE Radio Buttons */
+.choices-instruction {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.choices-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.choice-item {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 0.85rem 1.15rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  position: relative;
+}
+
+.choice-item:hover {
+  border-color: var(--primary);
+  background: var(--primary-light);
+}
+
+.choice-item.selected {
+  border-color: var(--primary);
+  background: var(--primary-light);
+  box-shadow: 0 0 0 2px var(--primary-glow);
+}
+
+.choice-prefix {
+  font-size: 0.88rem;
+  font-weight: 800;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--bg-panel);
+  border: 1.5px solid var(--border-card);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--text-secondary);
+}
+
+.choice-item.selected .choice-prefix {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #FFFFFF;
+}
+
+.choice-text {
+  font-size: 0.98rem;
+  color: var(--text-primary);
+  line-height: 1.5;
+  flex: 1;
+}
+
+/* Strikethrough Distractor Elimination */
+.choice-item.struck {
+  opacity: 0.4;
+  background: var(--bg-alt);
+}
+
+.choice-item.struck .choice-text {
+  text-decoration: line-through;
+  color: var(--text-muted);
+}
+
+/* Post-Reveal States (Tutor / Review Mode) */
+.choice-item.correct-revealed {
+  border-color: var(--accent-emerald);
+  background: var(--accent-emerald-bg);
+}
+
+.choice-item.correct-revealed .choice-prefix {
+  background: var(--accent-emerald);
+  border-color: var(--accent-emerald);
+  color: #FFFFFF;
+}
+
+.choice-item.incorrect-revealed {
+  border-color: var(--accent-rose);
+  background: var(--accent-rose-bg);
+}
+
+.choice-item.incorrect-revealed .choice-prefix {
+  background: var(--accent-rose);
+  border-color: var(--accent-rose);
+  color: #FFFFFF;
+}
+
+/* ==========================================================================
+   UWORLD-STYLE EXPLANATION & EDUCATIONAL OBJECTIVE CARD
+   ========================================================================== */
+.quiz-explanation-box {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 1.75rem 2rem;
+  margin-top: 1.75rem;
+  box-shadow: var(--shadow-md);
+}
+
+.exp-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.exp-badge {
+  font-size: 0.85rem;
+  font-weight: 800;
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-sm);
+  text-transform: uppercase;
+}
+
+.exp-badge.success {
+  background: var(--accent-emerald-bg);
+  color: var(--accent-emerald);
+  border: 1px solid var(--accent-emerald-border);
+}
+
+.exp-badge.danger {
+  background: var(--accent-rose-bg);
+  color: var(--accent-rose);
+  border: 1px solid var(--accent-rose-border);
+}
+
+.exp-correct-key {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.exp-body {
+  font-size: 0.98rem;
+  line-height: 1.75;
+  color: var(--text-primary);
+}
+
+.exp-body h3, .exp-body h4 {
+  margin: 1rem 0 0.5rem 0;
+  font-size: 1.05rem;
+  color: var(--text-primary);
+}
+
+.exp-body ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.exp-body li {
+  margin-bottom: 0.5rem;
+}
+
+/* UWorld Educational Objective Banner */
+.exp-lo-box {
+  background: var(--accent-purple-bg);
+  border-left: 4px solid var(--accent-purple);
+  border-radius: var(--radius-xs);
+  padding: 1rem 1.25rem;
+}
+
+.lo-title {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: var(--accent-purple);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+}
+
+.lo-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.lo-item {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+/* High-Yield First Aid Pearl */
+.exp-pearl-box {
+  background: #FFFBEB;
+  border-left: 4px solid #D97706;
+  border-radius: var(--radius-xs);
+  padding: 1rem 1.25rem;
+}
+
+body.theme-dark .exp-pearl-box {
+  background: rgba(217, 119, 6, 0.15);
+}
+
+.pearl-title {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: #D97706;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+}
+
+.pearl-content {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+/* Examination Footer Navigation Bar */
+.quiz-footer {
+  background: #0F233D;
+  border: 1px solid #0052A3;
+  border-top: none;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Question Grid Navigator Modal */
+.quiz-grid-modal {
+  position: fixed;
+  bottom: 70px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-card);
+  border: 2px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 1.25rem;
+  box-shadow: var(--shadow-lg);
+  width: 90%;
+  max-width: 600px;
+  z-index: 1000;
+}
+
+.grid-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.grid-buttons-wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(42px, 1fr));
+  gap: 0.5rem;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.grid-q-btn {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xs);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  height: 40px;
+  cursor: pointer;
+}
+
+.grid-q-btn:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.grid-q-btn.current {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px var(--primary);
+}
+
+.grid-q-btn.answered {
+  background: #E2E8F0;
+  color: #1E293B;
+  border-color: #94A3B8;
+}
+
+.grid-q-btn.flagged {
+  border-top: 4px solid var(--accent-rose);
+}
+
+/* ==========================================================================
+   USMLE LAB VALUES & CALCULATOR MODALS
+   ========================================================================== */
+.usmle-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal-dialog {
+  background: var(--bg-card);
+  border: 2px solid var(--border-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+  max-height: 85vh;
+  width: 90%;
+}
+
+.modal-dialog.labs-dialog {
+  max-width: 840px;
+}
+
+.modal-dialog.calc-dialog {
+  max-width: 320px;
+}
+
+.modal-dialog.notes-dialog {
+  max-width: 550px;
+}
+
+.modal-header {
+  background: #0F233D;
+  color: #FFFFFF;
+  padding: 0.75rem 1.25rem;
+  border-bottom: 2px solid #0052A3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: calc(var(--radius-md) - 2px) calc(var(--radius-md) - 2px) 0 0;
+}
+
+.modal-header h4 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.modal-close-btn {
+  background: transparent;
+  border: none;
+  color: #CBD5E1;
+  font-size: 1.3rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.modal-close-btn:hover {
+  color: #FFFFFF;
+}
+
+.modal-body {
+  padding: 1.25rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Lab Values Search & Table */
+.lab-search-bar {
+  margin-bottom: 1rem;
+}
+
+.lab-category-title {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--primary);
+  margin: 1rem 0 0.4rem 0;
+  padding-bottom: 0.25rem;
+  border-bottom: 1.5px solid var(--border-subtle);
+}
+
+.lab-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.lab-table td {
+  padding: 0.45rem 0.65rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.lab-name {
+  font-weight: 600;
+  color: var(--text-primary);
+  width: 45%;
+}
+
+.lab-range {
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+}
+
+/* Calculator Grid */
+.calc-display {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-xs);
+  padding: 0.75rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: right;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  min-height: 48px;
+}
+
+.calc-keys-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.45rem;
+}
+
+.calc-btn {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xs);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 0.75rem 0.5rem;
+  cursor: pointer;
+  color: var(--text-primary);
+}
+
+.calc-btn:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.calc-btn.op-btn {
+  background: #E2E8F0;
+  color: #0F233D;
+}
+
+.calc-btn.eq-btn {
+  background: var(--primary);
+  color: #FFFFFF;
+  border-color: var(--primary);
+}
+
+/* Notes Textarea */
+.notes-textarea {
+  width: 100%;
+  height: 180px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-sm);
+  padding: 0.75rem;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  color: var(--text-primary);
+  resize: vertical;
+}
+
+.notes-textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+/* ==========================================================================
+   Quiz Builder & Checklists
+   ========================================================================== */
+.quiz-builder-layout {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.filter-group {
+  margin-bottom: 1rem;
+}
+
+.filter-label {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.4rem;
+}
+
+.lecture-selection-box {
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  background: var(--bg-panel);
+}
+
+.lecture-sel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.sel-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.btn-link {
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
+
+.lecture-checklist {
+  max-height: 280px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.lecture-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  padding: 0.65rem 0.85rem;
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  cursor: pointer;
+  width: 100%;
+}
+
+.lecture-meta {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.lecture-name {
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--text-primary);
+}
+
+.lecture-count {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+}
+
+.grid-2col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.radio-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.radio-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  font-size: 0.88rem;
+  color: var(--text-primary);
+  cursor: pointer;
+  background: var(--bg-panel);
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+}
+
+.radio-label:hover {
+  border-color: var(--primary);
+}
+
+.quiz-start-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.count-input-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.count-input-wrap input {
+  width: 80px;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   Score Report View
+   ========================================================================== */
+.score-report-card {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2.5rem;
+}
+
+.score-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.score-metric {
+  background: var(--bg-panel);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 0.5rem;
+  border: 1px solid var(--border-subtle);
+}
+
+.metric-val {
+  font-size: 1.85rem;
+  font-weight: 800;
+  font-family: var(--font-mono);
+  color: var(--primary);
+  margin-bottom: 0.25rem;
+}
+
+.metric-lbl {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.score-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 900px) {
+  .app-header {
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+  }
+  .app-main {
+    padding: 1rem;
+  }
+  .dashboard-hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .score-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
