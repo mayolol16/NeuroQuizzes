@@ -1184,6 +1184,29 @@
 
   let secretBuffer = "";
   function setupGlobalShortcuts() {
+    // Mobile tap-to-unlock
+    const lockEl = document.getElementById("stealth-lock");
+    if (lockEl) {
+      const standbyText = lockEl.querySelector("h1");
+      
+      // Tap the brain logo to re-lock (for mobile)
+      const brainLogo = document.querySelector(".logo-icon");
+      if (brainLogo) {
+        brainLogo.addEventListener("click", () => {
+          lockEl.style.display = "flex";
+          document.getElementById("app").style.display = "none";
+          secretBuffer = "";
+        });
+      }
+
+      if (standbyText) {
+        standbyText.addEventListener("click", () => {
+          lockEl.style.display = "none";
+          document.getElementById("app").style.display = "flex";
+        });
+      }
+    }
+
     document.addEventListener("keydown", (e) => {
       // Secret Lock Listener
       const lockEl = document.getElementById("stealth-lock");
