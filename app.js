@@ -923,12 +923,54 @@
   }
 
   // 3. ACTIVE QUIZ EXECUTION ENGINE
+  function shuffleChoicesForQuestion(q) {
+    const letters = ["A", "B", "C", "D", "E", "F", "G", "H"];
+    const originalChoices = q.choices || {};
+    const keys = Object.keys(originalChoices).sort(); // A, B, C, D, E
+    if (keys.length === 0) return q;
+
+    // Shuffle the keys to determine the new order of values
+    const shuffledKeys = [...keys].sort(() => Math.random() - 0.5);
+    
+    const newChoices = {};
+    let newCorrect = q.correct;
+
+    keys.forEach((letter, index) => {
+      // The new position 'letter' gets the value from 'shuffledKeys[index]'
+      const sourceLetter = shuffledKeys[index];
+      newChoices[letter] = originalChoices[sourceLetter];
+      
+      // If the source letter was the correct answer, record its new position
+      if (sourceLetter === q.correct) {
+        newCorrect = letter;
+      }
+    });
+
+    return {
+      ...q,
+      choices: newChoices,
+      correct: newCorrect
+    };
+  }
+
   function startQuizWithQuestions(questions, mode, title, preRevealMode = false) {
     if (!questions || questions.length === 0) return;
 
+    // Deep clone and shuffle choices if not in review mode
+    const processedQuestions = questions.map(q => {
+      // If we're pre-revealing (reviewing past attempts), we probably shouldn't shuffle 
+      // because the user's past answer letter wouldn't match. 
+      // Actually, if we deep clone, we preserve original state. But since past answers 
+      // are stored by letter, we must NOT shuffle if we are reviewing a past test.
+      if (preRevealMode) {
+        return q; 
+      }
+      return shuffleChoicesForQuestion(q);
+    });
+
     State.activeQuiz = {
       mode: mode, // "tutor", "timed", "untimed"
-      questions: questions,
+      questions: processedQuestions,
       currentIndex: 0,
       userAnswers: {},
       revealed: {},

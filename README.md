@@ -1,4 +1,4 @@
-# IMC535 Neuroscience & Behavior USMLE Step 1 QBank 
+# IMC535 Neuroscience & Behavior USMLE Step 1 QBank
 
 An interactive board-style question bank web application designed for the University at Buffalo Jacobs School of Medicine **IMC535 Neuroscience & Behavior** curriculum, covering **Exams 1–4** and aligned with **First Aid 2025/2026**.
 
