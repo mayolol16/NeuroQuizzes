@@ -1182,8 +1182,39 @@
     }
   }
 
+  let secretBuffer = "";
   function setupGlobalShortcuts() {
     document.addEventListener("keydown", (e) => {
+      // Secret Lock Listener
+      const lockEl = document.getElementById("stealth-lock");
+      if (lockEl) {
+        // Keep track of last 4 keystrokes
+        if (e.key && e.key.length === 1) { // only alphanumeric keys
+          secretBuffer += e.key.toLowerCase();
+          if (secretBuffer.length > 4) {
+            secretBuffer = secretBuffer.slice(-4);
+          }
+        }
+        
+        // If locked, check for unlock code
+        if (lockEl.style.display !== "none") {
+          if (secretBuffer === "mark") {
+            lockEl.style.display = "none";
+            document.getElementById("app").style.display = "flex";
+            secretBuffer = ""; // reset
+          }
+          return; // block all other key commands while locked
+        } 
+        // If unlocked, check for lock code
+        else {
+          if (secretBuffer === "lock") {
+            lockEl.style.display = "flex";
+            document.getElementById("app").style.display = "none";
+            secretBuffer = ""; // reset
+            return;
+          }
+        }
+      }
       const activePanel = document.querySelector(".view-panel.active");
       if (!activePanel || activePanel.id !== "view-active-quiz") return;
 

@@ -1655,3 +1655,23 @@ body.theme-dark .exp-pearl-box {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* Stealth Lock Screen */
+#stealth-lock {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999999;
+}
+#stealth-lock .lock-content {
+  text-align: center;
+  user-select: none;
+  opacity: 0.6;
+}
