@@ -7,20 +7,20 @@ An interactive board-style question bank web application designed for the Univer
 ### Option 1: Direct Browser Open (Fastest, Zero Dependencies)
 Open `index.html` directly in your browser without running any server:
 ```bash
-open "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/index.html"
+open "/Users//Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/index.html"
 ```
 Or simply double-click **`index.html`** in Finder!
 
 ### Option 2: Using the One-Click Launcher
 In your terminal, run:
 ```bash
-"/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/start.sh"
+"/Users//Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/start.sh"
 ```
 This starts a local web server at `http://localhost:8081` and automatically opens your default browser.
 
 ### Option 3: Standard Python Web Server
 ```bash
-cd "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank"
+cd "/Users//Desktop/Med School/M2/Fall/IMC535 Neuro/qbank"
 python3 -m http.server 8081
 ```
 Then visit **`http://localhost:8081`** in Chrome, Safari, or Arc.
@@ -88,11 +88,6 @@ Create a `.md` file for each block of questions (e.g., `W2_D1_Neuroimaging.md`) 
 2. Use Regex to parse the questions, choices, and answers from the generated Markdown drafts.
 3. Validate that the new questions do not duplicate existing `id`s.
 4. Export the aggregated list to temporary `questions_out.json`, `los_out.json`, and `questions_data_out.js` files.
-5. Use the shell command `cp` to overwrite the existing files in the `/qbank` directory with the updated outputs:
-   ```bash
-   cp questions_out.json "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/questions.json"
-   cp questions_data_out.js "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/questions_data.js"
-   cp los_out.json "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/learning_objectives.json"
-   ```
+
 
 *Note: The script used to successfully ingest the Week 2 questions (Neuroimaging, DCML/Spinal Cord, and ALS/Pain) can be found in the Antigravity IDE `scratch` directory as `parse_md.py`.*
