@@ -14078,5 +14078,1325 @@
     "learning_objectives": [
       "LO_NEURO_E1_W2_DCML_05"
     ]
+  },
+  {
+    "id": "W2D4-CNT-001",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman is tested for tactile sensation on her cheek following dental surgery. Light touching of the right cheek with a wisp of cotton is perceived normally. Which nucleus in the brainstem houses the cell bodies of the second-order neurons that receive discriminative tactile, pressure, and vibratory inputs from the face?",
+    "choices": {
+      "A": "Main (principal) sensory nucleus of V in the mid-pons",
+      "B": "Spinal trigeminal nucleus in the caudal medulla",
+      "C": "Mesencephalic nucleus of V in the midbrain",
+      "D": "Motor nucleus of V in the pontine tegmentum",
+      "E": "Nucleus ambiguus in the rostral medulla"
+    },
+    "correct": "A",
+    "rationale": "Discriminative touch, vibration, and conscious pressure from the face are carried by primary pseudounipolar neurons whose cell bodies reside in the trigeminal (semilunar/Gasserian) ganglion. Their central axons enter the mid-pons via the sensory root of CN V and terminate directly in the main (principal) sensory nucleus of V, located in the dorsolateral pontine tegmentum. Second-order axons from this nucleus decussate and ascend in the ventral trigeminothalamic tract (trigeminal lemniscus) to the ventral posteromedial (VPM) nucleus of the thalamus.",
+    "pearl": "Trigeminal touch/vibration = Main (principal) sensory nucleus of V (mid-pons); Trigeminal pain/temperature = Spinal trigeminal nucleus (caudal medulla to C2).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-002",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man undergoes neurological testing. A cold metal tuning fork and a sterile pin are applied to his forehead (ophthalmic V1 distribution). Primary nociceptive and thermal sensory axons enter the brainstem at the mid-pons. What pathway do these primary afferent fibers traverse before synapsing on second-order neurons?",
+    "choices": {
+      "A": "Ascend in the medial longitudinal fasciculus to the Edinger-Westphal nucleus",
+      "B": "Descend through the spinal trigeminal tract to the spinal trigeminal nucleus in the medulla and upper cervical cord",
+      "C": "Cross immediately in the anterior white commissure to ascend in the spinothalamic tract",
+      "D": "Travel in the fasciculus cuneatus to the caudal closed medulla",
+      "E": "Ascend in the central tegmental tract to the red nucleus"
+    },
+    "correct": "B",
+    "rationale": "Primary afferent fibers for facial pain and temperature enter the mid-pons, do NOT synapse immediately, and instead form a descending tract called the spinal trigeminal tract. This tract travels caudally through the lateral pons and lateral medulla into the upper cervical spinal cord (down to C2), terminating somatotopically in the underlying spinal trigeminal nucleus (pars caudalis). Second-order axons then decussate and ascend to the VPM of the thalamus via the ventral trigeminothalamic tract.",
+    "pearl": "Facial pain and temperature fibers *descend* through the spinal trigeminal tract to the spinal trigeminal nucleus (medulla to C2) before crossing to the VPM.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-003",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A dental resident investigates the neural circuit of the jaw-jerk reflex. Tapping the chin with a reflex hammer elicits a brisk contraction of the masseter muscles. Uniquely in the entire human nervous system, where are the cell bodies of the primary sensory afferents mediating muscle spindle proprioception for the muscles of mastication located?",
+    "choices": {
+      "A": "Trigeminal ganglion (Gasserian ganglion)",
+      "B": "Otic ganglion",
+      "C": "Mesencephalic nucleus of V in the midbrain",
+      "D": "Motor nucleus of V in the pons",
+      "E": "Superior cervical sympathetic ganglion"
+    },
+    "correct": "C",
+    "rationale": "The mesencephalic nucleus of V (located in the lateral periaqueductal gray of the midbrain and rostral pons) is unique: it contains the cell bodies of primary sensory pseudounipolar neurons that failed to migrate out into peripheral sensory ganglia during embryonic neural crest development. These primary sensory neurons carry proprioceptive information from the muscle spindles of the muscles of mastication (masseter, temporalis) and periodontal ligaments. They send central axons that synapse directly on lower motor neurons in the motor nucleus of V, forming the monosynaptic jaw-jerk stretch reflex.",
+    "pearl": "Mesencephalic nucleus of V = ONLY location where primary sensory neuron cell bodies reside *inside* the CNS (mediates jaw proprioception and jaw-jerk reflex).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-004",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old woman with chronic rheumatoid arthritis develops localized peripheral tissue inflammation in her right wrist. Inflammatory mediators including bradykinin, prostaglandins, serotonin, histamine, substance P, and CGRP accumulate around primary nociceptors. What physiological change defines peripheral sensitization in this setting?",
+    "choices": {
+      "A": "Retrograde axonal transport of prions to the dorsal root ganglion",
+      "B": "Selective degeneration of unmyelinated C-fiber terminals",
+      "C": "Complete closure of voltage-gated sodium channels",
+      "D": "Lowering of the activation threshold of nociceptor terminal membranes and increased spontaneous firing",
+      "E": "Hyperpolarization of primary afferent terminals by GABA-B receptor activation"
+    },
+    "correct": "D",
+    "rationale": "Peripheral sensitization is an adaptive reduction in threshold and increase in responsiveness of peripheral nociceptors to thermal or mechanical stimuli. Inflammatory mediators (\"inflammatory soup\": bradykinin, prostaglandins, histamine, serotonin, CGRP, substance P, protons) bind to G-protein coupled receptors and ion channels on nociceptor terminals. Intracellular phosphorylation cascades lower the activation threshold of voltage-gated sodium channels (e.g., Nav1.8, Nav1.9) and TRPV1 channels, increasing membrane excitability and causing nociceptors to fire action potentials in response to subthreshold stimuli or fire spontaneously.",
+    "pearl": "Peripheral sensitization = Inflammatory mediators lower nociceptor activation thresholds $ ightarrow$ Increased responsiveness and spontaneous firing at the site of tissue injury.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-005",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with severe neuropathic pain following spinal cord trauma experiences persistent central sensitization. Repeated high-frequency nociceptive C-fiber bombardment of second-order dorsal horn neurons removes the resting magnesium block from postsynaptic ionotropic receptors, leading to massive calcium influx and long-term synaptic potentiation. Which postsynaptic receptor mediates this central wind-up phenomenon?",
+    "choices": {
+      "A": "GABA-A receptor",
+      "B": "Glycine receptor",
+      "C": "Muscarinic M1 receptor",
+      "D": "Nicotinic acetylcholine receptor",
+      "E": "N-methyl-D-aspartate (NMDA) receptor"
+    },
+    "correct": "E",
+    "rationale": "Central sensitization (\"wind-up\") occurs in second-order nociceptive neurons in the dorsal horn (and spinal trigeminal nucleus). Sustained C-fiber firing releases glutamate and substance P, causing prolonged membrane depolarization. This depolarization expels the voltage-dependent Mg2+ ion blocking the pore of NMDA receptors. Unblocked NMDA receptors allow substantial Ca2+ influx into the postsynaptic neuron, activating protein kinase C (PKC) and CaMKII, upregulating AMPA receptors, and causing long-term synaptic hyperexcitability. This manifests clinically as allodynia and hyperalgesia.",
+    "pearl": "Central sensitization / wind-up: Persistent depolarization expels the Mg2+ plug from *NMDA receptors* $ ightarrow$ Massive Ca2+ influx $ ightarrow$ Dorsal horn hyperexcitability.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-006",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 34-year-old man falls asleep with his arm draped awkwardly over the back of a wooden chair. Upon awakening, he notices an abnormal, non-painful \"pins-and-needles\" and prickling sensation spreading down his lateral forearm and hand that resolves completely within 5 minutes. What is the clinical term for this spontaneous, non-painful abnormal sensation generated within the nervous system?",
+    "choices": {
+      "A": "Paresthesia",
+      "B": "Dysesthesia",
+      "C": "Allodynia",
+      "D": "Hyperalgesia",
+      "E": "Formication"
+    },
+    "correct": "A",
+    "rationale": "Paresthesias are spontaneous, non-painful, abnormal sensations (such as tingling, prickling, numbness, or \"pins and needles\") arising from aberrant ectopic impulses along sensory fibers. Transient paresthesias are common when a nerve is temporarily compressed (ischemic conduction block, such as an arm \"falling asleep\"). In contrast, dysesthesias are unpleasant, abnormal sensations that are distinctly painful, irritating, or burning (e.g., burning acid sensation upon light touch).",
+    "pearl": "Paresthesia = Spontaneous, *non-painful* abnormal sensation (\"pins and needles\"); Dysesthesia = Unpleasant, *painful* or burning abnormal sensation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-007",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 58-year-old woman with diabetic neuropathy reports that when the cotton bedsheets lightly touch her bare toes at night, she experiences severe, unbearable burning agony. Neurological examination reveals that light brushing with a cotton wisp across her feet produces intense pain. What clinical term describes the perception of pain provoked by a normally non-painful, innocuous mechanical stimulus?",
+    "choices": {
+      "A": "Hyperalgesia",
+      "B": "Allodynia",
+      "C": "Paresthesia",
+      "D": "Phantom limb pain",
+      "E": "Hyperpathia"
+    },
+    "correct": "B",
+    "rationale": "Allodynia is defined as pain resulting from an innocuous stimulus that does not normally provoke pain (such as light stroking of the skin with a cotton swab or contact with a bedsheet). It is a cardinal sign of central sensitization, in which low-threshold A-beta tactile afferents abnormally activate sensitized second-order nociceptive pathways in the dorsal horn. In contrast, hyperalgesia is an increased, exaggerated pain response to a stimulus that is normally painful (e.g., a mild pinprick feeling like a stabbing knife).",
+    "pearl": "Allodynia = Pain from a *normally non-painful* stimulus (e.g., cotton swab or bedsheet); Hyperalgesia = *Exaggerated* pain from a mildly noxious stimulus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-008",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old man presents with progressive numbness, burning pain, and tingling in both feet that has gradually spread up to mid-calf over the past 2 years. Recently, he noticed similar tingling beginning in the tips of his fingers. Physical examination demonstrates bilateral, symmetric loss of pinprick, vibration, and temperature sensation below the ankles, with absent Achilles tendon reflexes. What is the characteristic anatomical distribution of this peripheral neuropathy?",
+    "choices": {
+      "A": "Radicular dermatomal distribution",
+      "B": "Mononeuritis multiplex patchy distribution",
+      "C": "Distal symmetric \"stocking-and-glove\" distribution",
+      "D": "Unilateral funicular distribution",
+      "E": "Alternating crossed hemisensory distribution"
+    },
+    "correct": "C",
+    "rationale": "The classic presentation of a distal symmetric polyneuropathy (most commonly caused by diabetes mellitus, chronic alcohol abuse, or chemotherapy) is a length-dependent, symmetrical \"stocking-and-glove\" pattern. Because the longest peripheral axons are the most metabolically vulnerable, symptoms begin in the distal lower extremities (toes and soles). As axonal degeneration progresses proximally to mid-calf, the nerves supplying the hands (the next longest axons) become affected, producing sensory loss in the fingers (\"stocking-and-glove\").",
+    "pearl": "Distal symmetric polyneuropathy = Length-dependent, symmetric \"stocking-and-glove\" distribution (starts in toes, ascends to calves, then affects fingers).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-009",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old woman with long-standing poorly controlled type 2 diabetes mellitus is evaluated for peripheral nerve complications. Sorbitol accumulation in Schwann cells has caused osmotic swelling and axonal ischemia. In peripheral neuropathies, which of the following triads represents the classic categories of symptoms that may develop?",
+    "choices": {
+      "A": "Cognitive decline, choreiform movements, and hyperphagia",
+      "B": "Visual field loss, bitemporal hemianopsia, and galactorrhea",
+      "C": "Intentional tremor, scanning speech, and nystagmus",
+      "D": "Sensory (numbness, paresthesias), motor (weakness, hyporeflexia), and autonomic (orthostasis, gastroparesis) deficits",
+      "E": "Resting tremor, cogwheel rigidity, and bradykinesia"
+    },
+    "correct": "D",
+    "rationale": "Peripheral polyneuropathies can affect three functional nerve fiber modalities: (1) Sensory deficits (most common initial manifestation): numbness, paresthesias, dysesthesias, burning pain, allodynia, loss of vibration/proprioception; (2) Motor deficits (lower motor neuron involvement): distal weakness, muscle atrophy, fasciculations, loss of deep tendon reflexes (e.g., absent ankle jerks), foot drop; and (3) Autonomic deficits: orthostatic hypotension, gastroparesis, resting tachycardia, neurogenic bladder, anhidrosis, and erectile dysfunction.",
+    "pearl": "Triad of polyneuropathy manifestations: Sensory (burning/numbness) + Motor (LMN weakness/hyporeflexia) + Autonomic (orthostasis/gastroparesis).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-010",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old man undergoes workup for severe peripheral neuropathy. Nerve biopsy and electrophysiological studies confirm a primary axonopathy (axonal neuropathy). Which of the following etiologies is the most common cause of distal axonal polyneuropathy in clinical practice?",
+    "choices": {
+      "A": "Guillain-Barr\u00e9 syndrome (AIDP)",
+      "B": "Charcot-Marie-Tooth disease type 1A",
+      "C": "Chronic inflammatory demyelinating polyneuropathy (CIDP)",
+      "D": "Acute intermittent porphyria",
+      "E": "Diabetes mellitus"
+    },
+    "correct": "E",
+    "rationale": "Diabetes mellitus is the most common cause of peripheral axonal polyneuropathy in the developed world. Other common causes of axonal polyneuropathy include chronic alcohol abuse, neurotoxic medications (vincristine, paclitaxel), vitamin B12 deficiency, and heavy metal exposure. In contrast, Guillain-Barr\u00e9 syndrome (AIDP), CIDP, and Charcot-Marie-Tooth type 1A are primary *demyelinating* neuropathies.",
+    "pearl": "Most common axonal neuropathy = Diabetes mellitus (metabolic/microvascular axonal injury); Most common acquired demyelinating neuropathy = Guillain-Barr\u00e9 syndrome.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-011",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old woman develops rapidly progressive symmetric muscle weakness in her legs that ascends over 4 days to involve her arms and facial muscles, accompanied by loss of all deep tendon reflexes. Nerve conduction studies demonstrate marked slowing of conduction velocities, prolonged distal latencies, and conduction blocks, with preserved compound muscle action potential amplitudes upon distal stimulation. What type of peripheral neuropathy does this patient have?",
+    "choices": {
+      "A": "Demyelinating neuropathy",
+      "B": "Primary axonal neuropathy",
+      "C": "Sensory neuronopathy (ganglionopathy)",
+      "D": "Motor neuron disease",
+      "E": "Neuromuscular transmission defect"
+    },
+    "correct": "A",
+    "rationale": "The patient has Guillain-Barr\u00e9 syndrome (acute inflammatory demyelinating polyneuropathy, AIDP), the prototypical acute demyelinating neuropathy. In demyelinating neuropathies, autoimmune or genetic damage targets Schwann cells and myelin sheaths. Electrophysiologically, this results in: (1) marked reduction in nerve conduction velocity (NCV); (2) prolonged distal motor and sensory latencies; (3) temporal dispersion and conduction blocks; and (4) relative preservation of initial amplitudes upon distal stimulation. Remyelination can occur over weeks to months, allowing clinical recovery.",
+    "pearl": "Demyelinating neuropathy (e.g., GBS, CIDP) = Severe slowing of NCV, prolonged latencies, and conduction blocks due to myelin breakdown.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-012",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 56-year-old woman undergoing chemotherapy with cisplatin for ovarian cancer develops severe, non-length-dependent sensory ataxia, profound loss of vibration and joint position sense, and generalized areflexia. Muscle strength remains 5/5 in all extremities, and pain/temperature sensation is relatively spared. Electrophysiological testing confirms sensory neuronopathy (ganglionopathy). Which anatomical structure is the primary site of cellular damage in a sensory neuronopathy?",
+    "choices": {
+      "A": "Ventral horn alpha motor neurons",
+      "B": "Dorsal root ganglion cell bodies",
+      "C": "Intermediolateral cell column in the lateral horn",
+      "D": "Schwann cells in the distal cutaneous terminals",
+      "E": "Postsynaptic densities in the VPL thalamus"
+    },
+    "correct": "B",
+    "rationale": "A sensory neuronopathy (also called sensory ganglionopathy) is caused by direct destruction of the primary sensory pseudounipolar cell bodies within the dorsal root ganglia (DRG). Because the blood-nerve barrier is permeable at the DRG, it is uniquely vulnerable to toxins (e.g., cisplatin, high-dose pyridoxine/vitamin B6 toxicity) and autoimmune attack (e.g., paraneoplastic anti-Hu antibodies in small-cell lung cancer, Sj\u00f6gren syndrome). It presents with profound, generalized, non-length-dependent loss of proprioception and vibration (sensory ataxia), with intact motor strength.",
+    "pearl": "Sensory neuronopathy (ganglionopathy) = Destruction of *dorsal root ganglion cell bodies* (cisplatin toxicity, Sj\u00f6gren syndrome, anti-Hu antibodies).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-013",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old strict vegan who has not consumed animal products or vitamin supplements for 8 years presents with fatigue, paresthesias in both feet, and sensory ataxia. Laboratory testing confirms megaloblastic anemia and severe cobalamin deficiency. Which of the following is a recognized physiological cause of vitamin B12 deficiency resulting from gastrointestinal malabsorption?",
+    "choices": {
+      "A": "Dietary excess of ascorbic acid displacing cobalamin",
+      "B": "Ingestion of uncooked freshwater salmon infected with Anisakis",
+      "C": "Pernicious anemia due to autoimmune destruction of gastric parietal cells and loss of intrinsic factor",
+      "D": "Hyperchlorhydria from Zollinger-Ellison gastrinomas",
+      "E": "Selective upregulation of cubilin receptors in the duodenum"
+    },
+    "correct": "C",
+    "rationale": "Vitamin B12 (cobalamin) requires gastric acid and pepsin to detach from dietary protein, binds salivary R-protein (haptocorrin), is freed by pancreatic proteases in the duodenum, and then binds intrinsic factor (IF) secreted by gastric parietal cells. The IF-B12 complex is absorbed via cubilin receptors in the terminal ileum. Causes of deficiency include: (1) Inadequate intake: strict unsupplemented veganism; (2) Gastric failure: pernicious anemia (autoantibodies against parietal cells or intrinsic factor) and bariatric gastrectomy; (3) Pancreatic insufficiency (cannot cleave R-protein); (4) Ileal disease: Crohn disease, surgical ileal resection; and (5) Diphyllobothrium latum (fish tapeworm) competition.",
+    "pearl": "Vitamin B12 absorption requires: Gastric parietal cells (Intrinsic Factor) + Pancreatic enzymes + Terminal ileum (cubilin receptors).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-014",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man presents with sharp, lancinating pain triggered by chewing, shaving, or touching his right upper lip and cheek. The pain is electric-shock-like, lasting a few seconds, and recurs dozens of times daily. MRI of the brain reveals a redundant loop of the superior cerebellar artery compressing the root entry zone of the right fifth cranial nerve. What is the first-line medical therapy for this disorder?",
+    "choices": {
+      "A": "Intravenous methylprednisolone",
+      "B": "Subcutaneous sumatriptan",
+      "C": "High-dose oral indomethacin",
+      "D": "Oral carbamazepine",
+      "E": "Oral pyridostigmine"
+    },
+    "correct": "D",
+    "rationale": "The patient has Trigeminal Neuralgia (tic douloureux), most commonly caused by neurovascular compression of the CN V root entry zone by the superior cerebellar artery. This produces focal demyelination and ectopic ephaptic transmission between tactile and nociceptive fibers. Carbamazepine, a voltage-gated sodium channel blocker that stabilizes hyperexcitable neuronal membranes, is the first-line medication of choice.",
+    "pearl": "Trigeminal neuralgia = Neurovascular compression of CN V root entry zone by superior cerebellar artery; First-line treatment = Carbamazepine.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-015",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man undergoes neurological evaluation following an ischemic stroke. While touching a wisp of cotton to his right cornea fails to elicit an eye blink, touching the cotton to his LEFT cornea produces a brisk, immediate bilateral blink of both eyes. In which nerve and limb of the corneal reflex is the deficit located?",
+    "choices": {
+      "A": "Left ophthalmic nerve (V1) afferent limb",
+      "B": "Left facial nerve (CN VII) efferent limb",
+      "C": "Right facial nerve (CN VII) efferent limb",
+      "D": "Right oculomotor nerve (CN III) motor output",
+      "E": "Right ophthalmic nerve (V1) afferent limb"
+    },
+    "correct": "E",
+    "rationale": "The corneal blink reflex consists of: (1) Afferent limb: Trigeminal nerve, ophthalmic division (CN V1), carrying sensory input to the spinal trigeminal nucleus; (2) Interneurons: Bilateral projections through the pontine reticular formation to the motor facial nuclei; and (3) Efferent limb: Facial nerve (CN VII) bilaterally, causing contraction of the orbicularis oculi muscles (direct and consensual blinks). Because stimulating the right cornea produces NO response in either eye (0/2), the afferent limb on the right (right V1) is severed. In contrast, stimulating the left cornea produces a normal bilateral response, proving that both efferent facial nerves (right and left VII) are completely intact.",
+    "pearl": "Corneal reflex: Afferent = CN V1; Efferent = CN VII (bilateral orbicularis oculi). Stimulating right eye $ ightarrow$ no blinks, stimulating left eye $ ightarrow$ both blink = Right V1 afferent lesion.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-016",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient presents with complete sensory loss across the forehead, upper eyelid, and dorsum of the nose on the right side. The remainder of his face, including his cheek, upper lip, and jaw, has completely normal sensation. The lesion is localized to the peripheral branching of the fifth cranial nerve. Which cranial exit foramen does the affected division of the trigeminal nerve traverse to exit the skull?",
+    "choices": {
+      "A": "Superior orbital fissure",
+      "B": "Foramen rotundum",
+      "C": "Foramen ovale",
+      "D": "Jugular foramen",
+      "E": "Internal acoustic meatus"
+    },
+    "correct": "A",
+    "rationale": "The three divisions of the trigeminal nerve (CN V) exit the middle cranial fossa through three distinct skull openings: (1) V1 (Ophthalmic nerve): traverses the Superior Orbital Fissure into the orbit (sensory to forehead, cornea, upper eyelid, dorsum of nose); (2) V2 (Maxillary nerve): traverses the Foramen Rotundum into the pterygopalatine fossa (sensory to cheek, lower eyelid, upper lip, palate); (3) V3 (Mandibular nerve): traverses the Foramen Ovale into the infratemporal fossa (sensory to jaw, lower lip, anterior 2/3 tongue, chin; motor to muscles of mastication).",
+    "pearl": "Trigeminal skull exit mnemonics: V1 = Superior Orbital Fissure; V2 = Foramen Rotundum (Round = 2); V3 = Foramen Ovale (Oval = 3).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-017",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man undergoes examination of the motor division of the trigeminal nerve. When asked to open his jaw against resistance, his mandible deviates markedly to the left side. He also has atrophy of the left temporalis muscle. Which muscle of mastication normally protrudes the jaw forward, and on which side is this muscle paralyzed in this patient?",
+    "choices": {
+      "A": "Right medial pterygoid muscle",
+      "B": "Left lateral pterygoid muscle",
+      "C": "Left masseter muscle",
+      "D": "Right buccinator muscle",
+      "E": "Left temporalis muscle"
+    },
+    "correct": "B",
+    "rationale": "The muscles of mastication are innervated by the motor root of the mandibular nerve (CN V3): temporalis, masseter, medial pterygoid, and lateral pterygoid. The lateral pterygoid muscle is primarily responsible for protruding and opening the mandible. During jaw opening, bilateral lateral pterygoids push the jaw straight forward. When one lateral pterygoid is paralyzed (here, the left lateral pterygoid), the intact contralateral muscle (right lateral pterygoid) pushes unopposed, causing the jaw to deviate TOWARD the side of the lesion (deviates to the weak left side).",
+    "pearl": "Unilateral CN V3 motor lesion: Jaw deviates *toward the side of the lesion* upon opening due to unopposed action of the contralateral lateral pterygoid muscle.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-018",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 26-year-old woman presents with numbness on the right side of her face. Sensory examination confirms complete loss of light touch, pinprick, and temperature over the right forehead, right cheek, and right jaw. In addition, corneal reflex is absent on the right. Motor strength of the muscles of mastication is normal. Brain MRI demonstrates an acoustic neuroma (vestibular schwannoma) in the right cerebellopontine angle compressing adjacent neurovascular structures. Where are the primary sensory cell bodies of the fibers compressed by this tumor located?",
+    "choices": {
+      "A": "Geniculate ganglion",
+      "B": "Otic ganglion",
+      "C": "Trigeminal (semilunar/Gasserian) ganglion",
+      "D": "Pterygopalatine ganglion",
+      "E": "Submandibular ganglion"
+    },
+    "correct": "C",
+    "rationale": "Somatosensory fibers for all three divisions of the face (V1 ophthalmic, V2 maxillary, V3 mandibular) have their pseudounipolar primary sensory cell bodies located in the trigeminal (semilunar or Gasserian) ganglion, situated in Meckel\\'s cave in the middle cranial fossa. The central axons form the sensory root of CN V, which traverses the cerebellopontine angle into the mid-pons. Compression of this sensory root by a large vestibular schwannoma impairs all sensory modalities across all three trigeminal divisions on the ipsilateral face.",
+    "pearl": "Primary sensory cell bodies for facial touch, pain, and temperature are located in the *Trigeminal (Gasserian) ganglion* in Meckel\\'s cave.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-019",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher studies the somatotopic organization of the spinal trigeminal nucleus (pars caudalis) in the caudal medulla. Nociceptive afferents from the face enter the spinal trigeminal tract and terminate in a unique concentric arrangement reminiscent of \"onion-skin\" rings. Lesions in the upper cervical cord (C2 level) involving the caudal-most portion of the spinal trigeminal nucleus cause sensory loss in which concentric zone of the face?",
+    "choices": {
+      "A": "Central perioral area and lips only",
+      "B": "Forehead and upper eyelids only",
+      "C": "Medial cheek and maxillary region",
+      "D": "Outermost perimeter of the face near the hairline, ears, and angle of the jaw",
+      "E": "Tongue and buccal mucosa exclusively"
+    },
+    "correct": "D",
+    "rationale": "The spinal trigeminal nucleus exhibits an \"onion-skin\" (concentric ring) somatotopy: the rostral portion of the spinal trigeminal nucleus (pars oralis and interpolaris) receives inputs from the central face (perioral area, lips, nose). As the nucleus descends caudally into the medulla and upper cervical cord (pars caudalis, down to C2), the representation shifts progressively outward toward the periphery of the face. Thus, a lesion in the caudal-most part of the spinal trigeminal nucleus (at C2) produces loss of pain and temperature in the outermost concentric zone of the face (lateral cheek, ears, jawline, hairline), sparing the perioral region (\"onion-skin sensory loss\").",
+    "pearl": "\"Onion-skin\" somatotopy of spinal trigeminal nucleus: Rostral = central perioral face; Caudal (down to C2) = outermost lateral face and jawline.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-CNT-020",
+    "topic": "Trigeminal Somatosensory Pathways",
+    "lecture": "4.1 Trigeminal Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old man undergoes cross-sectional neuroimaging following a brainstem stroke. Which of the following ascending somatosensory pathways transmits secondary tactile, vibratory, and pain information from the trigeminal nuclei to the ventral posteromedial (VPM) nucleus of the thalamus?",
+    "choices": {
+      "A": "Medial lemniscus",
+      "B": "Lateral spinothalamic tract",
+      "C": "Dorsal spinocerebellar tract",
+      "D": "Spinoreticular tract",
+      "E": "Ventral trigeminothalamic tract (trigeminal lemniscus)"
+    },
+    "correct": "E",
+    "rationale": "Second-order neurons in the main sensory nucleus of V (tactile) and the spinal trigeminal nucleus (pain/temperature) project axons that decussate across the brainstem tegmentum and ascend as the ventral trigeminothalamic tract (also called the trigeminal lemniscus). This tract ascends adjacent to the medial lemniscus and terminates in the ventral posteromedial (VPM) nucleus of the thalamus. Third-order thalamocortical fibers then project via the posterior limb of the internal capsule to the face area of the primary somatosensory cortex (lateral postcentral gyrus).",
+    "pearl": "Facial somatosensory highway: Main/Spinal trigeminal nuclei $ ightarrow$ *Ventral trigeminothalamic tract* (decussates) $ ightarrow$ VPM of thalamus $ ightarrow$ S1 face area.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-001",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man undergoes neurological testing following an industrial accident. On sensory examination, he has complete loss of sharp pinprick and temperature sensation extending from the horizontal level of the nipples down across the entire left side of his body, including the left lower extremity. Sensation on the right side of his body and face is entirely normal, and vibration perception is intact bilaterally. Where is the most likely location of the lesion causing this deficit?",
+    "choices": {
+      "A": "Right anterolateral system (spinothalamic tract) at the T2 spinal cord level",
+      "B": "Left anterolateral system at the T4 spinal cord level",
+      "C": "Right dorsal column at the T4 spinal cord level",
+      "D": "Left ventral horn at the T2 spinal cord level",
+      "E": "Right primary somatosensory cortex in the paracentral lobule"
+    },
+    "correct": "A",
+    "rationale": "The landmark dermatome for the nipple line is T4 (\"T4 at the teat\"). Primary nociceptive afferents enter the spinal cord, ascend 1 to 2 segments in Lissauer\\'s tract, synapse in the dorsal horn, and their second-order axons cross the anterior white commissure to ascend in the contralateral anterolateral system (spinothalamic tract). Therefore, a sensory level of pinprick loss on the left side of the body starting at T4 localizes to a lesion in the *contralateral* (RIGHT) spinothalamic tract approximately 1\u20132 segments *above* the sensory level, which corresponds to the T2 spinal cord level.",
+    "pearl": "Loss of pinprick sensation on one side of the body below a specific dermatome indicates a lesion in the *contralateral* spinothalamic tract 1\u20132 segments *above* that dermatomal level.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-002",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 33-year-old construction worker presents with sudden onset of lower back pain while lifting heavy equipment. The pain radiates down the posterolateral aspect of his left calf into the dorsum of his left foot and great toe. He describes tingling and numbness along the lateral calf extending to the medial three toes. The pain intensifies significantly when coughing or straining during bowel movements (Valsalva maneuver). Physical examination demonstrates decreased pinprick and vibration sensation over the left lateral calf and dorsum of the foot, with weakness of great toe extension (extensor hallucis longus). Deep tendon reflexes at the patella and Achilles are normal and symmetric. What is the most likely location of the lesion?",
+    "choices": {
+      "A": "L3\u2013L4 disc herniation compressing the L4 nerve root",
+      "B": "L4\u2013L5 disc herniation compressing the traversing L5 nerve root",
+      "C": "L5\u2013S1 disc herniation compressing the traversing S1 nerve root",
+      "D": "S1\u2013S2 disc herniation compressing the S2 nerve root",
+      "E": "Sciatic nerve entrapment under the piriformis muscle"
+    },
+    "correct": "B",
+    "rationale": "This case represents an L5 radiculopathy, most commonly caused by a posterolateral intervertebral disc herniation at the L4\u2013L5 space compressing the traversing L5 nerve root. Hallmarks of L5 radiculopathy: (1) pain radiating down the lateral leg to the dorsum of the foot and great toe; (2) sensory loss over the L5 dermatome (lateral calf, dorsum of foot, medial 3 toes); (3) weakness of toe extension (extensor hallucis longus) and ankle dorsiflexion (tibialis anterior); and (4) normal, preserved patellar (L4) and Achilles (S1) deep tendon reflexes. Symptoms worsen with Valsalva maneuvers because increased intra-abdominal pressure raises intrathecal CSF pressure and compresses the inflamed root.",
+    "pearl": "L4\u2013L5 disc herniation $ ightarrow$ L5 radiculopathy: Sensory loss over dorsum of foot and big toe, weak toe extension (EHL), normal patellar and Achilles reflexes.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-003",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old weightlifter presents with a 3-month history of left shoulder and arm pain that radiates down his lateral forearm into his thumb. Neurological examination reveals a diminished biceps deep tendon reflex (1+) on the left compared to the right (2+), with decreased pinprick and vibration sensation strictly along the lateral aspect of the left arm, forearm, and thumb. Strength of wrist extension is 4/5. What is the likely location and etiology of this lesion?",
+    "choices": {
+      "A": "Compression of the radial nerve in the spiral groove",
+      "B": "Entrapment of the median nerve at the pronator teres",
+      "C": "C5\u2013C6 disc herniation compressing the left C6 spinal nerve root",
+      "D": "Left C7 radiculopathy from C6\u2013C7 osteophyte",
+      "E": "Avulsion of the upper trunk of the brachial plexus"
+    },
+    "correct": "C",
+    "rationale": "The patient exhibits classic signs of a C6 radiculopathy (commonly caused by a C5\u2013C6 disc herniation or spondylosis): (1) sensory loss/pain in the C6 dermatome (lateral shoulder, lateral arm, lateral forearm, and thumb/digit 1); (2) motor weakness of wrist extension and elbow flexion; and (3) diminished biceps reflex (C5\u2013C6). In contrast, C7 radiculopathy produces middle finger numbness, triceps weakness, and loss of the triceps reflex.",
+    "pearl": "C5\u2013C6 disc herniation compresses the C6 root: Numbness of lateral forearm and thumb, weakness of wrist extension, diminished biceps reflex.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-004",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old woman is brought to the emergency department after sustaining an accidental penetrating stab wound to the right side of her neck that penetrated the spinal cord at the C4 level (Brown-S\u00e9quard syndrome). When evaluating her somatosensory deficits, which of the following sensory patterns will be observed below the level of the injury?",
+    "choices": {
+      "A": "Loss of touch and vibration on the left side; Loss of pain and temperature on the right side",
+      "B": "Bilateral loss of pain and temperature with complete sparing of touch and vibration",
+      "C": "Bilateral loss of all sensory modalities from C4 downward",
+      "D": "Loss of touch and vibration on the right side; Loss of pain and temperature on the left side",
+      "E": "Loss of pain and temperature on the face with sparing of the body"
+    },
+    "correct": "D",
+    "rationale": "In a hemisection of the right cervical spinal cord (Brown-S\u00e9quard syndrome): (1) The right dorsal columns (fasciculus gracilis and cuneatus) are severed, abolishing discriminative touch, vibration, and conscious proprioception on the *ipsilateral* (RIGHT) side of the body below the lesion; (2) The right anterolateral system (spinothalamic tract) is severed; because spinothalamic fibers cross in the spinal cord near their level of entry, this causes loss of pain and temperature on the *contralateral* (LEFT) side of the body, starting approximately 1\u20132 segments below the lesion level (C5\u2013C6 downward).",
+    "pearl": "Brown-S\u00e9quard syndrome: *Ipsilateral* loss of touch, vibration, and proprioception (dorsal columns) + *Contralateral* loss of pain and temperature (ALS).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-005",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In the patient with a right C4 spinal cord hemisection from a penetrating stab wound, the knife also severed the right dorsal root entry zone and the dorsolateral fasciculus of Lissauer precisely at the C4 level. What sensory deficit will occur strictly at the C4 dermatome on the right side?",
+    "choices": {
+      "A": "Selective preservation of pinprick with loss of vibration",
+      "B": "Hyperesthesia to cold with intact proprioception",
+      "C": "Total loss of tactile sensation with preserved pain",
+      "D": "No sensory deficit because collateral branches compensate completely",
+      "E": "Complete loss of all sensory modalities (light touch, vibration, proprioception, pain, and temperature) in the right C4 dermatome"
+    },
+    "correct": "E",
+    "rationale": "At the precise segmental level of a spinal cord hemisection where the injury penetrates the dorsal root entry zone and dorsal horn, both the primary tactile fibers entering the dorsal columns and the primary pain/temperature fibers entering the dorsal horn/Lissauer\\'s tract are severed before they can ascend or cross. Consequently, there is a complete \"band\" of total anesthesia (loss of all sensory modalities: touch, vibration, proprioception, pain, and temperature) strictly confined to the ipsilateral dermatome at the level of the lesion (right C4 dermatome).",
+    "pearl": "At the exact level of a spinal hemisection: Complete ipsilateral loss of *all* sensations (band of anesthesia) due to destruction of incoming primary root fibers.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-006",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A medical student asks why the \"dissociated sensory loss\" seen in a spinal cord hemisection (ipsilateral touch loss with contralateral pain loss) CANNOT be produced by a single isolated lesion within the cerebral cortex or upper brainstem. Which neuroanatomical fact explains this principle?",
+    "choices": {
+      "A": "Above the caudal medulla, both the DCML (medial lemniscus) and ALS (spinothalamic tract) have already decussated and ascend together on the contralateral side",
+      "B": "Cerebral cortex lesions only affect motor neurons and never impair sensory modalities",
+      "C": "The thalamus contains bilateral representations of both pain and touch on a single side",
+      "D": "Dorsal column fibers do not reach the cerebral cortex",
+      "E": "Spinothalamic fibers decussate in the corpus callosum"
+    },
+    "correct": "A",
+    "rationale": "In the spinal cord, tactile/proprioceptive fibers ascend uncrossed on the ipsilateral side, while pain/temperature fibers cross almost immediately and ascend on the contralateral side. Thus, a hemicord lesion separates the two systems (ipsilateral touch loss, contralateral pain loss). In contrast, once fibers reach the rostral medulla, the DCML system decussates (internal arcuate fibers). Above the medulla (in the pons, midbrain, thalamic VPL, internal capsule, and somatosensory cortex), BOTH the medial lemniscus and spinothalamic tract run on the *same* (contralateral) side of the neuroaxis. Therefore, a single lesion in the upper brainstem or cerebral hemisphere produces *contralateral* loss of *both* touch and pain together.",
+    "pearl": "\"Dissociated sidedness\" (ipsilateral touch loss + contralateral pain loss) can *only* occur from a spinal cord lesion; above the medulla, all body sensory tracts run together contralaterally.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-007",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 54-year-old woman is seen in the pain clinic 3 months after sustaining fractures of the right scaphoid and radial head following a fall while playing pickleball. The bony fractures healed satisfactorily, but she now presents with severe, burning pain in the right hand. Light brushing of her right hand with a soft cloth causes intense agony (allodynia), and gentle pinprick testing produces excruciating, prolonged pain (hyperalgesia). The right hand is visibly edematous, erythematous, warm, and shows hyperhidrosis and limited range of motion. What clinical diagnosis best fits this presentation?",
+    "choices": {
+      "A": "Rheumatoid arthritis of the carpal joints",
+      "B": "Complex regional pain syndrome (CRPS) with peripheral and central sensitization",
+      "C": "Diabetic distal symmetric polyneuropathy",
+      "D": "Carpal tunnel syndrome",
+      "E": "Ulnar nerve entrapment at Guyon canal"
+    },
+    "correct": "B",
+    "rationale": "Complex Regional Pain Syndrome (CRPS, formerly reflex sympathetic dystrophy) is a chronic neuropathic pain disorder that typically develops after a fracture, sprain, or surgery in an extremity. It is driven by both peripheral sensitization (neurogenic inflammation, release of substance P and CGRP causing warmth, redness, and edema) and central sensitization (NMDA-mediated dorsal horn hyperexcitability). Hallmarks include: (1) pain disproportionate to the inciting event; (2) allodynia (pain from light brushing) and hyperalgesia (exaggerated pain from pinprick); and (3) autonomic/trophic changes (swelling, erythema, altered skin temperature, sweating, trophic nail/hair changes, and motor disability).",
+    "pearl": "Complex Regional Pain Syndrome (CRPS) = Post-traumatic neuropathic pain with allodynia, hyperalgesia, edema, erythema, and autonomic/trophic skin changes.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-008",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Chris, a 30-year-old professional ballet dancer, presents with progressive balance difficulties and fatigue. He states that while dancing, his feet feel numb, and he feels unsteady when closing his eyes. His surgical history is notable for a surgical bowel resection 7 years ago for severe Crohn\\'s disease. On examination, he has conjunctival pallor, a smooth beefy red tongue, diminished vibration perception in both legs and hands, impaired proprioception, and a positive Romberg sign. Labs reveal: MCV 110 fL, hemoglobin 9.0 g/dL, and serum vitamin B12 100 pg/mL (normal 160\u2013950 pg/mL). Which anatomical portion of the gastrointestinal tract was resected in this patient, causing his neurological syndrome?",
+    "choices": {
+      "A": "Duodenum",
+      "B": "Proximal jejunum",
+      "C": "Terminal ileum",
+      "D": "Descending colon",
+      "E": "Gallbladder"
+    },
+    "correct": "C",
+    "rationale": "Vitamin B12 (cobalamin) bound to intrinsic factor is exclusively absorbed in the *terminal ileum* via cubilin receptors. Crohn disease frequently involves the terminal ileum (terminal ileitis), and surgical resection of the terminal ileum removes the specialized transport sites, leading to complete inability to absorb oral vitamin B12. After liver stores are depleted (typically over 3\u20135 years), severe cobalamin deficiency manifests as megaloblastic anemia (MCV 110, beefy red atrophic glossitis) and subacute combined degeneration (SCD) of the spinal cord (dorsal column loss: impaired vibration/proprioception, sensory ataxia, positive Romberg).",
+    "pearl": "Terminal ileum resection (Crohn disease) $ ightarrow$ Vitamin B12 malabsorption $ ightarrow$ Megaloblastic macrocytic anemia + Subacute Combined Degeneration.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-009",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A peripheral blood smear is examined from the 30-year-old dancer with macrocytic anemia (MCV 110 fL) and vitamin B12 deficiency resulting from ileal resection. Which of the following classic morphologic abnormalities is characteristic of megaloblastic anemia on a peripheral blood smear?",
+    "choices": {
+      "A": "Microcytic, hypochromic target cells",
+      "B": "Spherocytes with increased osmotic fragility",
+      "C": "Bite cells and Heinz bodies",
+      "D": "Hypersegmented neutrophils (neutrophils with 6 or more nuclear lobes) and macroovalocytes",
+      "E": "Sickle-shaped erythrocytes and Howell-Jolly bodies"
+    },
+    "correct": "D",
+    "rationale": "Megaloblastic anemia (due to vitamin B12 or folate deficiency) is caused by impaired DNA synthesis, leading to nuclear-cytoplasmic dyssynchrony. On peripheral blood smear, the pathognomonic finding is hypersegmented neutrophils (neutrophils containing 6 or more nuclear lobes, or $>5\\%$ of neutrophils with 5 lobes). In addition, red blood cells appear as large, oval-shaped macroovalocytes with an elevated mean corpuscular volume (MCV $>100$ fL).",
+    "pearl": "Megaloblastic anemia peripheral blood smear: *Hypersegmented neutrophils* ($\\ge 6$ lobes) and *macroovalocytes*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-010",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Medical students utilize the mnemonic \"Some Say Marry Money But My Brother Says Big Brains Matter More\" to classify the functional modalities of cranial nerves I through XII (where S = Sensory, M = Motor, B = Both sensory and motor). Which of the following cranial nerves contains BOTH somatic sensory and somatic motor fibers?",
+    "choices": {
+      "A": "CN II (Optic nerve)",
+      "B": "CN IV (Trochlear nerve)",
+      "C": "CN VI (Abducens nerve)",
+      "D": "CN VIII (Vestibulocochlear nerve)",
+      "E": "CN V (Trigeminal nerve)"
+    },
+    "correct": "E",
+    "rationale": "Using the classic cranial nerve functional mnemonic: - CN I (Sensory - Some) - CN II (Sensory - Say) - CN III (Motor - Marry) - CN IV (Motor - Money) - CN V (Both - But) $ ightarrow$ Sensory to face/teeth; Motor to muscles of mastication! - CN VI (Motor - My) - CN VII (Both - Brother) $ ightarrow$ Taste/somatosensory; Motor to muscles of facial expression! - CN VIII (Sensory - Says) - CN IX (Both - Big) $ ightarrow$ Visceral/taste/somatosensory; Motor to stylopharyngeus! - CN X (Both - Brains) $ ightarrow$ Visceral/somatosensory; Motor to pharynx/larynx/viscera! - CN XI (Motor - Matter) - CN XII (Motor - More) The cranial nerves with \"Both\" (mixed) sensory and motor functions are CN V, VII, IX, and X.",
+    "pearl": "Mixed (Both sensory and motor) cranial nerves: CN V, CN VII, CN IX, and CN X (\"Big Brains\").",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-011",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old woman with chronic poorly controlled type 2 diabetes mellitus is diagnosed with diabetic polyneuropathy, diabetic retinopathy, and diabetic nephropathy. Intracellular hyperglycemia in peripheral nerves leads to enzymatic conversion of glucose to sorbitol via aldose reductase. Which biochemical deficiency in Schwann cells and the lens explains why sorbitol accumulates to toxic levels in these tissues?",
+    "choices": {
+      "A": "Low or absent sorbitol dehydrogenase activity",
+      "B": "Complete absence of hexokinase",
+      "C": "Upregulation of galactokinase",
+      "D": "Depletion of glycogen phosphorylase",
+      "E": "Mitochondrial deficiency of pyruvate dehydrogenase"
+    },
+    "correct": "A",
+    "rationale": "In the polyol pathway, excess intracellular glucose is reduced by aldose reductase to sorbitol using NADPH. Normally, sorbitol is then oxidized to fructose by sorbitol dehydrogenase. However, Schwann cells, lens epithelial cells, retinal pericytes, and renal podocytes have very low or undetectable levels of *sorbitol dehydrogenase*. Consequently, sorbitol cannot be metabolized and accumulates intracellularly, generating profound hyperosmotic stress, cell swelling, depletion of myoinositol, and generation of reactive oxygen species, leading directly to diabetic neuropathy, cataracts, retinopathy, and nephropathy.",
+    "pearl": "Tissues lacking *sorbitol dehydrogenase* (Schwann cells, lens, retina, kidneys) accumulate sorbitol $ ightarrow$ Osmotic damage causing neuropathy, cataracts, and nephropathy.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-012",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man undergoing chemotherapy for Hodgkin lymphoma with a regimen containing vincristine develops tingling, numbness, and burning in his fingertips and toes, along with bilateral loss of Achilles tendon reflexes. Through which mechanism does vincristine cause peripheral neurotoxicity?",
+    "choices": {
+      "A": "Autoimmune demyelination of the dorsal columns",
+      "B": "Inhibition of tubulin polymerization, disrupting axonal microtubule transport",
+      "C": "Competitive antagonism of nicotinic acetylcholine receptors",
+      "D": "Chelation of intracellular calcium in anterior horn cells",
+      "E": "Selective necrosis of dorsal root ganglion cell bodies"
+    },
+    "correct": "B",
+    "rationale": "Vincristine (a vinca alkaloid) binds to beta-tubulin and inhibits microtubule polymerization, arresting dividing cells in metaphase. In non-dividing neurons, microtubules are essential for fast axonal transport of neurotransmitter vesicles, neurotrophins, and structural proteins over long distances from the cell body to distant axon terminals. Disruption of microtubule transport impairs axonal maintenance, leading to length-dependent, axonal peripheral polyneuropathy (burning dysesthesias, sensory loss in a stocking-glove pattern, and loss of ankle reflexes).",
+    "pearl": "Vincristine neurotoxicity = Inhibits microtubule assembly $ ightarrow$ Impairs fast axonal transport $ ightarrow$ Distal axonal peripheral polyneuropathy.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-013",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 38-year-old woman being treated for active pulmonary tuberculosis with a 4-drug antimicrobial regimen (isoniazid, rifampin, pyrazinamide, and ethambutol) develops burning paresthesias and numbness in both feet. She neglected to take her prescribed vitamin supplements. Isoniazid causes peripheral neuropathy by inducing a deficiency of which essential vitamin?",
+    "choices": {
+      "A": "Vitamin B1 (Thiamine)",
+      "B": "Vitamin B3 (Niacin)",
+      "C": "Vitamin B6 (Pyridoxine)",
+      "D": "Vitamin B12 (Cobalamin)",
+      "E": "Vitamin E (Alpha-tocopherol)"
+    },
+    "correct": "C",
+    "rationale": "Isoniazid is chemically similar to pyridoxine (vitamin B6). It forms inactive hydrazone complexes with pyridoxal-5-phosphate and increases its renal excretion, while also inhibiting the enzyme pyridoxine phosphokinase. This results in functional vitamin B6 deficiency. Because pyridoxine is an obligate cofactor for neurotransmitter synthesis (including GABA and sphingolipids essential for myelin and axonal maintenance), deficiency produces peripheral sensorimotor neuropathy. Co-administration of oral pyridoxine (vitamin B6) prevents this neurotoxicity.",
+    "pearl": "Isoniazid causes *vitamin B6 (pyridoxine) deficiency* $ ightarrow$ Peripheral neuropathy; always co-prescribe oral pyridoxine with isoniazid!",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-014",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old battery manufacturing worker presents with colicky abdominal pain, constipation, cognitive slowing, and bilateral weakness of wrist and finger extension (wrist drop). Physical examination demonstrates a bluish-purple line along his gingival margins (Burton lines) and bilateral radial motor neuropathy. A peripheral blood smear shows coarse basophilic stippling in red blood cells. Toxicity from which environmental heavy metal is responsible for this condition?",
+    "choices": {
+      "A": "Arsenic",
+      "B": "Mercury",
+      "C": "Thallium",
+      "D": "Lead",
+      "E": "Cadmium"
+    },
+    "correct": "D",
+    "rationale": "Lead poisoning (plumbism) classically presents with: (1) Gastrointestinal: colicky abdominal pain (\"lead colic\") and constipation; (2) Hematologic: microcytic anemia with prominent basophilic stippling of erythrocytes (due to inhibition of ferrochelatase and delta-ALA dehydratase); (3) Oral: bluish-purple pigmentation along the gingival margins (Burton lines); (4) Neurologic: encephalopathy and motor peripheral neuropathy, characteristically manifesting as radial nerve palsy (wrist drop) and foot drop.",
+    "pearl": "Lead poisoning: Colicky abdominal pain + Basophilic stippling + Burton gingival lines + Motor neuropathy (wrist drop / radial nerve palsy).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-015",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman presents with paroxysmal episodes of severe, sharp, electric-shock pain on the right side of her chin and lower lip. The pain is triggered by brushing her teeth, talking, or a light breeze blowing across her jaw. The remainder of her neurological examination, including corneal reflex and facial sensation, is entirely normal. Which branch of the trigeminal nerve mediates this pain?",
+    "choices": {
+      "A": "Ophthalmic nerve (V1)",
+      "B": "Maxillary nerve (V2)",
+      "C": "Greater occipital nerve",
+      "D": "Facial nerve (CN VII)",
+      "E": "Mandibular nerve (V3)"
+    },
+    "correct": "E",
+    "rationale": "The patient has Trigeminal Neuralgia affecting the mandibular division (CN V3). Sensation to the lower lip, chin, lower teeth/gums, and jaw is supplied by sensory branches of V3 (specifically the mental and inferior alveolar nerves). Trigeminal neuralgia most commonly affects V2 or V3 (or both), and is characterized by brief, excruciating, lancinating paroxysms provoked by innocuous light tactile triggers (shaving, tooth brushing, chewing).",
+    "pearl": "Trigeminal neuralgia of chin/lower lip = Mandibular nerve (V3); Upper lip/cheek = Maxillary nerve (V2); Forehead = Ophthalmic nerve (V1).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-016",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old woman presents with numbness of her left upper lip, cheek, and lower eyelid following a blunt facial trauma sustained during a motor vehicle collision. A maxillofacial CT scan demonstrates a fracture of the orbital floor (blowout fracture) with entrapment of the inferior rectus muscle. Which specific cutaneous nerve traversing the orbital floor was damaged by this fracture?",
+    "choices": {
+      "A": "Infraorbital nerve (branch of V2)",
+      "B": "Supraorbital nerve (branch of V1)",
+      "C": "Mental nerve (branch of V3)",
+      "D": "Buccal branch of facial nerve (CN VII)",
+      "E": "Lacrimal nerve (branch of V1)"
+    },
+    "correct": "A",
+    "rationale": "The infraorbital nerve is the continuation of the maxillary nerve (CN V2). It enters the orbit via the inferior orbital fissure, travels anteriorly across the orbital floor within the infraorbital groove and canal, and emerges onto the midface through the infraorbital foramen. In an orbital floor blowout fracture, the fragile bony floor collapses into the maxillary sinus, frequently entrapping the inferior rectus muscle (impaired upward gaze) and injuring the infraorbital nerve, resulting in paresthesia/numbness of the ipsilateral lower eyelid, cheek, and upper lip.",
+    "pearl": "Orbital floor blowout fracture: Entrapment of inferior rectus (diplopia on upward gaze) + Injury to *infraorbital nerve (V2)* causing cheek/upper lip numbness.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-017",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old boxer receives a sharp blow to the lateral jaw. Neurological examination reveals loss of general sensation across the anterior two-thirds of his tongue on the right side. However, taste perception on the anterior two-thirds of the tongue is completely intact. Which nerve was injured?",
+    "choices": {
+      "A": "Glossopharyngeal nerve (CN IX)",
+      "B": "Lingual nerve proximal to its junction with the chorda tympani",
+      "C": "Chorda tympani nerve",
+      "D": "Hypoglossal nerve (CN XII)",
+      "E": "Superior laryngeal nerve"
+    },
+    "correct": "B",
+    "rationale": "Sensation on the anterior 2/3 of the tongue involves two distinct nerves: (1) General somatic sensation (touch, pain, temperature) is carried by the lingual nerve (a branch of CN V3); (2) Special sensory taste is carried by the chorda tympani (a branch of CN VII), which hitches a ride on the lingual nerve in the infratemporal fossa. An isolated loss of general touch/pain with *spared taste* indicates a lesion of the lingual nerve *proximal* to where the chorda tympani joins it (or a selective lesion of trigeminal sensory fibers).",
+    "pearl": "Anterior 2/3 of tongue: General sensation = Lingual nerve (CN V3); Taste = Chorda tympani (CN VII).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-018",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old man undergoes resection of a vestibular schwannoma. Postoperatively, tapping his chin with a reflex hammer elicits an exaggerated, hyperactive jaw jerk with clonus. What does a pathologically brisk jaw-jerk reflex signify clinically?",
+    "choices": {
+      "A": "Lower motor neuron lesion of the trigeminal motor nucleus",
+      "B": "Myasthenia gravis involving the masseter muscles",
+      "C": "Bilateral upper motor neuron lesion above the level of the mid-pons",
+      "D": "Isolated peripheral entrapment of the inferior alveolar nerve",
+      "E": "Horner syndrome"
+    },
+    "correct": "C",
+    "rationale": "The jaw jerk is a stretch reflex mediated by CN V (afferent limb: mesencephalic nucleus of V; efferent limb: motor nucleus of V). In healthy individuals, the jaw jerk is minimal or absent. A pathologically brisk, hyperactive jaw jerk (often with clonus) indicates a bilateral upper motor neuron (pseudobulbar) lesion located *above the mid-pons* (e.g., bilateral internal capsule strokes, ALS, or diffuse white matter disease), which releases the pontine trigeminal motor nucleus from descending corticobulbar inhibition.",
+    "pearl": "Hyperactive jaw-jerk reflex = Bilateral upper motor neuron (corticobulbar) lesion *above the mid-pons* (e.g., ALS, pseudobulbar palsy).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-019",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man presents with loss of pain and temperature on the left side of his face and the RIGHT side of his body. Light touch and vibration sensation are normal bilaterally. In addition, he has hoarseness, dysphagia, left-sided Horner syndrome, and left-sided cerebellar ataxia. Brain MRI demonstrates an infarction in the dorsolateral medulla. Which artery was occluded?",
+    "choices": {
+      "A": "Anterior cerebral artery",
+      "B": "Basilar artery paramedian branches",
+      "C": "Superior cerebellar artery",
+      "D": "Posterior inferior cerebellar artery (PICA)",
+      "E": "Anterior spinal artery"
+    },
+    "correct": "D",
+    "rationale": "The patient has Wallenberg lateral medullary syndrome, most commonly caused by occlusion of the Posterior Inferior Cerebellar Artery (PICA) or the vertebral artery. Key neuroanatomical structures infarcted in the lateral medulla: (1) Spinal trigeminal nucleus/tract $ ightarrow$ *ipsilateral* facial pain and temperature loss; (2) Spinothalamic tract $ ightarrow$ *contralateral* body pain and temperature loss (\"crossed sensory loss\"); (3) Nucleus ambiguus (CN IX, X) $ ightarrow$ dysphagia, hoarseness, absent gag reflex; (4) Descending sympathetic fibers $ ightarrow$ ipsilateral Horner syndrome; (5) Inferior cerebellar peduncle $ ightarrow$ ipsilateral ataxia.",
+    "pearl": "PICA occlusion (Lateral medullary / Wallenberg syndrome): Ipsilateral facial pain/temp loss (spinal trigeminal) + Contralateral body pain/temp loss (spinothalamic).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-CSE-020",
+    "topic": "Cranial Nerves & Neuropathy Cases",
+    "lecture": "4.1 Trigeminal Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 70-year-old woman develops severe, unremitting burning pain across her right forehead and upper eyelid following an episode of herpes zoster ophthalmicus 6 months ago. The skin is scarred, exquisitely sensitive to light touch (allodynia), and hyperalgesic. What is the clinical diagnosis, and which division of the fifth cranial nerve was reactivated by the varicella-zoster virus?",
+    "choices": {
+      "A": "Bell palsy; Facial nerve (CN VII)",
+      "B": "Cluster headache; Greater petrosal nerve",
+      "C": "Trigeminal neuralgia; Mandibular nerve (V3)",
+      "D": "Tolosa-Hunt syndrome; Abducens nerve (CN VI)",
+      "E": "Postherpetic neuralgia; Ophthalmic division of the trigeminal nerve (V1)"
+    },
+    "correct": "E",
+    "rationale": "Postherpetic neuralgia (PHN) is defined as persistent neuropathic pain lasting more than 3 months after the resolution of a herpes zoster (shingles) rash. Reactivation of latent Varicella-Zoster Virus (VZV) in the trigeminal ganglion specifically involving the ophthalmic division (V1) produces herpes zoster ophthalmicus. Damage to primary sensory neurons and subsequent central sensitization lead to chronic burning pain, allodynia, and dysesthesias in the V1 dermatome (forehead, upper eyelid, cornea).",
+    "pearl": "Herpes zoster ophthalmicus / Postherpetic neuralgia = VZV reactivation in trigeminal ganglion affecting the *ophthalmic division (V1)*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-001",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An axial histological section through the cervical spinal cord is prepared with a Luxol fast blue myelin stain. An arrow points to the white matter located in the ventrolateral funiculus, situated immediately deep to the ventral spinocerebellar tract and anterolateral to the ventral horn. Which ascending sensory tract occupies this specific anatomical position, transmitting noxious and thermal signals from the contralateral body?",
+    "choices": {
+      "A": "Anterolateral system (spinothalamic tract)",
+      "B": "Fasciculus cuneatus",
+      "C": "Dorsal spinocerebellar tract",
+      "D": "Lateral corticospinal tract",
+      "E": "Rubrospinal tract"
+    },
+    "correct": "A",
+    "rationale": "In spinal cord cross-sections, the anterolateral system (ALS, comprising the spinothalamic, spinoreticular, and spinomesencephalic tracts) occupies the anterolateral (ventrolateral) white matter funiculus. It lies between the ventral horn and the surface of the cord, ventral to the denticulate ligament and lateral to the emerging ventral root fibers. It carries pain, temperature, and crude touch from the contralateral side of the body.",
+    "pearl": "Anterolateral system (ALS / spinothalamic tract) = Located in the anterolateral funiculus of the spinal cord white matter.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-002",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An axial section of the thoracic spinal cord is examined under low power. A narrow band of crossing white matter nerve fibers is identified immediately ventral to the central canal and dorsal to the anterior median fissure. Which anatomical structure is this, and what sensory axons decussate through it?",
+    "choices": {
+      "A": "Posterior intermediate sulcus; primary tactile axons",
+      "B": "Anterior (ventral) white commissure; second-order axons of the spinothalamic tract",
+      "C": "Dorsolateral tract of Lissauer; preganglionic sympathetic axons",
+      "D": "Corpus callosum; interhemispheric association fibers",
+      "E": "Internal arcuate decussation; second-order DCML fibers"
+    },
+    "correct": "B",
+    "rationale": "The anterior (ventral) white commissure is a narrow bridge of transversely decussating myelinated axons situated immediately ventral to the central canal and deep to the anterior median fissure. It contains the axons of second-order spinothalamic projection neurons originating in the dorsal horn (Rexed laminae I, II, and V). These axons cross the midline obliquely over 1 to 2 spinal segments to enter the contralateral anterolateral funiculus.",
+    "pearl": "Anterior white commissure = Site of decussation for second-order *spinothalamic* pain and temperature fibers ventral to the central canal.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-003",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In a histological preparation of the spinal cord gray matter, the dorsal horn is subdivided into laminar nuclear groups. Which cellular nucleus occupies Rexed laminae III and IV, lying immediately deep to the substantia gelatinosa, and serves as a major integrative relay for cutaneous mechanoreceptive and nociceptive inputs?",
+    "choices": {
+      "A": "Intermediolateral nucleus",
+      "B": "Nucleus dorsalis of Clarke",
+      "C": "Nucleus proprius",
+      "D": "Motor nucleus of V",
+      "E": "Nucleus ambiguus"
+    },
+    "correct": "C",
+    "rationale": "The nucleus proprius (proper sensory nucleus) occupies the neck and head of the dorsal horn, corresponding to Rexed laminae III and IV (and partially V). It receives primary low-threshold tactile inputs as well as convergent nociceptive inputs from substantia gelatinosa interneurons. Many neurons within the nucleus proprius (and adjacent lamina V wide-dynamic-range neurons) give rise to ascending second-order axons that decussate in the anterior white commissure to form the spinothalamic tract.",
+    "pearl": "Nucleus proprius = Rexed laminae III and IV in the dorsal horn; major integrative relay for tactile and nociceptive projection neurons.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-004",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 32-year-old woman presents with bilateral loss of pain and temperature sensation across her shoulders and both arms in a \\'cape-like\\' distribution. Light touch and vibration sensation are completely intact. An axial T2-weighted MRI demonstrates a central fluid collection expanding within the cervical spinal cord, compressing the anterior white commissure. Which clinical condition is illustrated by this finding?",
+    "choices": {
+      "A": "Tabes dorsalis",
+      "B": "Subacute combined degeneration",
+      "C": "Amyotrophic lateral sclerosis",
+      "D": "Syringomyelia",
+      "E": "Guillain-Barr\u00e9 syndrome"
+    },
+    "correct": "D",
+    "rationale": "Syringomyelia is a chronic progressive cavitation (syrinx) within the central canal of the spinal cord, most commonly in the cervical region. As the syrinx expands, it selectively compresses and interrupts the decussating second-order spinothalamic fibers in the *anterior white commissure*. This causes bilateral, symmetrical loss of pain and temperature in a \"cape-like\" distribution across the shoulders and upper extremities. Because the dorsal columns are located peripherally, fine touch, vibration, and proprioception are spared (dissociated sensory loss).",
+    "pearl": "Syringomyelia = Syrinx in central canal compressing the anterior white commissure $ ightarrow$ Bilateral cape-like loss of pain/temperature with spared touch/vibration.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-005",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 28-year-old woman diagnosed with cervical syringomyelia undergoes a brain MRI to identify the underlying structural etiology. The sagittal T1-weighted scan reveals caudal displacement of the cerebellar tonsils by 7 mm through the foramen magnum into the upper cervical canal, without displacement of the fourth ventricle. Which congenital hindbrain malformation is most frequently associated with syringomyelia?",
+    "choices": {
+      "A": "Chiari type II malformation",
+      "B": "Dandy-Walker malformation",
+      "C": "Holoprosencephaly",
+      "D": "Lissencephaly",
+      "E": "Chiari type I malformation"
+    },
+    "correct": "E",
+    "rationale": "Chiari type I malformation is defined by herniation of the cerebellar tonsils $>5$ mm below the foramen magnum into the cervical spinal canal. It is congenital and frequently becomes symptomatic in young adulthood (headaches worsened by Valsalva, neck pain). In over 50% of cases, Chiari I disrupts normal pulsatile CSF flow at the craniocervical junction, leading to secondary syringomyelia in the cervical spinal cord. Chiari II involves downward herniation of both tonsils and the cerebellar vermis/brainstem and is associated with myelomeningocele.",
+    "pearl": "Chiari type I malformation = Herniation of cerebellar tonsils through foramen magnum; strongly associated with *cervical syringomyelia*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-006",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An axial myelin-stained cross-section of a spinal cord obtained from an autopsy specimen reveals extensive pallor and demyelination (loss of blue Luxol fast stain) strictly confined to the dorsal columns bilaterally AND the lateral corticospinal tracts bilaterally. The anterior spinothalamic tracts and anterior horn gray matter are completely normal. Which nutritional or metabolic deficiency produced this distinctive pattern of \"combined\" tract degeneration?",
+    "choices": {
+      "A": "Vitamin B12 (Cobalamin) deficiency",
+      "B": "Vitamin B1 (Thiamine) deficiency",
+      "C": "Vitamin C deficiency",
+      "D": "Vitamin D deficiency",
+      "E": "Folate deficiency"
+    },
+    "correct": "A",
+    "rationale": "The histological finding of selective, bilateral demyelination of the posterior funiculi (dorsal columns) and lateral funiculi (lateral corticospinal tracts) is pathognomonic for Subacute Combined Degeneration (SCD) of the spinal cord, caused by Vitamin B12 (cobalamin) deficiency. The resulting neurological syndrome combines sensory ataxia (loss of vibration and position sense) with upper motor neuron signs (spasticity, hyperreflexia, bilateral extensor plantar responses).",
+    "pearl": "Subacute combined degeneration (SCD) = Selective demyelination of *dorsal columns* (sensory ataxia) + *lateral corticospinal tracts* (spastic paraparesis) from B12 deficiency.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-007",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neurosurgeon examines the somatotopic organization of the spinothalamic tract within the anterolateral funiculus of the cervical spinal cord before performing a therapeutic percutaneous cordotomy for intractable cancer pain. In which arrangement are the sensory fibers from the lower body (sacral) and upper body (cervical) organized within the anterolateral tract?",
+    "choices": {
+      "A": "Sacral fibers are situated medial and adjacent to the gray matter, while cervical fibers are posterolateral",
+      "B": "Sacral fibers are situated posterolaterally near the surface, while cervical fibers are situated anteromedially deep near the gray matter",
+      "C": "Fibers are randomly mixed with no somatotopic segregation",
+      "D": "Upper body fibers occupy the entire posterior column, while lower body fibers occupy the anterior column",
+      "E": "Sacral fibers are confined strictly to the fasciculus gracilis"
+    },
+    "correct": "B",
+    "rationale": "The anterolateral system (spinothalamic tract) possesses a laminated somatotopic arrangement: as new fibers cross the anterior white commissure from successively higher spinal segments, they layer onto the *medial (inner)* aspect of the ascending tract. Consequently, fibers from the lowest segments (sacral and lumbar, lower extremity) are pushed to the *posterolateral (outermost/superficial)* perimeter, whereas fibers from cervical and thoracic levels lie in the *anteromedial (deep/inner)* portion near the gray matter.",
+    "pearl": "Spinothalamic somatotopy: Sacral fibers are *posterolateral (outermost)*; Cervical fibers are *anteromedial (deep/innermost)*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-008",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman develops an extradural meningioma in the cervical spine that compresses the anterolateral surface of the spinal cord from the outside (extramedullary compression). Based on the somatotopy of the spinothalamic tract, which body region will experience sensory loss to pinprick and temperature FIRST?",
+    "choices": {
+      "A": "Face and neck",
+      "B": "Fingers and hands",
+      "C": "Sacral dermatomes and perineum (buttocks, lateral foot)",
+      "D": "Thoracic dermatomes across the chest",
+      "E": "Medial forearm"
+    },
+    "correct": "C",
+    "rationale": "Because sacral and lumbar fibers occupy the outermost, superficial (posterolateral) aspect of the spinothalamic tract, external (extramedullary) compressive masses (such as meningiomas, neurofibromas, or metastatic epidural tumors) compress the outermost sacral fibers first. This produces sensory loss that begins in the perineum and lower extremities (sacral and lumbar dermatomes) and ascends proximally. In contrast, central intramedullary lesions (like syringomyelia) compress inner cervical fibers first (\"sacral sparing\").",
+    "pearl": "Extramedullary compression affects *sacral fibers first* (outermost); Intramedullary lesions (syringomyelia) affect *cervical fibers first* (\"sacral sparing\").",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-009",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old man presents with an expanding intramedullary ependymoma in the central cervical spinal cord. Neurological testing reveals loss of pain and temperature in the cervical and thoracic dermatomes, but complete preservation of pain, temperature, and touch sensation in the perianal and perineal region (sacral dermatomes S3\u2013S5). What is the clinical neurological term for the preservation of sensation in the lowest dermatomes during central spinal cord lesions?",
+    "choices": {
+      "A": "Brown-S\u00e9quard sign",
+      "B": "Romberg phenomenon",
+      "C": "Allodynia",
+      "D": "Sacral sparing",
+      "E": "Lhermitte sign"
+    },
+    "correct": "D",
+    "rationale": "\"Sacral sparing\" refers to the preservation of pain, temperature, and light touch sensation in the sacral dermatomes (S3\u2013S5, perineum, perianal region) in patients with intrinsic, central spinal cord lesions (such as syringomyelia, intramedullary tumors, or central cord syndrome). Because sacral fibers travel on the outermost, superficial periphery of the spinothalamic tract, they are the last to be reached by an expanding central lesion, leaving sacral sensation intact while higher (cervical/thoracic) dermatomes are lost.",
+    "pearl": "Sacral sparing = Preservation of sacral sensory/motor function in central spinal cord lesions due to the *outermost peripheral location of sacral fibers* in the ALS.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-010",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In a cross-section of the open rostral medulla, which of the following landmarks can be used to identify the spinothalamic tract (anterolateral system)?",
+    "choices": {
+      "A": "Situated medially between the two inferior olivary nuclei",
+      "B": "Situated on the ventral surface within the pyramids",
+      "C": "Located in the floor of the fourth ventricle medial to the sulcus limitans",
+      "D": "Encircling the cerebral aqueduct",
+      "E": "Located in the lateral tegmentum, immediately dorsal to the inferior olive and adjacent to the nucleus ambiguus"
+    },
+    "correct": "E",
+    "rationale": "In the rostral medulla, the spinothalamic tract (anterolateral system) ascends in the anterolateral tegmentum. It lies dorsal to the inferior olivary nucleus, lateral to the nucleus ambiguus, and medial to the spinal trigeminal tract/nucleus. This vulnerable position within the lateral medulla accounts for why occlusion of the posterior inferior cerebellar artery (PICA) infarctions produces loss of pain and temperature on the contralateral body.",
+    "pearl": "In the medulla, the spinothalamic tract is located in the *lateral tegmentum*, dorsal to the inferior olive; infarcted in PICA lateral medullary syndrome.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-011",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A cross-section through the midbrain at the level of the superior colliculus is examined. Which structure is located adjacent to the lateral border of the medial lemniscus, continuing its ascent toward the VPL thalamus?",
+    "choices": {
+      "A": "Spinothalamic tract",
+      "B": "Red nucleus",
+      "C": "Substantia nigra",
+      "D": "Oculomotor nucleus",
+      "E": "Trochlear nerve"
+    },
+    "correct": "A",
+    "rationale": "In the rostral midbrain, the medial lemniscus forms a curved band in the tegmentum dorsal to the substantia nigra. The spinothalamic tract (anterolateral system) is situated immediately lateral and dorsal to the lateral edge of the medial lemniscus. Both tracts ascend adjacent to one another to enter the ventral posterolateral (VPL) nucleus of the thalamus.",
+    "pearl": "In the midbrain tegmentum, the spinothalamic tract lies immediately *lateral* to the medial lemniscus as both ascend into the VPL thalamus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D4-KC-012",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A basic science study analyzes the biochemical phenotype of primary nociceptive neurons in the dorsal root ganglion. Small-diameter peptidergic C fibers synthesize neuropeptides in their cell bodies and transport them anterograde to both peripheral terminals and central dorsal horn synapses. Which two neuropeptides are the principal transmitters released by peptidergic nociceptors to mediate neurogenic inflammation and central pain transmission?",
+    "choices": {
+      "A": "Glycine and GABA",
+      "B": "Substance P and Calcitonin Gene-Related Peptide (CGRP)",
+      "C": "Dopamine and Norepinephrine",
+      "D": "Acetylcholine and Serotonin",
+      "E": "Histamine and Epinephrine"
+    },
+    "correct": "B",
+    "rationale": "Peptidergic nociceptive C fibers characteristically synthesize and release Substance P and Calcitonin Gene-Related Peptide (CGRP). In the periphery, their release causes \"neurogenic inflammation\" (Substance P causes plasma extravasation and edema; CGRP causes potent arteriolar vasodilation). In the dorsal horn (Rexed laminae I and II), Substance P and CGRP act as co-transmitters alongside glutamate, prolonging membrane depolarization and facilitating NMDA receptor activation to drive central sensitization.",
+    "pearl": "Peptidergic nociceptors release *Substance P* (vascular permeability/edema) and *CGRP* (potent vasodilation) $ ightarrow$ Neurogenic inflammation and central sensitization.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-KC-013",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 44-year-old man presents with chronic neck pain. An axial T2-weighted MRI reveals an isolated lesion of the dorsal funiculus in the cervical cord on the left side, sparing the lateral and ventral funiculi. Which sensory testing modality will be specifically impaired in this patient below the level of the lesion?",
+    "choices": {
+      "A": "Pinprick and sharp pain on the right side",
+      "B": "Temperature perception on the left side",
+      "C": "Discriminative light touch, two-point discrimination, and vibration on the left side",
+      "D": "Visceral pain from the bladder",
+      "E": "Crude touch on the right side only"
+    },
+    "correct": "C",
+    "rationale": "The dorsal funiculus (dorsal columns) contains the uncrossed ascending axons of first-order pseudounipolar neurons (fasciculus gracilis and cuneatus). It transmits conscious proprioception, vibration, and fine discriminative touch. Because these fibers do not decussate until the caudal medulla, an isolated lesion of the left dorsal column in the cervical cord produces loss of discriminative touch, vibration, and proprioception strictly on the *ipsilateral* (left) side below the lesion, while leaving pain and temperature sensation intact bilaterally.",
+    "pearl": "Unilateral dorsal column lesion = *Ipsilateral* loss of vibration, conscious proprioception, and discriminative touch below the lesion.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-014",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient undergoes testing of temperature sensation using warm and cold test tubes. Thermal sensation is carried by the spinothalamic tract. Thermal receptors for cold are predominantly associated with which fiber type, and thermal receptors for noxious heat with which fiber type?",
+    "choices": {
+      "A": "Cold with A-alpha fibers; Heat with B fibers",
+      "B": "Cold with A-beta fibers; Heat with A-alpha fibers",
+      "C": "Cold with unmyelinated sympathetic fibers; Heat with parasympathetic fibers",
+      "D": "Cold with thinly myelinated A-delta fibers; Heat with unmyelinated C fibers (and A-delta fibers)",
+      "E": "Cold and heat are both carried exclusively by heavily myelinated A-alpha fibers"
+    },
+    "correct": "D",
+    "rationale": "Thermoreceptors are specialized free nerve endings: (1) Cold receptors are primarily linked to small, thinly myelinated A-delta fibers (conduction velocity 5\u201330 m/s); (2) Warm receptors and noxious heat receptors are primarily linked to slow, unmyelinated C fibers (conduction velocity 0.5\u20132 m/s), although noxious heat also activates A-delta fibers (transmitting first sharp pain).",
+    "pearl": "Cold thermal sensation = Thinly myelinated A-delta fibers; Warmth and slow burning heat = Unmyelinated C fibers.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D4-KC-015",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient sustains a hyperflexion cervical spine injury. Emergency MRI shows infarction of the anterior two-thirds of the spinal cord (Anterior Spinal Artery syndrome) at C6. Which of the following sensory and motor modalities is PRESERVED in this patient below the lesion level?",
+    "choices": {
+      "A": "Bilateral voluntary motor function (corticospinal tracts)",
+      "B": "Bilateral pain and temperature sensation (spinothalamic tracts)",
+      "C": "Bilateral autonomic bowel and bladder control (descending autonomic fibers)",
+      "D": "Bilateral motor reflex arcs at C6 (ventral horns)",
+      "E": "Bilateral conscious proprioception, two-point discrimination, and vibration sense (dorsal columns)"
+    },
+    "correct": "E",
+    "rationale": "The anterior spinal artery (ASA) supplies the anterior two-thirds of the spinal cord, which houses the anterior horns (motor neurons), lateral corticospinal tracts (motor pathways), and anterolateral spinothalamic tracts (pain/temperature). The posterior one-third of the spinal cord, consisting of the posterior funiculi (dorsal columns: fasciculus gracilis and cuneatus), is supplied independently by the paired *posterior spinal arteries* (PSAs). Consequently, ASA infarction causes bilateral motor paralysis and bilateral loss of pain and temperature, but *preserves* conscious proprioception, vibration, and fine touch.",
+    "pearl": "Anterior Spinal Artery (ASA) infarction spares the dorsal columns $ ightarrow$ Bilateral loss of motor and pain/temp, with *intact vibration and proprioception*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D4-KC-016",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old college student sustains a shallow laceration to the tip of her index finger while slicing a bagel. She perceives an instantaneous, sharp, stinging pain that allows her to immediately pull her hand away before a dull, throbbing ache sets in. Which primary sensory fiber type conducted this initial rapid, sharp \"first pain\"?",
+    "choices": {
+      "A": "Small, thinly myelinated A-delta fibers",
+      "B": "Large, heavily myelinated A-alpha fibers",
+      "C": "Unmyelinated C fibers",
+      "D": "Medium-diameter A-beta fibers",
+      "E": "Preganglionic sympathetic B fibers"
+    },
+    "correct": "A",
+    "rationale": "\"First pain\" (fast pain) is characterized by a sharp, pricking, well-localized sensation with a short latency. It is conducted by small, thinly myelinated A-delta fibers (conduction velocity 5\u201330 m/s). It serves as a protective warning mechanism, triggering immediate withdrawal reflexes. In contrast, \"second pain\" (slow pain) is dull, burning, aching, poorly localized, and conducted by unmyelinated C fibers (conduction velocity 0.5\u20132 m/s).",
+    "pearl": "First pain (fast, sharp, localized) = A-delta fibers; Second pain (slow, dull, burning) = unmyelinated C fibers.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D4-KC-017",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher measures the conduction velocity along human peripheral sensory nerves. When recording from primary afferents that supply muscle spindles and Golgi tendon organs, the highest conduction velocities in the entire peripheral nervous system (70 to 120 m/s) are recorded. Which axon classification corresponds to these fastest conducting fibers?",
+    "choices": {
+      "A": "Group IV (C fibers)",
+      "B": "Group Ia and Ib (A-alpha fibers)",
+      "C": "Group II (A-beta fibers)",
+      "D": "Group III (A-delta fibers)",
+      "E": "B fibers"
+    },
+    "correct": "B",
+    "rationale": "Conduction velocity in nerve fibers is directly proportional to axon diameter and the degree of myelination. Group Ia (primary muscle spindle annulospiral endings) and Group Ib (Golgi tendon organs) afferents, classified as A-alpha fibers, have the largest axonal diameters (12\u201320 $\\mu$m) and the thickest myelin sheaths, yielding the highest conduction velocities in the human body (70\u2013120 m/s).",
+    "pearl": "Fastest conducting fibers = Group Ia/Ib (A-alpha fibers, 70\u2013120 m/s), innervating muscle spindles and Golgi tendon organs.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D4-KC-018",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man presents with chronic pain. The physician explains that descending pain modulation pathways from the midbrain can suppress nociceptive signaling in the dorsal horn. When the periaqueductal gray (PAG) is activated, which neurotransmitter is released by descending axons originating in the nucleus raphe magnus to stimulate spinal enkephalinergic interneurons?",
+    "choices": {
+      "A": "Acetylcholine",
+      "B": "Dopamine",
+      "C": "Serotonin (5-hydroxytryptamine)",
+      "D": "Glutamate",
+      "E": "Histamine"
+    },
+    "correct": "C",
+    "rationale": "The descending analgesia system involves excitatory projections from the midbrain periaqueductal gray (PAG) to the rostral ventromedial medulla, specifically the nucleus raphe magnus (NRM). Neurons of the NRM send serotonergic (5-HT) axons down the dorsolateral funiculus to the dorsal horn of the spinal cord. In the superficial dorsal horn (Rexed laminae I and II), serotonin excites local enkephalinergic interneurons, which release enkephalin to inhibit incoming nociceptive afferents.",
+    "pearl": "Descending analgesia pathway: PAG $ ightarrow$ Nucleus raphe magnus releases *serotonin (5-HT)* in the dorsal horn $ ightarrow$ Activates inhibitory enkephalin interneurons.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_05"
+    ]
+  },
+  {
+    "id": "W2D4-KC-019",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A cross-section through the rostral open medulla is evaluated. Which nucleus located in the dorsolateral tegmentum receives descending primary pain and temperature afferents from cranial nerves V, VII, IX, and X?",
+    "choices": {
+      "A": "Main sensory nucleus of V",
+      "B": "Hypoglossal nucleus",
+      "C": "Abducens nucleus",
+      "D": "Spinal trigeminal nucleus",
+      "E": "Red nucleus"
+    },
+    "correct": "D",
+    "rationale": "The spinal trigeminal nucleus is a continuous column in the lateral brainstem extending from the mid-pons through the medulla into the upper cervical cord (C2). It receives primary general somatic afferents for pain and temperature from the face via cranial nerve V (trigeminal), but also receives somatic pain/temp fibers from the external ear and eardrum via CN VII (facial), CN IX (glossopharyngeal), and CN X (vagus). All these somatic pain afferents terminate in the spinal trigeminal nucleus before crossing to the VPM thalamus.",
+    "pearl": "The *spinal trigeminal nucleus* receives somatic pain and temperature inputs from CN V, VII, IX, and X.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-KC-020",
+    "topic": "Anterolateral System Cross-Sectional Neuroanatomy",
+    "lecture": "4.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man undergoes neurological testing. Sensation to light touch and pinprick is completely normal across the entire face and body. However, when his cornea is touched with a wisp of cotton on the left side, NEITHER eye blinks. When his cornea is touched on the RIGHT side, BOTH eyes blink vigorously. Where is the lesion located?",
+    "choices": {
+      "A": "Left facial nerve (CN VII) motor root",
+      "B": "Right facial nerve (CN VII) motor root",
+      "C": "Left oculomotor nerve (CN III)",
+      "D": "Bilateral abducens nerves (CN VI)",
+      "E": "Left ophthalmic nerve (CN V1) afferent limb"
+    },
+    "correct": "E",
+    "rationale": "The corneal reflex tests the sensory afferent limb (CN V1, ophthalmic division) and the motor efferent limb (CN VII, bilateral facial nerves supplying orbicularis oculi). When touching the left cornea results in NO blink in either eye (0/2), the left sensory afferent limb (left V1) is not functioning. When touching the right cornea causes BOTH eyes to blink normally (2/2), both facial motor output pathways (right and left CN VII) are demonstrated to be fully intact. Therefore, the lesion is isolated to the left ophthalmic nerve (CN V1) afferent limb.",
+    "pearl": "Corneal reflex interpretation: Stimulating left eye $ ightarrow$ zero blinks; Stimulating right eye $ ightarrow$ bilateral blinks = Left CN V1 afferent lesion.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
   }
 ]
