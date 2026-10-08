@@ -11878,5 +11878,2205 @@
     "learning_objectives": [
       "LO_NEURO_E1_W2_CBIL_01"
     ]
+  },
+  {
+    "id": "W2D2-CNT-001",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 44-year-old construction worker presents to the clinic after an MRI of the cervical spine reveals a posterolateral disc herniation between the C4 and C5 vertebral bodies causing acute radiculopathy. Based on the anatomical rules governing the exit of spinal nerve roots in the human vertebral column, which of the following nerve roots is most likely impinged by this herniation?",
+    "choices": {
+      "A": "C5 nerve root",
+      "B": "C4 nerve root",
+      "C": "C6 nerve root",
+      "D": "C3 nerve root",
+      "E": "C8 nerve root"
+    },
+    "correct": "A",
+    "rationale": "In the cervical spine, spinal nerves C1 through C7 exit ABOVE their correspondingly numbered vertebral bodies (e.g., C1 exits above C1 vertebra; C5 exits above C5 vertebra, between C4 and C5). There is no C8 vertebra; instead, the C8 nerve root exits between the C7 and T1 vertebrae. Below C7, all thoracic, lumbar, and sacral nerve roots exit BELOW their correspondingly numbered vertebrae. Therefore, a disc herniation between C4 and C5 impinging an exiting spinal nerve compresses the C5 nerve root.",
+    "pearl": "Cervical roots C1\u2013C7 exit *above* their respective vertebrae; C8 exits between C7 and T1; from T1 downward, roots exit *below* their vertebra.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-002",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man undergoes thoracic spine imaging following a motor vehicle collision. The radiologist notes an osteophytic compression of the nerve root traversing the intervertebral foramen between the T1 and T2 vertebral bodies. Based on spinal nerve exit rules, which nerve root is compressed at this level?",
+    "choices": {
+      "A": "C8 nerve root",
+      "B": "T1 nerve root",
+      "C": "T2 nerve root",
+      "D": "T3 nerve root",
+      "E": "C7 nerve root"
+    },
+    "correct": "B",
+    "rationale": "Beginning at the T1 vertebral level, spinal nerves exit inferior to their numerically matching vertebral pedicles. The C8 spinal nerve emerges between C7 and T1. Consequently, the spinal nerve exiting between T1 and T2 is the T1 nerve root. In contrast, T2 exits between T2 and T3.",
+    "pearl": "Because the C8 nerve occupies the C7\u2013T1 intervertebral space, the thoracic nerves exit below their matching vertebra: T1 exits between T1 and T2.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-003",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An anesthesiologist is administering an epidural block for pain management during labor. She introduces a Tuohy needle into the epidural space between L3 and L4. Anatomically, how does the spinal epidural space differ critically from the cranial epidural space?",
+    "choices": {
+      "A": "The spinal epidural space is filled with flowing cerebrospinal fluid under negative pressure",
+      "B": "The spinal epidural space is a potential space only created pathologically by arterial tearing",
+      "C": "The spinal epidural space is a true anatomical space containing fat, venous plexuses, and nerve roots",
+      "D": "The spinal epidural space lies deep to the arachnoid mater but superficial to the pia mater",
+      "E": "The spinal epidural space is continuous with the dural venous sinuses of the cranium"
+    },
+    "correct": "C",
+    "rationale": "In the spinal canal, the epidural space is an actual, continuous anatomical space located between the dura mater and the periosteum of the vertebral canal. It contains loose adipose tissue, the internal vertebral venous plexus (Batson\\'s plexus), lymphatics, and exiting spinal nerve roots. In contrast, in the cranium, the outer periosteal layer of the dura is firmly adherent to the inner calvarial bone; hence, the cranial epidural space is only a *potential* space that opens pathologically during trauma (e.g., middle meningeal artery rupture causing an epidural hematoma). This real fat-filled compartment in the spine allows local anesthetics to bathe spinal nerve roots without traversing the dura into the CSF.",
+    "pearl": "Cranial epidural space = potential space (calvarium fused to outer dura); Spinal epidural space = true space filled with adipose tissue and Batson\\'s venous plexus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-004",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neuroanatomy student examines cross-sections of the human central nervous system. When comparing the macroscopic organization of the cerebral hemispheres to the spinal cord, which of the following statements correctly describes their structural arrangement?",
+    "choices": {
+      "A": "Both the cerebrum and spinal cord have gray matter located strictly on their outer surfaces",
+      "B": "Both the cerebrum and spinal cord have ascending white matter columns in their central cores",
+      "C": "The cerebrum has centrally located gray nuclei surrounded by external cortical white matter",
+      "D": "The cerebrum features external cortex gray matter and deep white matter, whereas the spinal cord has central butterfly-shaped gray matter and peripheral white matter",
+      "E": "The spinal cord has an outer gray cortex while the ventricles of the brain are wrapped directly by ascending tracts"
+    },
+    "correct": "D",
+    "rationale": "In the brain (cerebral cortex and cerebellar cortex), gray matter (neuronal cell bodies, dendrites, and synapses) is located on the outer periphery, surrounding the deeper cerebral white matter (myelinated axonal tracts). In the spinal cord, this arrangement is reversed: gray matter is centrally located in a characteristic butterfly/H-shape surrounding the central canal, while white matter (funiculi containing ascending sensory and descending motor tracts) forms the outer peripheral mantle.",
+    "pearl": "Brain = external gray cortex, deep white matter tracts; Spinal cord = central butterfly gray matter, outer peripheral white columns.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-005",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A cross-section through the midthoracic spinal cord (T6) reveals three distinct horns of gray matter. A researcher studies the functional organization of these horns. Which of the following correctly pairs a spinal gray matter horn with its primary physiological function?",
+    "choices": {
+      "A": "Dorsal horn \u2014 origin of alpha motor neurons innervating somatic skeletal muscle",
+      "B": "Ventral horn \u2014 termination of primary visceral afferents relaying temperature",
+      "C": "Lateral horn \u2014 primary site of secondary sensory interneurons forming the spinothalamic tract",
+      "D": "Dorsal horn \u2014 origin of sympathetic preganglionic autonomic motor fibers",
+      "E": "Lateral horn \u2014 preganglionic sympathetic cell bodies projecting to the sympathetic chain"
+    },
+    "correct": "E",
+    "rationale": "The spinal gray matter is functionally divided into three horns: (1) Dorsal (posterior) horn: receives primary somatic and visceral sensory input from dorsal root ganglion neurons and contains second-order relay neurons; (2) Ventral (anterior) horn: contains cell bodies of alpha and gamma somatic motor neurons that exit via ventral roots to innervate skeletal muscle; (3) Lateral (intermediolateral) horn: present from T1 to L2/L3, contains the cell bodies of preganglionic sympathetic autonomic neurons whose axons exit via the ventral roots into white rami communicantes.",
+    "pearl": "Dorsal horn = sensory (alar plate); Ventral horn = somatic motor (basal plate); Lateral horn (T1\u2013L2) = sympathetic preganglionics (intermediolateral cell column).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-006",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 29-year-old woman presents with persistent numbness across the entirety of her right hand digits. Neurological sensory testing confirms complete loss of light touch, pinprick, and vibration across all five digits of the right hand. Assuming this deficit represents compression of cervical spinal nerve roots, which roots must be affected to produce sensory loss across all five digits?",
+    "choices": {
+      "A": "C6, C7, and C8 roots",
+      "B": "C4, C5, and C6 roots",
+      "C": "C5 only",
+      "D": "C8 and T1 only",
+      "E": "C7 only"
+    },
+    "correct": "A",
+    "rationale": "The sensory innervation of the hand digits is distributed across three cervical roots: C6 innervates the thumb (digit 1) and radial lateral forearm; C7 innervates the index and middle fingers (digits 2 and 3); and C8 innervates the ring and little fingers (digits 4 and 5) as well as the medial hand. Therefore, total sensory loss encompassing all digits of the hand requires compromise of roots C6, C7, and C8.",
+    "pearl": "Hand digit dermatomes: C6 = thumb (make a '6' with thumb and index); C7 = middle finger; C8 = pinky/ring finger.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-007",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a dermatomal mapping examination on a patient recovering from a spinal injury, the physician touches a cotton wisp to the skin over the dermatomal landmark aligned with the level of the umbilicus, and another at the level of the nipples. Which spinal cord levels correspond to the nipple and umbilicus landmarks, respectively?",
+    "choices": {
+      "A": "T2 and T8",
+      "B": "T4 and T10",
+      "C": "T6 and T12",
+      "D": "T4 and L1",
+      "E": "T1 and T10"
+    },
+    "correct": "B",
+    "rationale": "Key landmark dermatomes are essential board knowledge: C6 = thumb; T4 = at the horizontal level of the nipples (T4 at the teat); T10 = at the horizontal level of the umbilicus (T10 at the belly but-ten); L1 = inguinal ligament; L4 = anterior knee and medial malleolus; S1 = lateral foot/Achilles tendon.",
+    "pearl": "T4 = nipple level (\"T4 at the teat\"); T10 = umbilicus (\"T10 at the belly but-TEN\").",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-008",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man undergoes electrophysiological assessment of fine touch perception. An axon transmitting discriminative touch from a mechanoreceptor on his right index finger is traced into the central nervous system. How many sequential neurons constitute the classical dorsal column-medial lemniscal (DCML) pathway from peripheral receptor to primary somatosensory cortex?",
+    "choices": {
+      "A": "Single pseudounipolar neuron",
+      "B": "Two neurons",
+      "C": "Three neurons",
+      "D": "Four neurons",
+      "E": "Five neurons"
+    },
+    "correct": "C",
+    "rationale": "The DCML somatosensory pathway consists of a classical 3-neuron chain: (1) First-order neuron: Pseudounipolar neuron in the dorsal root ganglion (DRG); its peripheral axon innervates mechanoreceptors and its central axon ascends uncrossed in the ipsilateral dorsal columns; (2) Second-order neuron: Cell body located in nucleus gracilis or nucleus cuneatus in the caudal medulla; its axon decussates as internal arcuate fibers and ascends in the contralateral medial lemniscus; (3) Third-order neuron: Cell body in the ventral posterolateral (VPL) nucleus of the thalamus; its axon projects through the posterior limb of the internal capsule to the primary somatosensory cortex (postcentral gyrus, Brodmann areas 3, 1, 2).",
+    "pearl": "DCML = 3 neurons: 1st in DRG (ipsilateral ascent), 2nd in gracilis/cuneatus (crosses in medulla as internal arcuate fibers), 3rd in VPL thalamus (projects to postcentral gyrus).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-009",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with an isolated stroke in the ventral caudal medulla exhibits selective destruction of the internal arcuate fibers. Which of the following functional neuroanatomical events occurs at the level of these internal arcuate fibers?",
+    "choices": {
+      "A": "Primary afferent axons from the DRG synapse on the substantia gelatinosa",
+      "B": "Axons of third-order neurons project into the posterior limb of the internal capsule",
+      "C": "Descending corticospinal axons cross the midline into the lateral funiculus",
+      "D": "Axons of second-order dorsal column neurons decussate across the midline to form the contralateral medial lemniscus",
+      "E": "First-order spinothalamic axons ascend across Lissauer\\'s tract"
+    },
+    "correct": "D",
+    "rationale": "In the caudal closed medulla, first-order DCML fibers synapse in nucleus gracilis and nucleus cuneatus. Axons emerging from these second-order neuronal cell bodies sweep ventromedially as internal arcuate fibers, decussating across the midline. Once across, they turn rostrally to form the medial lemniscus. Therefore, damage to internal arcuate fibers abolishes conscious proprioception, vibration, and discriminative touch from the contralateral body.",
+    "pearl": "Internal arcuate fibers represent the decussation of second-order DCML neurons in the caudal medulla, forming the contralateral medial lemniscus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-010",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old woman suffers a lacunar stroke resulting in an ischemic infarct strictly confined to the ventral posterolateral (VPL) nucleus of the left thalamus. What is the precise role of the VPL nucleus in somatosensory processing?",
+    "choices": {
+      "A": "It contains the cell bodies of second-order motor interneurons that synapse on cranial nerve nuclei",
+      "B": "It receives sensory inputs from the facial trigeminal nerve and relays them to the parietal operculum",
+      "C": "It serves as an inhibitory gate for autonomic preganglionic fibers descending to the lateral horn",
+      "D": "It acts as the primary decussation site for pain and temperature fibers ascending from the spinal cord",
+      "E": "It houses the third-order neuronal cell bodies that receive both medial lemniscal and spinothalamic axons and project to the primary somatosensory cortex"
+    },
+    "correct": "E",
+    "rationale": "The ventral posterolateral (VPL) nucleus of the thalamus is the obligate somatosensory relay hub for all tactile, vibratory, proprioceptive, pain, and temperature information originating from the contralateral body below the neck. It receives second-order axons from the medial lemniscus (DCML) and the spinothalamic tract (ALS). Its third-order neurons project via the posterior limb of the internal capsule to the primary somatosensory cortex (postcentral gyrus). (Trigeminal sensation from the face relays through the VPM, not VPL).",
+    "pearl": "VPL = Thalamic relay for the Body (VPL = Pain and Touch from Limbs); VPM = Thalamic relay for the Face (VPM = Make-up / Mouth).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-011",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neurologist conducts a sensory examination on a 55-year-old man. He asks the patient to stand erect with feet together and arms at his sides. The patient is stable while his eyes remain open. However, when the patient closes his eyes, he immediately begins to sway violently and loses his balance, requiring physical support. What sensory pathway is damaged in this patient, and what does this test signify?",
+    "choices": {
+      "A": "Dorsal column-medial lemniscal system; positive Romberg sign indicating sensory (proprioceptive) ataxia",
+      "B": "Vestibulocochlear nerve; negative Romberg sign indicating benign paroxysmal vertigo",
+      "C": "Lateral spinothalamic tract; positive Romberg sign indicating fast pain deafferentation",
+      "D": "Spinocerebellar vermis; positive Romberg sign indicating cerebellar dysdiadochokinesia",
+      "E": "Corticospinal tract; positive Babinski sign indicating upper motor neuron spasticity"
+    },
+    "correct": "A",
+    "rationale": "Equilibrium while standing requires at least 2 of 3 sensory modalities: vision, vestibular input, and conscious proprioception (DCML). With eyes open, vision compensates for impaired proprioception. Closing the eyes removes visual compensation; if proprioception is defective, the patient sways or falls, demonstrating a positive Romberg sign. This confirms sensory (proprioceptive) ataxia caused by lesions in the dorsal columns (e.g., tabes dorsalis, vitamin B12 deficiency) or large peripheral sensory nerves. In cerebellar ataxia, patients are unsteady with eyes open AND closed.",
+    "pearl": "Romberg sign = eyes open steady, eyes closed unsteady -> DCML / conscious proprioception loss (sensory ataxia). Cerebellar lesions cause instability with eyes open AND closed.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-012",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A basic science laboratory investigates the cortical representation of the human body in the primary somatosensory cortex (postcentral gyrus). When comparing the representation of the foot, arm, and hand in terms of anatomical location and cortical volume, which of the following is correct?",
+    "choices": {
+      "A": "The foot has the largest cortical area and is situated on the lateral convexity above the face",
+      "B": "The hand has a disproportionately large area located on the lateral convexity, whereas the foot occupies a smaller area on the medial surface within the paracentral lobule",
+      "C": "The hand and foot occupy equal surface areas because both contain five digits",
+      "D": "The arm is represented on the medial surface in the anterior cerebral artery territory, while the hand is strictly in the posterior cerebral territory",
+      "E": "The foot occupies the lateral operculum while the hand is buried within the insula"
+    },
+    "correct": "B",
+    "rationale": "The somatosensory homunculus reflects sensory receptor density and tactile acuity rather than physical anatomical size. The hand and fingers have dense mechanoreceptor innervation and small receptive fields, resulting in a disproportionately massive cortical representation situated on the lateral convexity of the postcentral gyrus (middle cerebral artery territory). In contrast, the foot and leg have lower receptor density, smaller cortical representation, and are mapped onto the medial surface of the hemisphere within the paracentral lobule (anterior cerebral artery territory).",
+    "pearl": "Sensory homunculus: Hand/face = massive representation on lateral surface (MCA); Leg/foot = small representation on medial surface/paracentral lobule (ACA).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-013",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old woman is evaluated for peripheral sensory receptor physiology. She is blindfolded and tested with a high-frequency (250 Hz) tuning fork applied to her fingertip, which she perceives immediately. Which of the following tactile mechanoreceptors is specialized for detecting high-frequency vibrations and consists of an unmyelinated nerve terminal surrounded by concentric lamellae of flattened Schwann-like cells?",
+    "choices": {
+      "A": "Merkel disc",
+      "B": "Meissner corpuscle",
+      "C": "Pacinian corpuscle",
+      "D": "Ruffini ending",
+      "E": "Free nerve ending"
+    },
+    "correct": "C",
+    "rationale": "Pacinian (lamellar) corpuscles are large mechanoreceptors located deep in the dermis, hypodermis, and joint capsules. They consist of a central unmyelinated axon enclosed by an onion-like capsule of concentric connective tissue lamellae. They are rapidly adapting (phasic) and exquisitely sensitive to high-frequency vibration (200\u2013300 Hz) and sudden pressure changes. Meissner corpuscles detect low-frequency flutter (30\u201350 Hz) and light touch; Merkel discs detect sustained static pressure, shapes, and edges; Ruffini endings detect skin stretch.",
+    "pearl": "Pacinian corpuscle = deep, rapidly adapting, onion-skin lamellae, detects high-frequency vibration (tuning fork).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-014",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient reads Braille with her fingertips, distinguishing minute raised dots that require high spatial resolution and continuous static discrimination of edges and form. Which mechanoreceptor is primarily responsible for encoding this fine spatial tactile acuity due to its slow adaptation rate and small, discrete receptive fields?",
+    "choices": {
+      "A": "Pacinian corpuscle",
+      "B": "Ruffini corpuscle",
+      "C": "Meissner corpuscle",
+      "D": "Merkel disc",
+      "E": "Hair follicle receptor"
+    },
+    "correct": "D",
+    "rationale": "Merkel cell-neurite complexes (Merkel discs) are located in the basal layer of the epidermis. They are slowly adapting type I (SA-I) mechanoreceptors with small, well-defined receptive fields. They respond continuously to sustained indentation, making them uniquely capable of resolving static edges, curves, rough textures, and fine tactile details such as Braille reading. Meissner corpuscles are rapidly adapting (slip, low-frequency flutter); Pacinian corpuscles are rapidly adapting (vibration); Ruffini endings are slowly adapting (skin stretch, large receptive fields).",
+    "pearl": "Merkel discs = slowly adapting, small receptive fields, basal epidermis, detect sustained pressure/edges/Braille; Meissner = rapidly adapting, dermal papillae, light flutter.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-015",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old man undergoes cross-sectional imaging of the spinal cord at the C4 level. The dorsal columns are divided into a medial and a lateral white matter fasciculus by the posterior intermediate sulcus. Which of the following correctly describes the anatomical organization and somatotopy of these fasciculi?",
+    "choices": {
+      "A": "Fasciculus cuneatus is medial and carries lower extremity sensory inputs from sacral levels",
+      "B": "Fasciculus gracilis is lateral and appears only above the T6 spinal level",
+      "C": "Both fasciculi carry pain and temperature fibers that decussate across the anterior white commissure",
+      "D": "Fasciculus gracilis carries descending motor information to the upper extremities",
+      "E": "Fasciculus gracilis is situated medially carrying inputs from below T6 (leg/sacrum), while fasciculus cuneatus is situated laterally carrying inputs from T6 and above (arm/neck)"
+    },
+    "correct": "E",
+    "rationale": "Somatotopy in the dorsal columns is strictly organized: incoming primary afferents from sacral, lumbar, and lower thoracic levels are pushed medially as they ascend. Fasciculus gracilis is the medial tract, present throughout the entire length of the spinal cord, and carries tactile/vibratory/proprioceptive information from below T6 (lower trunk and legs). At T6 and above, afferents from the upper trunk and arms enter and form the fasciculus cuneatus, which lies lateral to fasciculus gracilis.",
+    "pearl": "Gracilis is medial (carries legs: Gracilis = Grass on the ground); Cuneatus is lateral (carries arms: Cuneatus = Closer to the sky / arms; present only above T6).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-016",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient presents with isolated sensory loss over the lateral aspect of the foot, fifth digit, and sole, along with a diminished Achilles tendon reflex. A lumbar spine MRI reveals a herniated disc compressing the corresponding nerve root. Which dermatome and root level are implicated?",
+    "choices": {
+      "A": "S1 root",
+      "B": "L4 root",
+      "C": "L5 root",
+      "D": "S3 root",
+      "E": "L2 root"
+    },
+    "correct": "A",
+    "rationale": "The S1 nerve root innervates the lateral aspect of the foot, the fifth toe (pinky toe), the sole/heel, and mediates the Achilles (ankle jerk) reflex (S1\u2013S2). L4 innervates the anterior knee, medial calf, and medial malleolus (patellar reflex, L2\u2013L4). L5 innervates the anterolateral lower leg, dorsum of the foot, and the hallux (big toe).",
+    "pearl": "Dermatomes of the lower limb: L4 = medial leg / knee (patellar); L5 = dorsum of foot / big toe; S1 = lateral foot / pinky toe (Achilles reflex).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-017",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher studies mechanotransduction in dermal papillae of hairless skin (glabrous skin) of the human fingerpad. She identifies encapsuled receptors oriented perpendicular to the skin surface, containing stacks of horizontally lamellated Schwann cells. These receptors respond transiently to initial indentation and slip, rapidly terminating firing during sustained pressure. What receptor is she investigating?",
+    "choices": {
+      "A": "Ruffini ending",
+      "B": "Meissner corpuscle",
+      "C": "Merkel disc",
+      "D": "Golgi tendon organ",
+      "E": "Muscle spindle"
+    },
+    "correct": "B",
+    "rationale": "Meissner corpuscles are rapidly adapting (RA-I) mechanoreceptors located in the dermal papillae of glabrous (hairless) skin, particularly the fingertips, palms, and soles. They consist of stacks of flattened epithelial/Schwann cells enclosed in a delicate connective tissue sheath. They fire at the onset and offset of mechanical deformation (low-frequency vibration, 30\u201350 Hz, flutter, and grip slippage) and adapt quickly, ceasing firing during sustained static contact.",
+    "pearl": "Meissner corpuscle = dermal papillae of glabrous skin, rapidly adapting, detects light touch, dynamic movement, and grip slip.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-018",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 70-year-old man with advanced pernicious anemia presents with progressive numbness in his lower extremities, loss of vibration sense up to the iliac crests, severe sensory ataxia, and bilateral spastic paraparesis. An MRI demonstrates T2 hyperintensity in the posterior and lateral funiculi of the spinal cord (inverted \\'V\\' sign). Deficiency of which vitamin produces this characteristic condition, and what is the disorder named?",
+    "choices": {
+      "A": "Vitamin B1 (Thiamine); Wernicke-Korsakoff syndrome",
+      "B": "Vitamin B6 (Pyridoxine); Isoniazid peripheral neuropathy",
+      "C": "Vitamin B12 (Cobalamin); Subacute combined degeneration (SCD)",
+      "D": "Vitamin B3 (Niacin); Pellagra",
+      "E": "Vitamin E (Alpha-tocopherol); Friedreich ataxia"
+    },
+    "correct": "C",
+    "rationale": "Vitamin B12 (cobalamin) deficiency results in subacute combined degeneration (SCD) of the spinal cord. It selectively attacks the myelin of: (1) the dorsal columns (loss of vibration, position sense, sensory ataxia), (2) the lateral corticospinal tracts (spasticity, hyperreflexia, bilateral Babinski signs), and (3) occasionally the spinocerebellar tracts. The characteristic MRI finding on axial T2 imaging is hyperintensity confined to the posterior and lateral columns (the \"inverted V\" sign).",
+    "pearl": "Vitamin B12 deficiency = Subacute Combined Degeneration: Dorsal columns (proprioception/vibration) + Lateral corticospinal tracts (UMN signs).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-019",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old motorcyclist sustains a traumatic spinal cord injury. Neurological evaluation reveals loss of discriminative touch and conscious proprioception in his right lower extremity, while pain and temperature sensation are preserved in that same limb. The lesion is localized to the spinal cord. At what location did the primary sensory afferents for this patient\\'s touch sensation enter the cord?",
+    "choices": {
+      "A": "Ventral root",
+      "B": "White rami communicantes",
+      "C": "Ventral white commissure",
+      "D": "Dorsal root",
+      "E": "Central canal"
+    },
+    "correct": "D",
+    "rationale": "All primary somatic sensory afferents (including DCML fibers for touch, vibration, and proprioception, as well as ALS fibers for pain and temperature) enter the spinal cord via the dorsal roots. The cell bodies of these pseudounipolar neurons reside in the dorsal root ganglia (DRG). The ventral roots carry exclusively somatic and autonomic motor efferent axons.",
+    "pearl": "Dorsal root = incoming sensory fibers (cell bodies in DRG); Ventral root = outgoing motor axons (cell bodies in anterior/lateral horn).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CNT-020",
+    "topic": "Spinal Cord & DCML",
+    "lecture": "2.1 Spinal Cord Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old woman undergoes spinal cord biopsy for a research study. Histological staining identifies Rexed lamina II, located in the dorsal horn, which appears gelatinous under gross inspection due to a dense network of unmyelinated fibers. What is the traditional anatomical name for Rexed lamina II?",
+    "choices": {
+      "A": "Nucleus dorsalis of Clarke",
+      "B": "Nucleus proprius",
+      "C": "Intermediolateral cell column",
+      "D": "Marginal zone",
+      "E": "Substantia gelatinosa"
+    },
+    "correct": "E",
+    "rationale": "The spinal gray matter is classified into 10 Rexed laminae: Lamina I = marginal zone; Lamina II = substantia gelatinosa (critical site for modulation of nociceptive input by interneurons and opioid peptides); Laminae III and IV = nucleus proprius (relays tactile and nociceptive signals); Lamina VII = intermediolateral nucleus (T1\u2013L2) and Clarke\\'s column (C8\u2013L3); Lamina IX = somatic motor alpha and gamma motor neurons in the ventral horn.",
+    "pearl": "Rexed lamina II = Substantia gelatinosa (dorsal horn pain modulation); Lamina IX = Alpha motor neurons (ventral horn).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-001",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An orthopedic surgeon prepares to perform a soft-tissue debridement on the dorsum of a patient\\'s foot and infiltrates 1% lidocaine locally around the surgical site. Shortly after administration, the patient reports loss of sharp pinprick sensation, but can still clearly perceive the blunt pressure of the surgeon\\'s gloved finger. Which of the following best explains why pain sensation is extinguished before tactile pressure sensation following local anesthetic infiltration?",
+    "choices": {
+      "A": "Small-diameter myelinated A-delta and unmyelinated C pain fibers are blocked more rapidly than large-diameter, heavily myelinated A-beta tactile fibers",
+      "B": "Large-diameter tactile fibers possess fewer voltage-gated sodium channels per unit surface area than pain fibers",
+      "C": "Local anesthetics selectively bind to potassium leak channels on nociceptive terminals while sparing sodium channels",
+      "D": "Myelin sheaths actively degrade amine local anesthetics, preventing drug penetration into unmyelinated fibers",
+      "E": "Tactile fibers lack intracellular binding domains on the alpha subunit of voltage-gated sodium channels"
+    },
+    "correct": "A",
+    "rationale": "Local anesthetics block voltage-gated sodium channels from the intracellular side. The susceptibility of peripheral nerve fibers to local anesthetic conduction block depends primarily on fiber diameter and myelination: small-diameter fibers (such as small myelinated A-delta fibers and small unmyelinated C fibers transmitting pain and temperature) have shorter critical lengths of axon that must be blocked and fewer total sodium channels to overcome, making them much more sensitive than large-diameter, heavily myelinated A-beta fibers (which transmit touch, vibration, and pressure). Consequently, pain sensation is abolished well before touch sensation and motor function (A-alpha fibers).",
+    "pearl": "Differential local anesthetic nerve block sequence: Pain/temperature (A-delta, C) > Autonomic (B) > Touch/pressure (A-beta) > Motor (A-alpha).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-002",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neurosurgeon is performing intraoperative cortical stimulation mapping under awake conditions prior to resecting an oligodendroglioma in the parietal cortex. She applies an electrical bipolar stimulator to the primary somatosensory cortex (postcentral gyrus) at the specific region encoding the hand, eliciting paresthesias in the patient\\'s fingers. If she advances her stimulating electrode superiorly and medially along the convexity of the postcentral gyrus towards the apex, which anatomical sequence of body regions will the patient report experiencing sensations in next?",
+    "choices": {
+      "A": "Face \u2192 tongue \u2192 larynx \u2192 pharynx",
+      "B": "Forearm \u2192 arm \u2192 shoulder \u2192 trunk \u2192 thigh",
+      "C": "Foot \u2192 toes \u2192 genitalia \u2192 perineum",
+      "D": "Mandible \u2192 teeth \u2192 upper lip \u2192 forehead",
+      "E": "Little toe \u2192 big toe \u2192 knee \u2192 hip"
+    },
+    "correct": "B",
+    "rationale": "The somatotopic organization of the primary somatosensory cortex (postcentral gyrus) along the lateral convexity proceeds from inferior-lateral to superior-medial: tongue/pharynx \u2192 teeth/jaw \u2192 face/lips \u2192 hand/fingers \u2192 wrist \u2192 forearm \u2192 arm \u2192 shoulder \u2192 trunk/abdomen \u2192 hip/thigh. Over the superior margin onto the medial hemisphere surface (paracentral lobule) lie the leg, foot, toes, and perineum. Thus, moving upward from the hand region toward the superior margin encounters the forearm, arm, shoulder, trunk, and thigh.",
+    "pearl": "Somatosensory homunculus sequence along the lateral convexity (inferior to superior): Face \u2192 Hand \u2192 Arm \u2192 Trunk \u2192 Hip, continuing onto the medial wall as Leg \u2192 Foot.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-003",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 39-year-old man presents with progressive numbness and tingling in both lower extremities for 5 years and severe balance difficulties for 2 years. He notes that while walking, he must look down continuously at his feet and experiences catastrophic instability when navigating dark hallways or narrow spaces. He also describes intermittent, sudden, excruciating \\'lightning-like\\' pains shooting down both legs. His past medical history is notable for a painless genital ulcer 20 years ago that resolved after taking unprescribed herbal remedies. Serum VDRL and CSF Treponema pallidum particle agglutination (TPPA) tests are positive. Which of the following pathological processes underlies this patient\\'s neurological presentation?",
+    "choices": {
+      "A": "Autoimmune demyelination of the lateral funiculi and optic nerves",
+      "B": "Anterior horn motor neuron degeneration from enteroviral infection",
+      "C": "Demyelination and degeneration of large-diameter sensory fibers in the dorsal roots and dorsal columns",
+      "D": "Selective ischemic necrosis of the anterior two-thirds of the spinal cord",
+      "E": "Copper accumulation in the putamen and dorsal spinal gray matter"
+    },
+    "correct": "C",
+    "rationale": "This patient presents with classical tabes dorsalis (neurosyphilis / tertiary syphilis). Treponema pallidum spirochetes cause chronic inflammation and obliterative endarteritis that leads to selective atrophy and demyelination of large-diameter myelinated sensory fibers in the dorsal nerve roots (radiculopathy, causing lightning/lancinating pains) and the dorsal columns of the spinal cord (fasciculus gracilis, causing bilateral loss of proprioception, vibration, and sensory ataxia).",
+    "pearl": "Tabes dorsalis = Tertiary neurosyphilis: Demyelination of dorsal roots (lancinating pains, areflexia) and dorsal columns (sensory ataxia, positive Romberg, loss of vibration/proprioception).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-004",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 39-year-old man with untreated neurosyphilis is evaluated in the clinic. On physical examination, muscle strength is 5/5 in all four extremities. However, patellar and Achilles tendon deep tendon reflexes are completely absent bilaterally, and superficial abdominal reflexes cannot be elicited. What is the physiological mechanism responsible for the bilateral loss of deep tendon reflexes in this patient?",
+    "choices": {
+      "A": "Denervation and necrosis of alpha motor neurons in Rexed lamina IX",
+      "B": "Interruption of the descending rubrospinal excitatory motor pathway",
+      "C": "Generalized block of neuromuscular junction nicotinic acetylcholine receptors",
+      "D": "Disruption of the primary 1a sensory afferent limb of the monosynaptic stretch reflex in the dorsal roots",
+      "E": "Cortical suppression from hyperactive basal ganglia indirect pathways"
+    },
+    "correct": "D",
+    "rationale": "The deep tendon reflex (myotatic stretch reflex) is a monosynaptic circuit requiring: (1) muscle spindle stretch, (2) an afferent limb carried by large-diameter group 1a primary sensory fibers entering through the dorsal roots, (3) a single synapse in the anterior horn, and (4) an efferent limb mediated by alpha motor neurons exiting via ventral roots to skeletal muscle. Tabes dorsalis selectively destroys the large-diameter sensory fibers in the dorsal roots, abolishing the afferent limb of the reflex arc. Because the sensory input is interrupted, the reflex is lost (areflexia) despite completely normal alpha motor neurons and muscle strength.",
+    "pearl": "Tabes dorsalis causes hyporeflexia/areflexia because dorsal root degeneration destroys the *afferent* limb of the monosynaptic stretch reflex, leaving motor strength intact.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-005",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a neurological examination of a patient with suspected tabes dorsalis, the physician assesses the patient\\'s gait. The patient walks with a broad-based, high-stepping gait, and forcefully slaps his soles against the tile floor with each forward stride. When asked why he walks in this manner, the patient explains that slapping his feet helps him maintain his balance. What is the clinical term for this gait, and why does the patient intentionally slap his feet?",
+    "choices": {
+      "A": "Spastic hemiplegic gait; to overcome unilateral gastrocnemius contracture",
+      "B": "Steppage gait; to compensate for common fibular nerve foot drop",
+      "C": "Festinating gait; to prevent falling forward due to retropulsion",
+      "D": "Choriec gait; due to involuntary choreiform flinging movements",
+      "E": "Stamping (sensory ataxic) gait; to generate auditory and bone-conduction cues that substitute for absent proprioception"
+    },
+    "correct": "E",
+    "rationale": "Patients with dorsal column damage lose conscious proprioception and kinesthetic awareness of where their limbs are in space. To compensate, they widen their base of support (broad-based gait) and keep their eyes glued to the floor. Furthermore, they adopt a \"stamping\" (tabetic) gait: they lift their legs abnormally high and forcefully slap their feet down on the ground to produce auditory feedback (sound of footsteps) and vibrations transmitted to higher, intact tactile receptors, confirming when foot-ground contact has occurred.",
+    "pearl": "Stamping gait (tabetic gait) = Broad-based, forceful foot-slapping on the floor to provide auditory cues substituting for lost conscious proprioception (dorsal column lesion).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-006",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old man with documented neurosyphilis is tested with a 128-Hz tuning fork and passive joint movement. Vibration perception is absent bilaterally at the great toes, medial malleoli, and anterior tibial tuberosities. Joint position sense is absent at the interphalangeal and metatarsophalangeal joints of both feet. However, pinprick and warm/cold sensation remain completely intact in both lower extremities. What anatomical difference between somatosensory pathways accounts for this dissociated sensory loss?",
+    "choices": {
+      "A": "Vibration and proprioception ascend uncrossed in the dorsal columns, which are selectively damaged, while pain and temperature fibers cross immediately in the spinal cord and ascend in the intact anterolateral system",
+      "B": "Pain fibers terminate in the nucleus gracilis while proprioceptive fibers bypass the brainstem completely",
+      "C": "Tactile fibers cross in the anterior white commissure, protecting them from dorsal root pathology",
+      "D": "Pain fibers travel exclusively in the corticospinal tract, which is resistant to spirochetal infiltration",
+      "E": "The dorsal columns are perfused by the anterior spinal artery, which is selectively occluded by syphilis"
+    },
+    "correct": "A",
+    "rationale": "Tactile, vibratory, and proprioceptive fibers (carried by large-diameter A-alpha/A-beta fibers) enter the cord and ascend uncrossed in the ipsilateral dorsal columns (fasciculus gracilis and cuneatus). In tabes dorsalis, these large fibers in the dorsal roots and columns undergo selective demyelination and atrophy. Conversely, nociceptive and thermal fibers (small A-delta and unmyelinated C fibers) enter via the lateral division of the dorsal root, synapse in the dorsal horn (Rexed laminae I/II), and cross in the anterior white commissure to ascend in the anterolateral system (spinothalamic tract), which is preserved in tabes dorsalis.",
+    "pearl": "Dissociated sensory loss in tabes dorsalis: Selective loss of DCML modalities (vibration, 2-point discrimination, proprioception) with intact ALS modalities (pinprick, temperature).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-007",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 12-year-old boy is brought to the emergency department with a 2-day history of high fever, throbbing headache, photophobia, and marked nuchal rigidity. Bacterial meningitis is suspected. The attending physician prepares to perform a diagnostic lumbar puncture to obtain cerebrospinal fluid. Between which vertebral interspaces is the lumbar puncture needle most safely introduced in this patient?",
+    "choices": {
+      "A": "T12 and L1",
+      "B": "L4 and L5 (or L3 and L4)",
+      "C": "C7 and T1",
+      "D": "L1 and L2",
+      "E": "S2 and S3"
+    },
+    "correct": "B",
+    "rationale": "In adults and children older than infancy, the spinal cord terminates as the conus medullaris at the lower border of L1 or upper border of L2 (in newborns, it may extend to L3). Below the conus medullaris, the subarachnoid space widens into the lumbar cistern, extending down to S2. A lumbar puncture is performed at the L3\u2013L4 or L4\u2013L5 interspinous space (well below the termination of the spinal cord at L1\u2013L2) to avoid penetrating or injuring the solid spinal cord.",
+    "pearl": "Conus medullaris terminates at L1\u2013L2; lumbar puncture is performed at L3\u2013L4 or L4\u2013L5 (at the level of the iliac crests / Tuffier\\'s line) to ensure safe access to the lumbar cistern.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-008",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a lumbar puncture performed at the L4\u2013L5 interspinous space, the spinal needle enters the lumbar cistern. Which neural structures are present within this subarachnoid cistern at the L4\u2013L5 level, and why are they relatively protected from mechanical injury by the advancing needle?",
+    "choices": {
+      "A": "Conus medullaris; it is held rigid by the denticulate ligaments",
+      "B": "Filum terminale externum; it completely fills the thecal sac, blocking needle entry",
+      "C": "Cauda equina; these nerve roots are freely mobile within the CSF and float away from the needle tip",
+      "D": "Sympathetic chain ganglia; they are enclosed within thick cartilaginous sheaths",
+      "E": "Anterior spinal artery; it forms an impenetrable fibrous barrier around the cauda equina"
+    },
+    "correct": "C",
+    "rationale": "Below L1\u2013L2, the spinal canal contains the cauda equina (the elongated dorsal and ventral nerve roots of spinal nerves L2 through Co1) suspended within the cerebrospinal fluid of the lumbar cistern. Because these nerve roots are mobile and floating freely in CSF, they tend to move aside and float away when approached by the beveled tip of an advancing spinal needle, rather than being impaled or severed.",
+    "pearl": "The cauda equina consists of mobile lumbosacral nerve roots suspended in CSF that slip away from the needle tip during lumbar puncture, minimizing traumatic nerve injury.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-009",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A resident is inserting a 22-gauge spinal needle into the L4\u2013L5 interspinous space to sample CSF. As the needle passes from superficial skin toward the subarachnoid space in the midline, which of the following lists the correct anatomical sequence of tissue layers traversed?",
+    "choices": {
+      "A": "Skin \u2192 subcutaneous tissue \u2192 ligamentum flavum \u2192 supraspinous ligament \u2192 epidural space \u2192 dura mater",
+      "B": "Skin \u2192 subcutaneous tissue \u2192 interspinous ligament \u2192 supraspinous ligament \u2192 arachnoid mater \u2192 dura mater",
+      "C": "Skin \u2192 subcutaneous tissue \u2192 posterior longitudinal ligament \u2192 dura mater \u2192 arachnoid mater",
+      "D": "Skin \u2192 subcutaneous tissue \u2192 supraspinous ligament \u2192 interspinous ligament \u2192 ligamentum flavum \u2192 epidural space \u2192 dura mater \u2192 arachnoid mater",
+      "E": "Skin \u2192 ligamentum nuchae \u2192 denticulate ligament \u2192 pia mater \u2192 subarachnoid space"
+    },
+    "correct": "D",
+    "rationale": "The anatomical layers traversed by a midline lumbar puncture needle from superficial to deep are: (1) Skin, (2) Subcutaneous adipose tissue, (3) Supraspinous ligament (connecting tips of spinous processes), (4) Interspinous ligament (connecting adjacent spinous processes), (5) Ligamentum flavum (yellow elastic ligament, provides first tactile \"pop\"), (6) Epidural space (loose fat and venous plexus), (7) Dura mater, (8) Arachnoid mater (penetration of dura-arachnoid interface provides the second tactile \"give\" or \"pop\"), and finally entry into the (9) Subarachnoid space (lumbar cistern, yielding CSF).",
+    "pearl": "Lumbar puncture layers: Skin \u2192 Subcutaneous \u2192 Supraspinous \u2192 Interspinous \u2192 Ligamentum flavum (\"pop\") \u2192 Epidural space \u2192 Dura/Arachnoid (\"pop\") \u2192 Subarachnoid space (CSF).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-010",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "To reliably identify the L4 vertebral spinous process before performing a lumbar puncture, the clinician palpates the highest points of the iliac crests bilaterally and visualizes a horizontal line connecting them across the lower back. What is the clinical anatomical name for this anatomical landmark?",
+    "choices": {
+      "A": "Spinothalamic baseline",
+      "B": "Line of Gennari",
+      "C": "Denticulate horizon",
+      "D": "Sulcus limitans",
+      "E": "Tuffier\\'s line (intercristal line)"
+    },
+    "correct": "E",
+    "rationale": "Tuffier\\'s line (also known as the intercristal line) is an imaginary horizontal transverse line drawn between the superior aspects of the iliac crests across the posterior torso. Anatomically, this line intersects the vertebral column at the L4 spinous process or the L4\u2013L5 intervertebral space, providing a reliable surface landmark for selecting the L3\u2013L4 or L4\u2013L5 interspinous space for safe lumbar puncture.",
+    "pearl": "Tuffier\\'s line (intercristal line) connects the superior borders of the iliac crests and crosses the spine at the L4 vertebral level, guiding LP needle placement.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-011",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man presents with sharp, electric shooting pains radiating from his buttocks down the posterolateral aspect of both legs into his feet. Neurological exam reveals absent ankle reflexes bilaterally and marked sensory ataxia. A diagnosis of tabes dorsalis is made. Which anatomical portion of the primary sensory neuron is the primary target of Treponema pallidum-induced inflammation and demyelination?",
+    "choices": {
+      "A": "Dorsal root entry zone and proximal dorsal root axons",
+      "B": "Ventral root alpha motor neuron terminals",
+      "C": "Postsynaptic dendritic spines in Rexed lamina IX",
+      "D": "Peripheral Pacinian corpuscle capsule lamellae",
+      "E": "Axons in the lateral spinothalamic tract"
+    },
+    "correct": "A",
+    "rationale": "In tabes dorsalis, syphilitic spirochetal meningitis leads to chronic interstitial inflammation and obliterative endarteritis centered specifically on the dorsal nerve roots and the dorsal root entry zone (where central sensory axons penetrate the spinal cord). Demyelination and Waller-like degeneration of these incoming primary afferents then ascends rostrally through the fasciculus gracilis, leading to dorsal column pallor and atrophy.",
+    "pearl": "Tabes dorsalis primarily targets the dorsal root entry zone and dorsal roots, with secondary ascending degeneration of the dorsal columns (fasciculus gracilis).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-012",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman with a history of cervical spondylosis undergoes sensory threshold testing. When her forearm is stimulated with a fine brush, she identifies the location immediately. However, when she receives an intramuscular injection, the aching deep muscle soreness develops slowly and persists for hours. What type of sensory nerve fibers conduct this slow, dull, aching, poorly localized pain?",
+    "choices": {
+      "A": "Heavily myelinated A-alpha fibers",
+      "B": "Unmyelinated C fibers",
+      "C": "Moderately myelinated A-beta fibers",
+      "D": "Fast myelinated A-delta fibers",
+      "E": "Preganglionic sympathetic B fibers"
+    },
+    "correct": "B",
+    "rationale": "Nociceptive pain is conducted by two distinct fiber classes: (1) A-delta fibers: lightly myelinated, medium conduction velocity (5\u201330 m/s), transmitting \"first pain\" (sharp, pricking, well-localized, fast pain); (2) C fibers: unmyelinated, slowest conduction velocity (0.5\u20132 m/s), transmitting \"second pain\" (dull, burning, aching, throbbing, poorly localized, prolonged pain from deep somatic structures and viscera). Tactile sensation is carried by A-beta fibers (30\u201370 m/s), and proprioception from spindles by A-alpha fibers (70\u2013120 m/s).",
+    "pearl": "First pain (sharp, well-localized) = A-delta fibers; Second pain (dull, aching, burning, slow) = unmyelinated C fibers.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-013",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old male with a history of primary syphilis treated ineffectively with home remedies presents with a positive Romberg test. Which of the following pathways provides the conscious awareness of limb position that is disrupted in this patient?",
+    "choices": {
+      "A": "Lateral spinothalamic tract to the primary motor cortex",
+      "B": "Anterior spinocerebellar tract to the cerebellar vermis",
+      "C": "Dorsal column-medial lemniscal pathway terminating in the primary somatosensory cortex",
+      "D": "Rubrospinal tract terminating in the lateral vestibular nucleus",
+      "E": "Tectospinal tract terminating in the superior colliculus"
+    },
+    "correct": "C",
+    "rationale": "Conscious proprioception (the subjective awareness of joint position and limb movement in space) is exclusively transmitted via the dorsal column-medial lemniscal (DCML) pathway, which projects through the thalamic VPL nucleus to the primary somatosensory cortex (postcentral gyrus). In contrast, unconscious proprioception (essential for automated motor coordination and posture) travels via the spinocerebellar tracts directly to the cerebellum. A positive Romberg test reflects impairment of *conscious* proprioception (DCML system).",
+    "pearl": "Conscious proprioception = DCML \u2192 VPL thalamus \u2192 postcentral gyrus; Unconscious proprioception = Spinocerebellar tracts \u2192 cerebellum.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-014",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient undergoes neurological examination. The physician places a vibrating 128-Hz tuning fork against the right medial malleolus, and the patient reports no sensation of vibration. However, when the tuning fork is placed on the right sternum, vibration is felt normally. If this deficit is due to a focal spinal cord lesion, which structure in the spinal cord is damaged?",
+    "choices": {
+      "A": "Left fasciculus cuneatus",
+      "B": "Left lateral spinothalamic tract",
+      "C": "Right anterior white commissure",
+      "D": "Right fasciculus gracilis",
+      "E": "Right fasciculus cuneatus"
+    },
+    "correct": "D",
+    "rationale": "Vibration from the lower extremities (medial malleolus, below T6) travels ipsilaterally in the fasciculus gracilis. Because the DCML pathway does not decussate until the caudal medulla (via internal arcuate fibers), a lesion within the spinal cord causes ipsilateral loss of vibration and joint position sense below the level of the lesion. Thus, loss of vibration at the right medial malleolus with intact upper chest sensation (innervated by upper thoracic roots) localizes to the right fasciculus gracilis in the spinal cord.",
+    "pearl": "Dorsal column lesions in the spinal cord cause *ipsilateral* loss of vibration and proprioception below the lesion because fibers have not yet decussated (decussation occurs in medulla).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-015",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man presents with chronic tabes dorsalis. On examination, the neurologist observes that his pupils are small, irregular, and bilateral. The pupils do not constrict in response to direct or consensual bright light stimulation, but they constrict promptly when the patient converges his eyes to focus on a near target. What is this classic pupillary sign called, and what is its underlying neuroanatomical localization?",
+    "choices": {
+      "A": "Horner syndrome; sympathetic chain disruption in the neck",
+      "B": "Adie tonic pupil; ciliary ganglion denervation in the orbit",
+      "C": "Marcus Gunn pupil; optic nerve demyelinating conduction block",
+      "D": "Hutchinson pupil; uncal herniation compressing the ipsilateral oculomotor nerve",
+      "E": "Argyll Robertson pupil; pretectal midbrain lesion near the Edinger-Westphal nuclei"
+    },
+    "correct": "E",
+    "rationale": "The Argyll Robertson pupil (\"prostitute\\'s pupil\") is highly specific for neurosyphilis (tabes dorsalis). The pupils accommodate to near vision but do not react to light (\"Accommodation Reflex Present, Light Reflex Absent\" = ARP/PRA). The classical localization is bilateral lesions in the pretectal area of the midbrain, disrupting the light reflex afferents to the Edinger-Westphal nuclei while sparing the more ventral cortical pathways mediating near accommodation/convergence.",
+    "pearl": "Argyll Robertson pupil = \"Accommodates but does not React\" to light; classical sign of neurosyphilis / tabes dorsalis due to pretectal midbrain involvement.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-016",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A newborn infant undergoes a lumbar puncture to evaluate for neonatal sepsis. The pediatrician recalls that the anatomical termination of the spinal cord (conus medullaris) in a full-term newborn lies at a different vertebral level than in an adult. At what vertebral level does the conus medullaris typically terminate at birth?",
+    "choices": {
+      "A": "L3 vertebral level",
+      "B": "T10 vertebral level",
+      "C": "L1 vertebral level",
+      "D": "S2 vertebral level",
+      "E": "C7 vertebral level"
+    },
+    "correct": "A",
+    "rationale": "During embryonic development, the spinal cord and vertebral canal are of equal length. Because the bony vertebral column grows faster and longer than the spinal cord during fetal life, the cord \"ascends\" relative to the vertebrae. At birth, the conus medullaris terminates around the L3 vertebral level. By adulthood, it typically lies at the L1\u2013L2 interspace. For this reason, lumbar punctures in infants are performed at lower levels (L4\u2013L5 or L5\u2013S1) to avoid spinal cord trauma.",
+    "pearl": "Conus medullaris level: At birth = L3 vertebra; In adults = L1\u2013L2 vertebra (due to differential bony spine elongation).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-017",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old woman with tabes dorsalis experiences lancinating, sharp, episodic pains shooting across her lower abdomen, thighs, and calves. These pains are refractory to over-the-counter analgesics. Which of the following medications is the first-line pharmacotherapeutic agent of choice for treating syphilitic lancinating neuropathic pains?",
+    "choices": {
+      "A": "Penicillin G",
+      "B": "Carbamazepine",
+      "C": "Naloxone",
+      "D": "Succinylcholine",
+      "E": "Neostigmine"
+    },
+    "correct": "B",
+    "rationale": "While intravenous Penicillin G is the mandatory antimicrobial treatment to arrest the progression of Treponema pallidum infection in neurosyphilis, penicillin does not reverse established structural nerve root degeneration and does not alleviate the neuropathic lancinating pains. For symptomatic management of tabetic lancinating pains (as well as trigeminal neuralgia), voltage-gated sodium channel blockers such as Carbamazepine (or Gabapentin) are the first-line agents of choice to suppress ectopic neuronal firing.",
+    "pearl": "Neurosyphilis infection treatment = IV Penicillin G; Tabetic lancinating pain symptomatic treatment = Carbamazepine (sodium channel blocker).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-018",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 54-year-old woman undergoes a diagnostic spinal tap. The operator inserts the needle into the subarachnoid space, and clear CSF drips out. When the needle entered the space between the ligamentum flavum and the dura mater, what anatomical structure did the needle tip pass through?",
+    "choices": {
+      "A": "Subdural space",
+      "B": "Lumbar cistern",
+      "C": "Epidural space",
+      "D": "Central canal",
+      "E": "Subpial space"
+    },
+    "correct": "C",
+    "rationale": "The epidural space of the spine is situated immediately internal to the ligamentum flavum and external to the dura mater. It contains fat, lymphatics, and the internal vertebral venous plexus. Entering the epidural space often produces a subtle release of resistance, followed by penetration of the dura-arachnoid membrane (the second \"pop\") to reach the subarachnoid space.",
+    "pearl": "The spinal epidural space lies directly between the ligamentum flavum and the dura mater.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-019",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a lumbar puncture, the spinal needle traverses the dura mater and arachnoid mater. At the termination of the subarachnoid space inferiorly, the dura and arachnoid continue as a blind sac. At what vertebral level does the dural thecal sac and subarachnoid space terminate in adults?",
+    "choices": {
+      "A": "L1\u2013L2",
+      "B": "L4\u2013L5",
+      "C": "S4\u2013S5",
+      "D": "S2 vertebral level",
+      "E": "Coccyx 1"
+    },
+    "correct": "D",
+    "rationale": "The solid spinal cord ends at the conus medullaris at L1\u2013L2, but the surrounding dural thecal sac and subarachnoid space (lumbar cistern) extend downward to terminate at the S2 vertebral level. Below S2, the dura adheres to the filum terminale (becoming the filum terminale externum or coccygeal ligament) and anchors onto the posterior coccyx.",
+    "pearl": "Conus medullaris ends at L1\u2013L2; Dural thecal sac and subarachnoid space end at S2.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-CSE-020",
+    "topic": "Spinal Cord Cases",
+    "lecture": "2.1 Spinal Cord Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 38-year-old man with tabes dorsalis is evaluated for chronic knee swelling and joint instability. Examination of his right knee demonstrates massive painless joint effusion, crepitus, severe bony deformity, and abnormal hypermobility in all directions without any tenderness to deep palpation. X-rays show extensive osteophyte formation, intra-articular loose bodies, and joint subluxation. What is the clinical diagnosis for this neurogenic arthropathy?",
+    "choices": {
+      "A": "Rheumatoid arthritis",
+      "B": "Ankylosing spondylitis",
+      "C": "Septic arthritis",
+      "D": "Gouty arthritis",
+      "E": "Charcot joint (neuroarthropathy)"
+    },
+    "correct": "E",
+    "rationale": "A Charcot joint (neuropathic arthropathy) occurs when the loss of pain and proprioceptive sensation (due to tabes dorsalis, diabetic peripheral neuropathy, or syringomyelia) deprives the joint of normal protective pain reflexes. Repeated microtrauma and unperceived mechanical injury lead to progressive, severe, destructive joint degeneration, deformity, and subluxation that is strikingly painless despite devastating radiographic destruction.",
+    "pearl": "Charcot joint = Severe destructive arthropathy and joint deformity with *loss of pain/proprioception* (most common in tabes dorsalis and diabetic neuropathy).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-001",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 68-year-old man presents with progressive lower extremity weakness and difficulty walking for 6 months. Physical examination reveals spastic paraparesis, hyperreflexia with bilateral extensor plantar responses (positive Babinski signs), and severely impaired vibration and joint position sense up to the iliac crests. In contrast, pinprick and temperature sensations are preserved. Serum cobalamin is markedly low. In contrast to tabes dorsalis, which of the following tract degenerations is uniquely present in this patient\\'s condition?",
+    "choices": {
+      "A": "Lateral corticospinal tract degeneration",
+      "B": "Fasciculus gracilis degeneration",
+      "C": "Anterior spinothalamic tract degeneration",
+      "D": "Dorsal root ganglion primary neuron degeneration",
+      "E": "Tectospinal tract degeneration"
+    },
+    "correct": "A",
+    "rationale": "Subacute combined degeneration (SCD) of the spinal cord is caused by vitamin B12 (cobalamin) deficiency. It is characterized by combined degeneration of the dorsal columns (loss of vibration and position sense) AND the lateral corticospinal tracts (spasticity, hyperreflexia, bilateral Babinski signs). In contrast, tabes dorsalis (neurosyphilis) affects exclusively the dorsal roots and dorsal columns, leading to absent deep tendon reflexes (areflexia) and hypotonia with NO corticospinal tract involvement.",
+    "pearl": "Vitamin B12 deficiency (SCD) = Dorsal columns + Lateral corticospinal tracts (UMN signs + sensory ataxia); Tabes dorsalis = Dorsal roots + Dorsal columns only (areflexia + sensory ataxia).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-002",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 28-year-old woman presents with burns on both hands that she did not feel while cooking. Physical examination demonstrates bilateral loss of pain and temperature sensation across her shoulders, upper back, and both upper extremities in a \\'cape-like\\' distribution. Light touch, vibration, and proprioception are completely intact in the same areas. An MRI of the cervical spine reveals an expanding, fluid-filled cavitation within the central spinal canal. What anatomical structure is compressed by this lesion to produce this specific deficit?",
+    "choices": {
+      "A": "Fasciculus cuneatus bilaterally",
+      "B": "Anterior white commissure",
+      "C": "Dorsal root entry zone of C5\u2013T1",
+      "D": "Intermediolateral cell column",
+      "E": "Ventral horns bilaterally"
+    },
+    "correct": "B",
+    "rationale": "The patient has syringomyelia, an expanding fluid-filled cyst (syrinx) within or adjacent to the central canal of the spinal cord, most commonly at cervical levels (frequently associated with Chiari I malformation). Second-order nociceptive axons originating in the dorsal horns decussate across the midline in the anterior white commissure before ascending in the anterolateral system. The expanding syrinx compresses and transects these crossing fibers bilaterally at the affected segmental levels, resulting in bilateral loss of pain and temperature in a \"cape-like\" distribution, while sparing the dorsal columns (dissociated sensory loss).",
+    "pearl": "Syringomyelia = Syrinx compresses the *anterior white commissure*, interrupting crossing second-order spinothalamic fibers $ ightarrow$ bilateral cape-like loss of pain/temperature with spared light touch/proprioception.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-003",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 34-year-old man is brought to the trauma center after sustaining a knife wound to the neck. Neuroimaging confirms a focal traumatic hemisection of the right side of the spinal cord strictly confined to the right anterolateral system (ALS) at the C7 vertebral level. Which of the following sensory deficits will this patient exhibit?",
+    "choices": {
+      "A": "Bilateral loss of fine touch and vibration from C7 downward",
+      "B": "Ipsilateral loss of pain and temperature from C7 downward",
+      "C": "Contralateral loss of pain and temperature beginning approximately 1 to 2 segments below the lesion level (~T1)",
+      "D": "Contralateral loss of proprioception and vibration beginning at C7",
+      "E": "Complete loss of all sensory modalities on the right side of the body below C7"
+    },
+    "correct": "C",
+    "rationale": "The anterolateral system (ALS / spinothalamic tract) carries pain, temperature, and crude touch from the contralateral side of the body. Primary afferents enter the dorsal horn, ascend 1\u20132 segments in Lissauer\\'s tract, synapse in the dorsal horn (Rexed laminae I/II/V), and their second-order axons decussate in the anterior white commissure before ascending in the ALS. Therefore, a lesion of the right ALS at C7 produces loss of pain and temperature on the OPPOSITE (left) side of the body, starting approximately 1\u20132 dermatomes below the lesion (around T1) and extending downward through all lower dermatomes.",
+    "pearl": "Unilateral ALS lesion = *Contralateral* loss of pain and temperature beginning 1\u20132 segments below the level of the lesion (due to oblique ascent in Lissauer\\'s tract and commissure).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-004",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neuroscientist investigates the difference between fast and slow pain perception. A subject is exposed to a brief thermal laser pulse on the dorsum of the hand. The subject experiences an initial sharp, highly localized pricking sensation followed one second later by a prolonged, burning, emotionally distressing ache. What is the primary ascending termination target for the second-order projection neurons mediating the affective-motivational (\"slow pain\") component?",
+    "choices": {
+      "A": "Primary somatosensory cortex (Brodmann areas 3, 1, 2)",
+      "B": "Ventral posterolateral (VPL) nucleus of the thalamus directly to postcentral gyrus",
+      "C": "Cerebellar vermis and dentate nucleus",
+      "D": "Reticular formation, periaqueductal gray, and medial/intralaminar thalamic nuclei projecting to the anterior cingulate and insular cortex",
+      "E": "Superior colliculus and lateral geniculate nucleus"
+    },
+    "correct": "D",
+    "rationale": "Fast pain (A-delta fibers, spinothalamic tract) relays via the VPL thalamus directly to the primary somatosensory cortex (S1 / postcentral gyrus) for precise sensory discrimination (location, intensity, quality). Slow, second pain (unmyelinated C fibers, spinoreticular and spinomesencephalic tracts) projects diffusely to the brainstem reticular formation, periaqueductal gray (PAG), and medial/intralaminar thalamic nuclei, which in turn project to the limbic system (anterior cingulate cortex and insular cortex) to mediate the unpleasant affective, emotional, and autonomic dimensions of chronic pain.",
+    "pearl": "Fast pain (A-delta) = VPL $ ightarrow$ Primary somatosensory cortex (discrimination); Slow pain (C fibers) = Reticular/medial thalamus $ ightarrow$ Anterior cingulate & insula (affective/emotional suffering).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-005",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 59-year-old man presents to the emergency department with substernal crushing chest pain that radiates along the ulnar aspect of his left arm into the medial forearm. An ECG confirms acute myocardial infarction. The sympathetic sensory afferents carrying ischemic cardiac pain enter the spinal cord at levels T1 through T4. What is the fundamental neurobiological mechanism responsible for this phenomenon of referred pain?",
+    "choices": {
+      "A": "Visceral nociceptive axons bypass the spinal cord to synapse directly in the postcentral gyrus",
+      "B": "Efferent sympathetic motor nerves release substance P retrograde into brachial plexus skin",
+      "C": "Ischemia causes direct compression of the brachial plexus by an enlarged left atrium",
+      "D": "The heart and the skin of the medial arm share a single shared pseudounipolar axon with bifurcating peripheral terminals",
+      "E": "Visceral cardiac nociceptors and somatic cutaneous nociceptors from T1\u2013T4 converge on the same second-order spinothalamic projection neurons in the dorsal horn"
+    },
+    "correct": "E",
+    "rationale": "Referred pain is explained by the \"convergence-projection theory.\" Visceral nociceptive afferents from the heart travel via sympathetic nerves to enter the dorsal horn at T1\u2013T4. Within the dorsal horn, these visceral fibers synapse onto the *same* second-order spinothalamic projection neurons that receive somatic nociceptive inputs from the dermatomes of T1\u2013T4 (the left anterior chest wall and medial aspect of the left arm/forearm). Because the brain receives somatic inputs far more frequently, cortical processing attributes the incoming nociceptive signals to the somatic dermatomes (referred pain).",
+    "pearl": "Referred cardiac pain = Convergence-projection theory: Cardiac visceral afferents and somatic afferents (T1\u2013T4) synapse on the *same* second-order dorsal horn neurons.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_06"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-006",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman presents with acute shooting pain radiating from her neck into the middle finger of her right hand, accompanied by numbness in digits 2, 3, and 4. Physical examination reveals weakness of right elbow extension (triceps) and an absent triceps reflex. A cervical MRI demonstrates a posterolateral disc herniation. Where is the anatomical site of pathology in radiculopathy, and what nerve root is affected in this patient?",
+    "choices": {
+      "A": "Nerve root at the intervertebral foramen; C7 nerve root",
+      "B": "Peripheral nerve in the cubital tunnel; Ulnar nerve",
+      "C": "Motor cortex in the precentral gyrus; C5 pyramidal tract",
+      "D": "Neuromuscular junction; Postsynaptic acetylcholine receptor",
+      "E": "Dorsal column in the spinal cord; C8 fasciculus cuneatus"
+    },
+    "correct": "A",
+    "rationale": "Radiculopathy is defined as compression or irritation of a spinal nerve root at or near the intervertebral foramen (most commonly due to a herniated disc or spondylotic osteophyte). Compression of the C7 root produces dermatomal pain/paresthesias in the middle finger (digits 2\u20134), myotomal weakness of elbow extension (triceps) and wrist flexion, and loss of the triceps deep tendon reflex (C7).",
+    "pearl": "C7 radiculopathy: Triceps weakness (elbow extension), diminished/absent triceps reflex, sensory loss in middle finger (digits 2\u20134).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-007",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old man with amyotrophic lateral sclerosis (ALS) is evaluated with electromyography (EMG). While examining the relaxed, resting first dorsal interosseous muscle with a concentric needle electrode, the neurologist identifies irregular, spontaneous electrical discharges representing the synchronous depolarization of an entire motor unit. On physical inspection, these discharges correspond to visible twitches under the skin. What is this electrophysiological finding called?",
+    "choices": {
+      "A": "Fibrillation potential",
+      "B": "Fasciculation potential",
+      "C": "Positive sharp wave",
+      "D": "Complex repetitive discharge",
+      "E": "Myotonic discharge"
+    },
+    "correct": "B",
+    "rationale": "A fasciculation is the spontaneous, involuntary contraction of an entire motor unit (one lower motor neuron and all the muscle fibers it innervates). Because it activates dozens or hundreds of muscle fibers synchronously, it produces a large-amplitude potential on needle EMG and is visible to the naked eye as a flicker or twitch under the skin. Fasciculations are seen in anterior horn cell diseases (such as ALS), peripheral neuropathies, and occasionally benign conditions in healthy individuals. In contrast, fibrillations represent the firing of a *single* muscle fiber and are never visible to the naked eye.",
+    "pearl": "Fasciculation = Spontaneous discharge of an *entire motor unit*, visible to the naked eye; Fibrillation = Spontaneous firing of a *single muscle fiber*, invisible to naked eye.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-008",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man undergoes needle electromyography (EMG) 3 weeks after severing his deep fibular nerve in an industrial accident. In the resting, denervated tibialis anterior muscle, the needle electrode detects spontaneous, brief (1\u20135 ms), low-amplitude action potentials that are completely invisible upon visual inspection of the overlying skin. What electrophysiological phenomenon is this, and what does it signify?",
+    "choices": {
+      "A": "Normal motor unit action potential",
+      "B": "Benign fasciculation",
+      "C": "Fibrillation potential signifying denervation of individual muscle fibers",
+      "D": "Decremental response signifying myasthenia gravis",
+      "E": "Pseudomyotonia signifying hypocalcemia"
+    },
+    "correct": "C",
+    "rationale": "Fibrillation potentials (and positive sharp waves) represent the spontaneous, autonomous rhythmic action potentials of *individual* denervated skeletal muscle fibers. Following axonal transection, muscle fibers upregulate acetylcholine receptors across their entire sarcolemma, becoming unstable and firing spontaneously. Because only a single microscopic muscle fiber contracts, fibrillations are completely invisible through the skin and can only be detected with needle EMG. They appear 2\u20133 weeks after acute nerve injury and are always pathological, indicating active denervation.",
+    "pearl": "Fibrillation potentials = Invisible spontaneous firing of individual denervated muscle fibers; hallmark of acute/subacute lower motor neuron denervation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-009",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old woman with Guillain-Barr\u00e9 syndrome (acute inflammatory demyelinating polyneuropathy) undergoes nerve conduction studies (NCS) of the median and tibial nerves. The study reveals markedly prolonged distal sensory and motor latencies, severely decreased nerve conduction velocities (NCVs), and prominent temporal dispersion, while distal amplitudes remain relatively preserved. What underlying biophysical alteration accounts for the decreased NCV in this patient?",
+    "choices": {
+      "A": "Total transection of motor axons with Wallerian degeneration",
+      "B": "Loss of intracellular potassium from muscle fiber membranes",
+      "C": "Autoimmune destruction of postsynaptic nicotinic acetylcholine receptors",
+      "D": "Loss of myelin sheaths disrupting saltatory conduction along peripheral nerve axons",
+      "E": "Blockade of voltage-gated calcium channels at presynaptic nerve terminals"
+    },
+    "correct": "D",
+    "rationale": "In demyelinating neuropathies (such as Guillain-Barr\u00e9 syndrome or CIDP), autoimmune attack targets the Schwann cell myelin sheaths. Myelin is essential for rapid saltatory conduction (action potentials jumping between nodes of Ranvier). Loss of myelin increases membrane capacitance and decreases membrane resistance, causing currents to leak out and drastically slowing the propagation velocity of action potentials along the nerve axon. This manifests electrophysiologically as decreased nerve conduction velocity (NCV) and increased latency.",
+    "pearl": "Demyelinating neuropathy = Slowed conduction velocity (reduced NCV) + prolonged latencies; Axonal neuropathy = Reduced amplitude with relatively normal velocity.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-010",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During nerve conduction testing of the ulnar nerve in a patient with an entrapment neuropathy at the elbow (cubital tunnel syndrome), stimulation of the nerve at the wrist yields a normal compound muscle action potential (CMAP) amplitude of 8.0 mV. However, when the nerve is stimulated above the elbow, the CMAP amplitude drops precipitously to 1.5 mV. What specific electrophysiological phenomenon does this disparity demonstrate?",
+    "choices": {
+      "A": "Axonal severance across the palmar crease",
+      "B": "Systemic neuromuscular junction depletion",
+      "C": "Myotonia congenita",
+      "D": "Lambert-Eaton facilitation",
+      "E": "Conduction block localized to the elbow segment"
+    },
+    "correct": "E",
+    "rationale": "Conduction block is the electrophysiological hallmark of focal demyelination. When a nerve is stimulated *distal* to the focal lesion (e.g., at the wrist), action potentials travel along intact distal axons to the muscle, producing a normal CMAP amplitude. When the nerve is stimulated *proximal* to the lesion (e.g., above the elbow), action potentials fail to propagate across the focally demyelinated segment, causing a profound drop (>50%) in CMAP amplitude and area. This localizes the site of entrapment to the cubital tunnel.",
+    "pearl": "Conduction block = Severe drop in CMAP amplitude when stimulating proximal vs. distal to a demyelinated nerve segment; localizes focal entrapment.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-011",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 32-year-old woman presents with fluctuating ptosis, diplopia, and difficulty chewing that worsens significantly toward the end of the day. A repetitive nerve stimulation (RNS) study is performed at low frequency (3 Hz). The amplitude of the fifth compound muscle action potential (CMAP) shows a 25% progressive reduction compared to the first baseline CMAP (decremental response). What is the underlying pathophysiology of this decremental recording?",
+    "choices": {
+      "A": "Autoantibody-mediated depletion of functional postsynaptic nicotinic acetylcholine receptors (Myasthenia gravis)",
+      "B": "Autoantibodies against presynaptic voltage-gated calcium channels preventing acetylcholine release (LEMS)",
+      "C": "Cleavage of SNARE synaptobrevin proteins by botulinum toxin",
+      "D": "Genetic deficiency of muscle glycogen phosphorylase (McArdle disease)",
+      "E": "Point mutation in skeletal muscle voltage-gated sodium channels causing hyperkalemic periodic paralysis"
+    },
+    "correct": "A",
+    "rationale": "The patient has Myasthenia Gravis (MG). In MG, IgG autoantibodies target postsynaptic nicotinic acetylcholine receptors (AChRs) at the NMJ, causing complement-mediated destruction and endocytosis of receptors. During low-frequency repetitive nerve stimulation (2\u20133 Hz), the physiological \"run-down\" of presynaptic acetylcholine release occurs normally with each successive stimulus. In a normal individual with a large safety margin, threshold is easily reached. In MG, because the number of available postsynaptic receptors is already drastically reduced, fewer and fewer muscle fibers reach threshold, resulting in a progressive drop in CMAP amplitude (decremental response >10%).",
+    "pearl": "Myasthenia gravis = Postsynaptic AChR antibodies $ ightarrow$ Decremental response on low-frequency (3 Hz) repetitive nerve stimulation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-012",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 64-year-old chronic smoker with a history of small-cell lung carcinoma presents with progressive proximal leg weakness and dry mouth. On physical examination, muscle strength improves noticeably after a 10-second bout of maximal isometric contraction. Repetitive nerve stimulation (RNS) shows a tiny baseline CMAP that increases by over 200% following high-frequency (20\u201350 Hz) stimulation or brief exercise (incremental response). What disorder is this, and what is its molecular target?",
+    "choices": {
+      "A": "Myasthenia gravis; postsynaptic muscle-specific kinase (MuSK)",
+      "B": "Lambert-Eaton myasthenic syndrome (LEMS); presynaptic P/Q-type voltage-gated calcium channels",
+      "C": "Guillain-Barr\u00e9 syndrome; peripheral nerve ganglioside GM1",
+      "D": "Multiple sclerosis; central myelin basic protein",
+      "E": "Polymyositis; histidyl-tRNA synthetase (Jo-1)"
+    },
+    "correct": "B",
+    "rationale": "The patient has Lambert-Eaton Myasthenic Syndrome (LEMS), a paraneoplastic disorder strongly associated with small-cell lung cancer. Autoantibodies target presynaptic P/Q-type voltage-gated calcium channels (VGCCs) on motor nerve terminals, preventing Ca2+ influx and blocking acetylcholine vesicle exocytosis. At baseline, very little ACh is released, producing a low-amplitude initial CMAP. High-frequency stimulation or brief voluntary exercise causes rapid calcium accumulation within the presynaptic terminal, overcoming the antibody block and dramatically boosting acetylcholine release, producing a characteristic incremental response (>100% CMAP increase).",
+    "pearl": "Lambert-Eaton (LEMS) = Presynaptic P/Q-type VGCC antibodies $ ightarrow$ Small baseline CMAP that *increments* markedly with high-frequency stimulation or post-exercise facilitation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-013",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A basic science laboratory investigates endogenous descending analgesia circuits in animal models. Microinjection of morphine into the midbrain periaqueductal gray (PAG) produces profound, generalized analgesia without loss of consciousness or tactile sensation. Through which brainstem nuclei and neurotransmitters does the PAG project to suppress nociceptive transmission in the spinal dorsal horn?",
+    "choices": {
+      "A": "Substantia nigra (dopamine) projecting to the striatum",
+      "B": "Locus coeruleus (acetylcholine) projecting to the hippocampus",
+      "C": "Rostral ventromedial medulla / raphe magnus (serotonin) and locus coeruleus (norepinephrine) activating enkephalinergic interneurons",
+      "D": "Edinger-Westphal nucleus (GABA) projecting to the ciliary ganglion",
+      "E": "Tectum (glutamate) projecting to the inferior olivary nucleus"
+    },
+    "correct": "C",
+    "rationale": "The descending pain modulation system originates in the periaqueductal gray (PAG) of the midbrain. The PAG sends excitatory projections to the rostral ventromedial medulla (RVM, including the nucleus raphe magnus) and the pontine locus coeruleus. The raphe magnus sends descending serotonergic (5-HT) fibers and the locus coeruleus sends noradrenergic (NE) fibers down the dorsolateral funiculus to the dorsal horn of the spinal cord (Rexed laminae I and II). There, they synapse on inhibitory enkephalinergic interneurons, which release enkephalins/endorphins to presynaptically and postsynaptically inhibit primary nociceptive afferents, shutting down pain transmission.",
+    "pearl": "Descending pain suppression: PAG $ ightarrow$ Raphe magnus (5-HT) & Locus coeruleus (NE) $ ightarrow$ Activates inhibitory enkephalin interneurons in the dorsal horn (Rexed lamina II).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_05"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-014",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 41-year-old man presents with chronic neuropathic pain following shingles (postherpetic neuralgia). Light stroking of his thoracic skin with a feather produces excruciating, agonizing pain that causes him to cry out. What is the clinical term for the perception of pain in response to a normally non-painful, innocuous mechanical stimulus?",
+    "choices": {
+      "A": "Hyperalgesia",
+      "B": "Hyperpathia",
+      "C": "Paresthesia",
+      "D": "Allodynia",
+      "E": "Dysesthesia"
+    },
+    "correct": "D",
+    "rationale": "Allodynia is defined as pain resulting from a stimulus that does not normally provoke pain (e.g., light touch from a bedsheet or feather causing severe pain). It is a cardinal sign of neuropathic pain and reflects central sensitization, where low-threshold A-beta tactile afferents abnormally activate nociceptive projection pathways in the dorsal horn. In contrast, hyperalgesia is an exaggerated, increased pain response to a stimulus that is normally painful (e.g., a mild pinprick feeling like a stabbing dagger).",
+    "pearl": "Allodynia = Pain from a *normally non-painful* stimulus (e.g., light touch); Hyperalgesia = *Exaggerated pain* from a mildly painful stimulus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_01"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-015",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old woman is tested with sensory electrophysiology. When her index finger is exposed to a rapid heat ramp, the threshold for firing of cutaneous nociceptive fibers is evaluated. In the peripheral tissue, noxious heat (>43\u00b0C) and the pungent chemical capsaicin (found in chili peppers) both activate which of the following non-selective cation channel receptors on free nerve endings?",
+    "choices": {
+      "A": "Voltage-gated sodium channel Nav1.7",
+      "B": "Nicotinic acetylcholine receptor alpha-7",
+      "C": "Acid-sensing ion channel 1 (ASIC1)",
+      "D": "Potassium inward-rectifier channel Kir2.1",
+      "E": "Transient receptor potential vanilloid 1 (TRPV1) receptor"
+    },
+    "correct": "E",
+    "rationale": "The TRPV1 (transient receptor potential vanilloid 1) receptor is a non-selective cation channel expressed on peripheral free nerve endings of A-delta and C nociceptive fibers. It is activated by noxious thermal heat (>43\u00b0C), extracellular protons (acidosis / tissue ischemia), and capsaicin (the active pungent chemical in chili peppers). Activation leads to calcium and sodium influx, membrane depolarization, and generation of action potentials that transmit the sensation of heat and burning pain.",
+    "pearl": "TRPV1 receptor = Non-selective cation channel on nociceptors activated by noxious heat (>43\u00b0C), protons, and capsaicin (chili peppers).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_01"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-016",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with an isolated lesion of the Lissauer tract (dorsolateral fasciculus) on the left side at spinal level T4 is evaluated. What is the precise anatomical content and function of the Lissauer tract in spinal cord neuroanatomy?",
+    "choices": {
+      "A": "Primary nociceptive axons that ascend or descend 1 to 2 segments before synapsing in the dorsal horn",
+      "B": "Secondary somatosensory axons that cross the midline to form the spinothalamic tract",
+      "C": "Descending upper motor neuron axons that terminate on alpha motor neurons",
+      "D": "Postganglionic sympathetic axons that project to sweat glands",
+      "E": "Primary proprioceptive axons that ascend directly to the nucleus gracilis"
+    },
+    "correct": "A",
+    "rationale": "The tract of Lissauer (dorsolateral fasciculus) is a compact white matter bundle capping the tip of the dorsal horn. It contains incoming primary sensory axons (predominantly small unmyelinated C and thinly myelinated A-delta fibers carrying pain and temperature) as well as descending collateral branches. Upon entering the cord, these fibers ascend or descend 1 to 2 spinal segments within Lissauer\\'s tract before turning into the dorsal horn (Rexed laminae I, II, and V) to synapse on second-order neurons.",
+    "pearl": "Lissauer\\'s tract = Cap of white matter atop the dorsal horn carrying primary pain/temperature afferents that travel 1\u20132 segments rostrally/caudally before synapsing.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-017",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old man undergoes electrophysiological assessment following an axon-sparing demyelinating injury of the median nerve. The neurologist records the sensory nerve action potential (SNAP). Which of the following parameters on a sensory nerve action potential (SNAP) recording directly reflects the TOTAL number of functional, depolarizing axons in the peripheral nerve?",
+    "choices": {
+      "A": "Distant onset latency",
+      "B": "Peak-to-peak amplitude",
+      "C": "Conduction velocity",
+      "D": "Duration of the absolute refractory period",
+      "E": "F-wave minimal latency"
+    },
+    "correct": "B",
+    "rationale": "The amplitude of a compound nerve action potential (SNAP or CMAP) represents the summation of electrical potentials generated by all synchronously depolarizing axons in that nerve. A decrease in amplitude directly reflects axonal loss (loss of functioning axons). In pure demyelination with intact axons, amplitude remains relatively normal (or slightly dispersed), while conduction velocity drops and latency increases. In axonal degeneration, amplitude drops drastically while conduction velocity remains normal or only mildly reduced.",
+    "pearl": "SNAP/CMAP Amplitude = Total number of functioning axons (decreased in axonal loss); Conduction Velocity / Latency = Integrity of myelin sheaths.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-018",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman presents with burning dysesthesias in her feet. The physician considers that pain sensation from visceral organs differs profoundly from somatic cutaneous pain. Which of the following correctly characterizes the neuroanatomy and clinical features of visceral pain?",
+    "choices": {
+      "A": "Visceral nociceptors have dense, highly segregated receptive fields that allow millimeter-precision spatial localization",
+      "B": "Visceral sensory fibers travel strictly via somatic cranial nerves III, IV, and VI",
+      "C": "Visceral nociceptive afferents are sparse, project diffusely to limbic structures (insula and cingulate), and evoke strong autonomic and affective distress",
+      "D": "Visceral pain is transmitted exclusively by heavily myelinated A-alpha fibers directly to the postcentral gyrus",
+      "E": "Visceral pain never produces cutaneous hyperalgesia or muscle guarding"
+    },
+    "correct": "C",
+    "rationale": "Visceral structures (heart, gastrointestinal tract, bladder) have a remarkably low density of nociceptive sensory innervation compared to the skin. Visceral pain is mediated by unmyelinated C fibers traveling along sympathetic and parasympathetic nerves. In the CNS, visceral inputs project diffusely to bilateral spinal cord segments and ascending limbic structures (insular cortex, anterior cingulate, and hypothalamus). Consequently, visceral pain is dull, aching, poorly localized, and accompanied by intense emotional suffering, nausea, and autonomic responses (sweating, blood pressure changes).",
+    "pearl": "Visceral pain = Sparse innervation, unmyelinated C fibers, diffuse limbic projection (insula/cingulate), poorly localized with prominent autonomic distress.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_06"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-019",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher applies the gate control theory of pain proposed by Melzack and Wall. When a person stubs their toe, their natural instinct is to immediately rub the injured area vigorously, which significantly diminishes the perceived pain. Which mechanism accounts for this tactile reduction of pain transmission at the level of the spinal dorsal horn?",
+    "choices": {
+      "A": "Rubbing cools the skin, freezing sodium channels in C fibers",
+      "B": "Large A-beta fibers directly deplete all glutamate from the VPL thalamus",
+      "C": "Rubbing reverses the polarity of the anterior white commissure",
+      "D": "Rubbing activates large-diameter myelinated A-beta mechanoreceptor fibers, which stimulate inhibitory interneurons in Rexed lamina II to presynaptically inhibit incoming C fiber pain signals",
+      "E": "Rubbing activates descending sympathetic outflow to dilate arterioles"
+    },
+    "correct": "D",
+    "rationale": "The Gate Control Theory of pain states that transmission of nociceptive signals from primary C fibers to second-order spinothalamic projection neurons is gated by local inhibitory interneurons in the substantia gelatinosa (Rexed lamina II). Low-threshold, large-diameter myelinated A-beta tactile fibers (activated by rubbing/touch) stimulate these inhibitory interneurons. In turn, the interneurons release GABA and enkephalins to presynaptically inhibit incoming unmyelinated C fiber terminals, \"closing the gate\" and attenuating pain perception.",
+    "pearl": "Gate Control Theory: A-beta touch fibers stimulate inhibitory interneurons in the substantia gelatinosa, inhibiting C fiber transmission and \"closing the pain gate.\"",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_05"
+    ]
+  },
+  {
+    "id": "W2D3-CNT-020",
+    "topic": "Anterolateral System & Pain",
+    "lecture": "3.1 Pain Content",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old construction worker presents with back pain radiating down the posterior calf to the lateral aspect of his right foot and sole. Physical examination shows weakness of plantarflexion and an absent Achilles tendon reflex. A lumbar spine MRI reveals a herniated intervertebral disc. Which intervertebral disc space is most likely herniated, and which exiting/traversing nerve root is compressed?",
+    "choices": {
+      "A": "L2\u2013L3 disc compressing L2 root",
+      "B": "L3\u2013L4 disc compressing L3 root",
+      "C": "L4\u2013L5 disc compressing L4 root",
+      "D": "L4\u2013L5 disc compressing L5 root",
+      "E": "L5\u2013S1 disc compressing S1 root"
+    },
+    "correct": "E",
+    "rationale": "Posterolateral disc herniation at the L5\u2013S1 interspace typically compresses the traversing S1 nerve root. S1 radiculopathy produces: (1) sensory loss/pain along the posterior thigh, posterior calf, lateral border of the foot, and sole; (2) motor weakness of gastrocnemius/soleus (impaired plantarflexion, inability to toe-walk); and (3) diminished or absent Achilles tendon deep tendon reflex (S1\u2013S2). In contrast, an L4\u2013L5 herniation compresses the traversing L5 root (weakness of dorsiflexion, difficulty heel-walking, intact reflexes).",
+    "pearl": "L5\u2013S1 disc herniation compresses S1 root: Weak plantarflexion (difficulty toe-walking), absent Achilles reflex, numbness of lateral foot/sole.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-001",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 54-year-old woman is evaluated in the neurology clinic for progressive sensory deficits. On examination, she exhibits profound loss of two-point discrimination, vibration, and conscious joint position sense involving the entire right arm, forearm, and hand, continuing down the right trunk and right lower extremity. Sensation on the left side of her body is entirely normal. Pinprick, sharp pain, and temperature sensation are completely preserved on both sides of her body, and motor strength is 5/5 bilaterally. Where is the most likely neuroanatomical location of this lesion?",
+    "choices": {
+      "A": "Right dorsal columns (fasciculus gracilis and cuneatus) in the high cervical spinal cord (C1\u2013C2)",
+      "B": "Left primary somatosensory cortex postcentral gyrus",
+      "C": "Left medial lemniscus in the mid-pons",
+      "D": "Right ventral white commissure across C5\u2013T1",
+      "E": "Left ventral posterolateral (VPL) nucleus of the thalamus"
+    },
+    "correct": "A",
+    "rationale": "The patient has an isolated, unilateral loss of DCML modalities (light touch, vibration, proprioception) encompassing the entire right upper extremity, trunk, and lower extremity, with complete sparing of pain/temperature and motor function. Because the deficit involves the arm, trunk, and leg on the *ipsilateral* side, the lesion must be located in the uncrossed first-order dorsal columns of the spinal cord above the C5 level (i.e., at C1\u2013C2), where both fasciculus gracilis (leg) and fasciculus cuneatus (arm) are present on the right side. Above the caudal medulla, DCML fibers decussate as internal arcuate fibers, so a brainstem (medial lemniscus), thalamic (VPL), or cortical lesion would produce *contralateral* sensory loss.",
+    "pearl": "Ipsilateral loss of vibration/proprioception across the entire arm and leg indicates an ipsilateral dorsal column lesion in the high cervical cord (above C5) or caudal medulla prior to decussation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-002",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 43-year-old carpenter presents with shooting pain and numbness over his right shoulder and lateral arm, radiating down the radial forearm into the thumb. Physical examination reveals reduced light touch and pinprick sensation strictly over the thumb and lateral aspect of the forearm on the right side. Biceps deep tendon reflex is 1+ on the right and 2+ on the left. Triceps and brachioradialis reflexes are normal. Motor examination shows 4/5 strength in right elbow flexion and wrist extension. What is the most likely location and nature of this lesion?",
+    "choices": {
+      "A": "Right radial nerve entrapment at the spiral groove",
+      "B": "Right C6 spinal nerve root compression (radiculopathy)",
+      "C": "Right median nerve compression at the pronator teres",
+      "D": "Left lateral spinothalamic tract at C4",
+      "E": "Right posterior cord of the brachial plexus"
+    },
+    "correct": "B",
+    "rationale": "The patient exhibits classic signs of a C6 radiculopathy: (1) sensory loss/pain in the C6 dermatome (lateral arm, lateral forearm, and digit 1/thumb); (2) motor weakness in C6 myotomes (biceps elbow flexion and wrist extension); and (3) diminished biceps reflex (C5\u2013C6). A peripheral radial nerve entrapment would spare elbow flexion (innervated by the musculocutaneous nerve) and would not produce isolated thumb dermatomal loss with biceps reflex reduction.",
+    "pearl": "C6 radiculopathy: Pain/numbness radiating to the thumb (digit 1) and radial forearm, weakness of wrist extension and elbow flexion, diminished biceps reflex.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-003",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 38-year-old dental hygienist presents with nocturnal burning pain and paresthesias in her right hand that frequently awaken her from sleep. On examination, sensation to light touch and pinprick is diminished over the palmar surface of the thumb, index finger, middle finger, and the lateral half of the ring finger. Sensation over the thenar eminence of the palm is completely intact. Phalen test and Tinel sign at the volar wrist are positive. What anatomical feature explains why sensation over the thenar eminence is spared in this patient?",
+    "choices": {
+      "A": "The thenar eminence is innervated exclusively by the superficial radial nerve",
+      "B": "The C8 nerve root supplies sensory innervation to the central palm",
+      "C": "The palmar cutaneous branch of the median nerve arises proximal to the flexor retinaculum and passes superficial to the carpal tunnel",
+      "D": "Thenar skin is innervated by sympathetic fibers from the stellate ganglion",
+      "E": "Ulnar nerve collateral branches cross the midpalmar raphe to supply the entire palm"
+    },
+    "correct": "C",
+    "rationale": "This patient has Carpal Tunnel Syndrome (median nerve entrapment under the transverse carpal ligament / flexor retinaculum). The palmar cutaneous branch of the median nerve provides sensation to the skin of the thenar eminence. Crucially, this branch arises approximately 5 cm *proximal* to the wrist crease and passes *superficial* to the flexor retinaculum (outside the carpal tunnel). Therefore, carpal tunnel compression compromises only the digital branches traveling *through* the tunnel (digits 1, 2, 3, and lateral 4), completely sparing sensation over the thenar eminence. Sensation loss over the thenar eminence suggests a proximal lesion (e.g., C6 radiculopathy or pronator teres syndrome).",
+    "pearl": "In carpal tunnel syndrome, sensation over the thenar eminence is *spared* because the palmar cutaneous branch passes superficial to (outside) the flexor retinaculum.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-004",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A clinical neurologist compares three patients presenting with upper extremity sensory symptoms: Patient 1 has numbness restricted to the palmar aspect of the first three and a half digits (peripheral nerve distribution); Patient 2 has numbness radiating down the lateral forearm into the thumb (dermatomal distribution); and Patient 3 has loss of touch and vibration across the entire arm and leg on one side (funicular/tract distribution). Which of the following rules is most reliable for distinguishing a single peripheral nerve lesion from a spinal nerve root (radiculopathy) lesion in the clinic?",
+    "choices": {
+      "A": "Radiculopathies never cause pain, whereas peripheral nerve injuries are always painful",
+      "B": "Peripheral nerve lesions always affect deep tendon reflexes, whereas radiculopathies never alter reflexes",
+      "C": "Radiculopathies produce spasticity and hyperreflexia, while peripheral nerves produce flaccidity",
+      "D": "Peripheral nerve lesions produce sensory loss that conforms strictly to the anatomical branching field of an individual named nerve (often overlapping multiple spinal roots), whereas radiculopathies produce sensory loss conforming to a continuous dermatomal strip",
+      "E": "Peripheral nerve lesions always cross the midline of the body"
+    },
+    "correct": "D",
+    "rationale": "Distinguishing peripheral nerve vs. root vs. tract lesions relies on anatomical mapping: (1) Peripheral nerve lesions (e.g., median nerve, ulnar nerve) affect sensory territories defined by the terminal cutaneous branch of that specific nerve, which is derived from multiple spinal cord levels (e.g., median nerve contains C6\u2013T1 fibers); (2) Radiculopathies (e.g., C6, C7) affect a continuous dermatomal strip corresponding to a single embryological spinal segment; (3) Tract/spinal cord lesions (e.g., dorsal column, ALS) produce sensory deficits across all body regions below the level of the lesion (funicular distribution).",
+    "pearl": "Peripheral nerve lesion = territory of a named nerve (multi-root origin); Radiculopathy = dermatomal strip corresponding to a single spinal root.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-005",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 49-year-old warehouse supervisor experiences sudden, severe electric-shock pain shooting from his left lower back down the posterior thigh, posterior calf, and into the lateral border of his foot and small toe after lifting a heavy crate. Physical examination reveals decreased sensation over the lateral margin of the left foot and sole, weakness when attempting to walk on his left toes (impaired plantarflexion), and a completely absent left Achilles tendon reflex. The patellar reflex is 2+ bilaterally. What diagnosis and spinal nerve root are implicated?",
+    "choices": {
+      "A": "Meralgia paresthetica; Lateral femoral cutaneous nerve",
+      "B": "L3 radiculopathy; L3 root",
+      "C": "L4 radiculopathy; L4 root",
+      "D": "L5 radiculopathy; L5 root",
+      "E": "S1 radiculopathy (sciatica); S1 nerve root"
+    },
+    "correct": "E",
+    "rationale": "The patient has acute sciatica due to an S1 radiculopathy (commonly caused by an L5\u2013S1 posterolateral disc herniation compressing the traversing S1 root). The clinical triad of S1 radiculopathy is: (1) sensory loss/pain down the posterior leg to the lateral foot/sole/fifth toe; (2) weakness of plantarflexion (gastrocnemius/soleus), causing difficulty with toe-walking; and (3) diminished or absent Achilles tendon deep tendon reflex (mediated by S1\u2013S2).",
+    "pearl": "S1 radiculopathy: Pain radiating to the lateral foot and small toe, weak plantarflexion (cannot toe-walk), absent Achilles reflex.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-006",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 58-year-old man presents with progressive tingling, numbness, and burning dysesthesias in his feet and lower legs over the past 3 months. Nerve conduction studies (NCS) performed along the tibial and peroneal nerves demonstrate a 45% reduction in motor and sensory nerve conduction velocity (NCV) along with marked prolongation of distal latencies. Needle electromyography shows no spontaneous fibrillations at rest. What pathological alteration in the peripheral nervous system is directly responsible for the slowed conduction velocity?",
+    "choices": {
+      "A": "Demyelination of peripheral nerve fibers with loss of saltatory conduction",
+      "B": "Primary axonal transection with Wallerian degeneration",
+      "C": "Complete necrosis of anterior horn alpha motor neurons",
+      "D": "Destruction of postsynaptic acetylcholine receptors at the neuromuscular junction",
+      "E": "Intracellular glycogen accumulation within sarcolemma"
+    },
+    "correct": "A",
+    "rationale": "Nerve conduction velocity (NCV) depends directly on the integrity of the myelin sheath produced by Schwann cells. In demyelinating polyneuropathies (such as chronic inflammatory demyelinating polyneuropathy, CIDP, or Guillain-Barr\u00e9 syndrome), loss of myelin increases membrane capacitance and decreases transverse membrane resistance, causing electrotonic currents to dissipate through the demyelinated axolemma. This prevents rapid saltatory conduction from node to node, resulting in markedly reduced NCV and prolonged distal onset latencies. In contrast, pure axonal loss causes decreased amplitude with preserved velocity.",
+    "pearl": "Slowed nerve conduction velocity (NCV) and prolonged latencies on NCS are the definitive hallmarks of demyelinating neuropathy (loss of saltatory conduction).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-007",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 46-year-old man presents with right lower extremity pain and numbness. Neurological examination reveals marked weakness of right ankle dorsiflexion and great toe extension. When asked to walk across the room on his heels, he is unable to do so on the right side and his foot slaps down (foot drop). However, he can walk on his toes without difficulty. Sensation to pinprick is diminished over the anterolateral leg and the dorsum of the right foot including the great toe. Both patellar and Achilles deep tendon reflexes are 2+ and symmetric. An MRI confirms a posterolateral intervertebral disc herniation. Between which vertebral bodies is the herniation located, and which nerve root is compressed?",
+    "choices": {
+      "A": "L2\u2013L3 disc compressing L3 root",
+      "B": "L4\u2013L5 disc compressing L5 root",
+      "C": "L5\u2013S1 disc compressing S1 root",
+      "D": "L3\u2013L4 disc compressing L4 root",
+      "E": "T12\u2013L1 disc compressing L1 root"
+    },
+    "correct": "B",
+    "rationale": "The patient has an L5 radiculopathy, typically caused by a posterolateral disc herniation at the L4\u2013L5 intervertebral space compressing the traversing L5 nerve root. The hallmark findings of L5 radiculopathy are: (1) sensory loss across the anterolateral lower leg, dorsum of the foot, and great toe (hallux); (2) motor weakness of ankle dorsiflexion (tibialis anterior) and toe extension (extensor hallucis longus), resulting in difficulty heel-walking and foot drop; and (3) *intact* reflexes, because there is no readily testable deep tendon reflex mediated primarily by L5 (patellar is L2\u2013L4; Achilles is S1\u2013S2).",
+    "pearl": "L4\u2013L5 disc herniation compresses L5 root: Foot drop, weak dorsiflexion (cannot heel-walk), sensory loss on dorsum of foot/big toe, *normal* patellar and Achilles reflexes.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-008",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old woman presents with severe anterior thigh and medial leg pain. On examination, she has weakness of knee extension (quadriceps) and difficulty standing up from a seated position or squatting. Sensation is decreased over the anterior lower thigh, patella, and down the medial malleolus of the ankle. The right patellar tendon reflex is absent, while the Achilles reflex is normal. A lumbar spine MRI demonstrates a disc herniation. At which level is the disc herniation, and which nerve root is compressed?",
+    "choices": {
+      "A": "L5\u2013S1 disc compressing S1 root",
+      "B": "L4\u2013L5 disc compressing L5 root",
+      "C": "L3\u2013L4 disc compressing L4 root",
+      "D": "L1\u2013L2 disc compressing L1 root",
+      "E": "S1\u2013S2 disc compressing S2 root"
+    },
+    "correct": "C",
+    "rationale": "The patient presents with an L4 radiculopathy, commonly caused by a posterolateral disc herniation at the L3\u2013L4 intervertebral space compressing the traversing L4 root. The clinical features of L4 radiculopathy are: (1) pain and sensory loss over the anterior thigh, anterior knee, and down the medial lower leg to the medial malleolus; (2) motor weakness of knee extension (quadriceps femoris); and (3) diminished or absent patellar tendon reflex (knee jerk, L2\u2013L4, predominantly L4).",
+    "pearl": "L3\u2013L4 disc herniation compresses L4 root: Quadriceps weakness (impaired knee extension/squatting), absent patellar reflex, numbness over medial malleolus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-009",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old competitive cyclist presents with numbness and paresthesias involving the fourth and fifth digits of his left hand and weakness of finger abduction. Physical examination reveals sensory loss over the hypothenar eminence and the medial one and a half digits. Finger abduction against resistance (dorsal interossei) is 3/5. Froment sign is positive in the left hand. Sensation over the thenar eminence, lateral palm, and thumb is completely normal. Which peripheral nerve is entrapped in this patient?",
+    "choices": {
+      "A": "Median nerve at the pronator teres",
+      "B": "Radial nerve at the arcade of Frohse",
+      "C": "Musculocutaneous nerve in the coracobrachialis",
+      "D": "Ulnar nerve at Guyon canal (or cubital tunnel)",
+      "E": "Axillary nerve in the quadrangular space"
+    },
+    "correct": "D",
+    "rationale": "The patient has ulnar neuropathy (often called \"cyclist\\'s palsy\" due to compression of the ulnar nerve against handlebars at Guyon canal at the wrist, or at the cubital tunnel of the elbow). The ulnar nerve innervates: (1) sensation to the hypothenar eminence, small finger, and medial half of the ring finger; and (2) motor supply to intrinsic hand muscles, including the dorsal interossei (finger abduction) and adductor pollicis. Weakness of adductor pollicis produces a positive Froment sign (compensatory flexion of the thumb interphalangeal joint by the median-innervated flexor pollicis longus when pinching a piece of paper).",
+    "pearl": "Ulnar nerve entrapment (Guyon canal / cubital tunnel): Sensory loss over digit 5 and medial digit 4, weak finger abduction (interossei), positive Froment sign.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-010",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old man presents with chronic lower back pain and leg fatigue that worsens after walking two blocks and improves when he bends forward or leans over a shopping cart (\"shopping cart sign\"). Physical examination shows normal pedal pulses and no focal sensory or motor deficits at rest. Lumbar MRI reveals diffuse osteophyte formation, ligamentum flavum hypertrophy, and degenerative disc bulging resulting in severe narrowing of the central spinal canal from L2 through L5. What is this clinical syndrome called?",
+    "choices": {
+      "A": "Acute anterior spinal artery infarction",
+      "B": "Subacute combined degeneration",
+      "C": "Syringomyelia",
+      "D": "Tabes dorsalis",
+      "E": "Neurogenic claudication (lumbar spinal stenosis)"
+    },
+    "correct": "E",
+    "rationale": "Lumbar spinal stenosis leads to neurogenic claudication (pseudoclaudication). Hypertrophy of the ligamentum flavum, facet joint arthropathy, and degenerative disc disease narrow the central spinal canal, compressing the cauda equina and its microvasculature. Symptoms include bilateral buttocks/thigh/calf pain, numbness, and cramping brought on by walking or standing (spinal extension narrows the canal further). Leaning forward (flexion of the spine, as over a shopping cart) increases the canal diameter and decompresses the nerve roots, providing rapid relief. Normal pulses distinguish it from vascular claudication.",
+    "pearl": "Neurogenic claudication (spinal stenosis): Pain/numbness provoked by walking and spinal extension, relieved by spinal flexion (\"shopping cart sign\").",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-011",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 27-year-old man is stabbed in the back during an altercation. Neurological examination reveals a spinal cord hemisection (Brown-S\u00e9quard syndrome) at the T8 level on the right side. Which of the following sensory and motor profiles will be present below the level of the lesion?",
+    "choices": {
+      "A": "Right-sided spastic paralysis and loss of vibration/proprioception; Left-sided loss of pain and temperature",
+      "B": "Left-sided spastic paralysis and loss of vibration/proprioception; Right-sided loss of pain and temperature",
+      "C": "Bilateral loss of pain and temperature with complete preservation of motor function",
+      "D": "Right-sided loss of pain and temperature with bilateral flaccid paraplegia",
+      "E": "Complete anesthesia of both lower extremities with intact upper extremity reflexes"
+    },
+    "correct": "A",
+    "rationale": "In Brown-S\u00e9quard syndrome (spinal cord hemisection), three primary pathways are severed: (1) Lateral corticospinal tract: severed above lower motor neurons, causing *ipsilateral* upper motor neuron paralysis and spasticity below the lesion; (2) Dorsal columns (fasciculus gracilis): uncrossed in the spinal cord, causing *ipsilateral* loss of vibration, joint position sense, and discriminative touch below the lesion; (3) Anterolateral system (spinothalamic tract): carries crossed pain and temperature fibers that decussated below the lesion, causing *contralateral* loss of pain and temperature beginning 1\u20132 segments below the lesion level.",
+    "pearl": "Brown-S\u00e9quard (hemisection): *Ipsilateral* UMN weakness and loss of DCML (proprioception/vibration); *Contralateral* loss of ALS (pain and temperature).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-012",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 72-year-old woman undergoes endovascular repair of a thoracoabdominal aortic aneurysm. Postoperatively, she develops flaccid paralysis of both lower extremities, urinary retention, and bilateral loss of pinprick and temperature sensation below the T10 dermatome. In contrast, vibration perception and joint position sense remain completely intact in both feet. Occlusion of which critical radicular feeding vessel during aortic cross-clamping resulted in this anterior spinal cord syndrome?",
+    "choices": {
+      "A": "Vertebral artery",
+      "B": "Great anterior radicular artery of Adamkiewicz",
+      "C": "Posterior spinal artery",
+      "D": "Basilar artery",
+      "E": "Internal carotid artery"
+    },
+    "correct": "B",
+    "rationale": "The patient has Anterior Spinal Artery (ASA) syndrome, an ischemic infarction of the anterior two-thirds of the spinal cord. The single ASA is reinforced in the lower thoracic and lumbar regions by the Artery of Adamkiewicz (great anterior radicular artery), which typically arises from a left intercostal or lumbar artery between T9 and T12. Cross-clamping or surgical repair of the thoracoabdominal aorta can sacrifice this artery, leading to anterior cord ischemia. The anterior 2/3 of the cord contains the lateral corticospinal tracts (bilateral paralysis) and spinothalamic tracts (bilateral loss of pain/temp). The posterior 1/3 (dorsal columns) is supplied by paired posterior spinal arteries (PSAs) and is completely spared (intact vibration/proprioception).",
+    "pearl": "Artery of Adamkiewicz supplies the anterior 2/3 of the lower spinal cord. Occlusion causes ASA syndrome: Bilateral paralysis and loss of pain/temp, with *spared dorsal columns*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-013",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old software developer complains of progressive aching in the radial aspect of her right forearm and weakness of finger and thumb extension. Sensory testing reveals normal light touch across the entire hand and arm, with NO cutaneous sensory loss anywhere. On motor exam, she cannot extend her metacarpophalangeal joints, but wrist extension is preserved with slight radial deviation. Where is the nerve entrapment located?",
+    "choices": {
+      "A": "Median nerve under the bicipital aponeurosis",
+      "B": "Ulnar nerve in the canal of Guyon",
+      "C": "Posterior interosseous nerve (deep branch of radial nerve) at the arcade of Frohse",
+      "D": "Musculocutaneous nerve at the lateral antebrachial cutaneous branch",
+      "E": "Axillary nerve at the humeroscapular groove"
+    },
+    "correct": "C",
+    "rationale": "The radial nerve divides in the proximal forearm into a superficial branch (purely sensory to the dorsolateral hand) and a deep motor branch. The deep branch pierces the supinator muscle through a fibrous arch (the arcade of Frohse), where it becomes the Posterior Interosseous Nerve (PIN). Entrapment of the PIN produces pure motor weakness of finger and thumb extension (extensor digitorum, extensor pollicis longus/brevis) with *absolutely no sensory loss*. Wrist extension is preserved (supplied by the radial nerve proper to the extensor carpi radialis longus proximal to the supinator), but shows radial deviation.",
+    "pearl": "Posterior interosseous nerve (PIN) syndrome = Pure motor weakness of finger/thumb extension with *no sensory deficit* (entrapped at the arcade of Frohse).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-014",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 44-year-old woman presents with bilateral burning hand pain and loss of pain perception in her fingers. Neurological examination reveals cape-like analgesia and thermanesthesia from C4 to T2 bilaterally, with intact light touch. In addition, she has atrophy of the intrinsic muscles of both hands and bilateral loss of the biceps and brachioradialis reflexes. An MRI confirms a large cervical syrinx. What anatomical extension of the syrinx accounts for the muscle wasting and hyporeflexia in this patient?",
+    "choices": {
+      "A": "Lateral funiculus compression destroying corticospinal axons",
+      "B": "Caudal expansion into the lumbar cistern compressing cauda equina",
+      "C": "Dorsal root ganglion compression outside the spine",
+      "D": "Lateral expansion of the cavity into the anterior (ventral) horns of the cervical spinal cord",
+      "E": "Cranial migration into the fourth ventricle obstructing CSF"
+    },
+    "correct": "D",
+    "rationale": "As syringomyelia progresses, the expanding cavity within the central cord can extend laterally from the central canal into the anterior (ventral) horns of the gray matter. The ventral horns contain the cell bodies of somatic lower motor neurons (alpha motor neurons). Destruction of these anterior horn cells at the C5\u2013T1 cervical levels produces lower motor neuron signs in the upper extremities: flaccid weakness, muscle atrophy, fasciculations, and loss of deep tendon reflexes (biceps, brachioradialis) at the level of the lesion.",
+    "pearl": "Advanced syringomyelia: Expansion into anterior horns causes *lower motor neuron signs* (hand muscle atrophy, weakness, areflexia) in addition to cape-like pain/temp loss.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-015",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old woman presents with severe tingling and numbness in her right hand digits 1\u20133. An electrodiagnostic medicine specialist performs a nerve conduction study (NCS). Stimulation of the right median nerve at the wrist produces an onset latency of 5.2 ms (normal < 3.5 ms) when recording from the abductor pollicis brevis, but the compound muscle action potential amplitude is preserved at 9.0 mV. Which of the following best characterizes this electrodiagnostic abnormality?",
+    "choices": {
+      "A": "Complete axonal transection with secondary Wallerian degeneration",
+      "B": "Severe anterior horn motor neuron cell death",
+      "C": "Systemic Lambert-Eaton myasthenic junctional defect",
+      "D": "Polymyositis with sarcolemmal necrosis",
+      "E": "Focal demyelination causing prolonged distal motor latency"
+    },
+    "correct": "E",
+    "rationale": "In focal entrapment neuropathies like Carpal Tunnel Syndrome, mechanical compression and local ischemia lead to focal demyelination of the median nerve as it traverses the flexor retinaculum. Demyelination slows conduction across the compressed segment, which manifests on NCS as a markedly prolonged distal motor latency (5.2 ms vs normal < 3.5 ms) and prolonged sensory latency. Because axons have not degenerated, the compound muscle action potential (CMAP) amplitude remains robust (9.0 mV).",
+    "pearl": "Carpal tunnel electrodiagnosis: Prolonged distal motor/sensory latency due to focal demyelination under the flexor retinaculum, with preserved amplitude in early disease.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-016",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 29-year-old marathon runner presents with deep aching in the sole of his left foot, accompanied by burning paresthesias radiating to the plantar surfaces of his toes. The pain is exacerbated by prolonged standing and running. Physical examination reveals tenderness posterior and inferior to the medial malleolus, where percussion reproduces tingling in the sole (positive Tinel sign). Sensation is diminished over the plantar surface of the foot, but sensation over the dorsum of the foot is completely normal. What nerve is compressed, and in what anatomical tunnel?",
+    "choices": {
+      "A": "Tibial nerve in the tarsal tunnel",
+      "B": "Deep fibular nerve in the anterior tarsal tunnel",
+      "C": "Superficial fibular nerve in the lateral compartment",
+      "D": "Sural nerve in the retromalleolar groove",
+      "E": "Saphenous nerve in the adductor canal"
+    },
+    "correct": "A",
+    "rationale": "Tarsal tunnel syndrome is an entrapment neuropathy of the tibial nerve (or its terminal branches, the medial and lateral plantar nerves) as it passes behind and beneath the medial malleolus within the fibro-osseous tarsal tunnel beneath the flexor retinaculum. Clinical features include burning pain, paresthesias, and numbness over the sole of the foot and plantar surfaces of the toes, with a positive Tinel sign behind the medial malleolus. Sensation over the dorsum of the foot is spared because it is supplied by the superficial and deep fibular (peroneal) nerves.",
+    "pearl": "Tarsal tunnel syndrome = Tibial nerve entrapment behind the medial malleolus; burning sole pain, positive Tinel sign behind medial malleolus, normal dorsal foot sensation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-017",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man presents with chronic lower extremity pain and numbness. Sensory testing reveals loss of pinprick and temperature sensation in a stocking-grasp distribution bilaterally, with reduced vibration perception at the toes. Ankle reflexes are absent. Nerve biopsy demonstrates extensive loss of unmyelinated and small myelinated axons with microvascular hyalinization of endoneurial arterioles. What is the most common underlying etiology of this distal symmetric polyneuropathy worldwide?",
+    "choices": {
+      "A": "Alcohol toxicity",
+      "B": "Diabetic peripheral neuropathy",
+      "C": "Vitamin B12 deficiency",
+      "D": "Heavy metal arsenic exposure",
+      "E": "Inherited Charcot-Marie-Tooth disease"
+    },
+    "correct": "B",
+    "rationale": "Diabetic peripheral neuropathy is the most frequent cause of distal symmetric polyneuropathy worldwide. Chronic hyperglycemia leads to microvascular sorbitol accumulation, advanced glycation end-products (AGEs), and endoneurial arteriole microangiopathy, resulting in ischemic and metabolic axonal degeneration. It presents in a length-dependent \"stocking-glove\" distribution, beginning in the distal lower extremities and slowly progressing proximally. Small-fiber involvement causes burning pain and loss of temperature/pinprick; large-fiber involvement causes loss of vibration, proprioception, and absent Achilles reflexes.",
+    "pearl": "Diabetic neuropathy = Distal symmetric, length-dependent (\"stocking-glove\") sensorimotor axonal polyneuropathy from microvascular and metabolic injury.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-018",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old woman is evaluated for right arm weakness. She has a complete foot drop and sensory loss over the dorsum of the left foot, and two weeks later develops right wrist drop and sensory loss over the first dorsal web space of the right hand. Workup reveals systemic necrotizing vasculitis (polyarteritis nodosa). What is the clinical neurological term for asymmetric, asynchronous, sequential damage to two or more individual named peripheral nerves?",
+    "choices": {
+      "A": "Polyradiculopathy",
+      "B": "Distal symmetric polyneuropathy",
+      "C": "Mononeuropathy multiplex (mononeuritis multiplex)",
+      "D": "Pure sensory neuronopathy",
+      "E": "Myelopathy"
+    },
+    "correct": "C",
+    "rationale": "Mononeuropathy multiplex (mononeuritis multiplex) refers to simultaneous or sequential, asymmetric, patchy involvement of two or more non-contiguous, distinct peripheral nerves (e.g., right radial nerve plus left common fibular nerve). It is the classic neurological manifestation of systemic vasculitis (such as polyarteritis nodosa, microscopic polyangiitis, or eosinophilic granulomatosis with polyangiitis / Churg-Strauss), caused by ischemic infarction of individual nerves due to occlusion of the vasa nervorum.",
+    "pearl": "Mononeuropathy multiplex = Asymmetric, asynchronous involvement of multiple named individual nerves; classic presentation of vasculitis (ischemic infarction of vasa nervorum).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-019",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 33-year-old construction worker presents with low back pain radiating down the posterior aspect of his right leg into his lateral foot. Straight leg raise (Las\u00e8gue test) is positive on the right at 35 degrees, reproducing the shooting radicular pain below the knee. In addition, when the examiner raises the patient\\'s UNINVOLVED left leg, the patient reports intense shooting pain radiating down the INVOLVED right leg (crossed straight leg raise sign). What does the crossed straight leg raise sign specifically indicate?",
+    "choices": {
+      "A": "Malingering or conversion disorder",
+      "B": "Sacroiliac joint ankylosis",
+      "C": "Spasticity of the contralateral gastrocnemius muscle",
+      "D": "High specificity for a herniated intervertebral disc with nerve root compression",
+      "E": "Complete spinal cord transection"
+    },
+    "correct": "D",
+    "rationale": "The straight leg raise (SLR) test stretches the sciatic nerve and L5/S1 nerve roots. While a positive ipsilateral SLR is sensitive (~90%) for lumbar disc herniation, it has relatively low specificity (~40%). In contrast, the crossed straight leg raise test (pain reproduced in the symptomatic leg when lifting the *contralateral, asymptomatic* leg) is exceptionally specific (>90%) for a severe herniated intervertebral disc with significant nerve root impingement.",
+    "pearl": "Crossed straight leg raise test (pain in the affected leg when raising the unaffected leg) has >90% specificity for lumbar disc herniation with nerve root compression.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-CSE-020",
+    "topic": "Pain & Radiculopathy Cases",
+    "lecture": "3.1 Pain Cases",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 68-year-old woman with a history of breast cancer presents with progressive numbness in her legs. Neurological examination reveals a sensory level to pinprick at the T10 dermatome (umbilicus), bilateral hyperreflexia in the lower extremities, and bilateral extensor plantar responses (Babinski signs). Upper extremity strength and sensation are completely normal. Emergency spinal MRI demonstrates a metastatic extradural mass compressing the spinal cord at T8. What clinical syndrome is this patient demonstrating?",
+    "choices": {
+      "A": "Cauda equina syndrome",
+      "B": "Guillain-Barr\u00e9 syndrome",
+      "C": "Conus medullaris syndrome",
+      "D": "Acute peripheral polyneuropathy",
+      "E": "Acute spinal cord compression (compressive myelopathy)"
+    },
+    "correct": "E",
+    "rationale": "Acute spinal cord compression (compressive myelopathy) is an oncologic and neurological emergency. Compression of the thoracic spinal cord produces: (1) a distinct sensory level to pinprick (e.g., T10 dermatome at the umbilicus), below which pain, temperature, and touch sensations are diminished; (2) bilateral upper motor neuron signs below the level of the lesion (spastic weakness, hyperreflexia, bilateral extensor plantar/Babinski responses); and (3) autonomic bladder/bowel dysfunction. Emergent high-dose corticosteroids (dexamethasone) and surgical decompression/radiation are required to prevent permanent paraplegia.",
+    "pearl": "Compressive myelopathy: Distinct dermatomal sensory level + bilateral UMN signs below the lesion; requires emergent dexamethasone and MRI to prevent paraplegia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-KC-001",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 63-year-old man presents with acute onset of right-sided hemiparesis and contralateral loss of vibration and proprioception, with sparing of the face. An MRI demonstrates an acute ischemic infarct in the ventromedial medulla (Dejerine anterior bulbar syndrome) caused by occlusion of the anterior spinal artery. On a transverse histological cross-section through the open rostral medulla, which structure lies immediately dorsal to the medullary pyramids in the paramedian region and transmits conscious proprioception and discriminative touch from the contralateral body?",
+    "choices": {
+      "A": "Medial lemniscus",
+      "B": "Spinothalamic tract",
+      "C": "Inferior olivary nucleus",
+      "D": "Medial longitudinal fasciculus",
+      "E": "Solitary tract"
+    },
+    "correct": "A",
+    "rationale": "In the medulla oblongata, the medial lemniscus is oriented vertically in the paramedian zone, positioned immediately dorsal to the medullary pyramids and medial to the inferior olivary nucleus. It carries crossed second-order tactile, vibratory, and proprioceptive fibers ascending from the contralateral nucleus gracilis and cuneatus toward the thalamus. Occlusion of the anterior spinal artery or paramedian branches of the vertebral artery causes medial medullary syndrome (Dejerine syndrome), damaging the pyramid (contralateral hemiparesis), the hypoglossal nerve (ipsilateral tongue deviation), and the medial lemniscus (contralateral loss of touch and proprioception).",
+    "pearl": "Medial medullary syndrome (anterior spinal artery infarct): Triad of contralateral hemiparesis (pyramid), contralateral loss of vibration/proprioception (medial lemniscus), and ipsilateral tongue deviation (CN XII).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-002",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An axial myelin-stained cross-section of the thoracic spinal cord at the T10 level is evaluated. A pathologist points to the dorsal funiculus immediately adjacent to the posterior median sulcus. Which specific white matter bundle occupies this medial position in the dorsal column, and from which spinal cord levels does it carry tactile information?",
+    "choices": {
+      "A": "Fasciculus cuneatus carrying inputs from C1 to C8",
+      "B": "Fasciculus gracilis carrying inputs from T6 and below (lower trunk and lower extremities)",
+      "C": "Lateral spinothalamic tract carrying pain from the contralateral arm",
+      "D": "Dorsolateral tract of Lissauer carrying unmyelinated preganglionic fibers",
+      "E": "Anterior corticospinal tract carrying motor fibers to the axial musculature"
+    },
+    "correct": "B",
+    "rationale": "The dorsal columns are divided somatotopically: the medial bundle is the fasciculus gracilis, which carries conscious proprioception, two-point discrimination, and vibration from spinal levels T6 and below (sacral, lumbar, and lower thoracic levels, corresponding to the lower extremities and lower trunk). Because the upper extremity fibers have not yet entered the spinal cord at T10, the fasciculus cuneatus is absent at this level (it appears only at and above T6, situated lateral to fasciculus gracilis).",
+    "pearl": "Fasciculus gracilis is medial and present throughout the entire spinal cord (carries lower extremities below T6). Fasciculus cuneatus is lateral and present only at and above T6 (carries upper extremities).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D3-KC-003",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman with chronic hypertension suffers an ischemic stroke resulting in complete loss of all somatosensory modalities (touch, vibration, proprioception, pain, and temperature) across the entire left side of her body and limbs, with relative preservation of facial sensation. An axial brain MRI reveals a lacunar infarct in the lateral nuclear mass of the right thalamus. In which specific thalamic nucleus do ascending second-order fibers of both the medial lemniscus and spinothalamic tract terminate?",
+    "choices": {
+      "A": "Ventral posteromedial (VPM) nucleus",
+      "B": "Lateral geniculate nucleus (LGN)",
+      "C": "Ventral posterolateral (VPL) nucleus",
+      "D": "Medial geniculate nucleus (MGN)",
+      "E": "Anterior thalamic nucleus"
+    },
+    "correct": "C",
+    "rationale": "The ventral posterolateral (VPL) nucleus of the thalamus is the primary somatosensory relay nucleus for the body. Both the medial lemniscus (transmitting touch, vibration, and proprioception from the contralateral body) and the spinothalamic tract (transmitting pain and temperature from the contralateral body) terminate by synapsing on third-order neurons within the VPL. In contrast, somatosensory inputs from the head and face (via trigeminal pathways) terminate in the ventral posteromedial (VPM) nucleus.",
+    "pearl": "Somatosensory thalamic relays: VPL = Body (Ventral Postero-Lateral for Limbs); VPM = Face (Ventral Postero-Medial for Mouth/Make-up).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-004",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neuroanatomist traces the ascending medial lemniscus through serial transverse brainstem sections from the medulla to the rostral midbrain. How does the spatial orientation of the medial lemniscus shift as it ascends from the rostral medulla into the pons and midbrain?",
+    "choices": {
+      "A": "It remains vertically oriented along the midline across the entire brainstem",
+      "B": "It shifts into the ventricular floor of the fourth ventricle and enters the cerebellum",
+      "C": "It decussates again in the midbrain tegmentum before entering the epithalamus",
+      "D": "It rotates from a vertical midline position in the medulla to a horizontal transverse ribbon in the ventral pontine tegmentum, and shifts dorsolaterally in the midbrain",
+      "E": "It descends into the pyramids to merge with the corticospinal tract"
+    },
+    "correct": "D",
+    "rationale": "In the rostral medulla, the medial lemniscus is oriented vertically on either side of the midline (paramedian). As it ascends into the pons, it rotates 90 degrees to form a flat, horizontal ribbon lying transversely along the boundary between the basilar pons and the pontine tegmentum. In the midbrain, it is displaced dorsolaterally, lying in the tegmentum lateral to the red nucleus and dorsolateral to the substantia nigra, before entering the VPL nucleus of the thalamus.",
+    "pearl": "Medial lemniscus orientation shift: Vertical in medulla (paramedian) $ ightarrow$ Horizontal in pontine tegmentum $ ightarrow$ Dorsolateral in midbrain tegmentum.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-005",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 70-year-old man experiences an embolic stroke in the territory of the left middle cerebral artery. On physical examination, he has dense loss of two-point discrimination, graphesthesia, and stereognosis in his right hand and face. An MRI demonstrates an infarction confined to the parietal cortex immediately posterior to the central sulcus. What is the primary anatomical designation and Brodmann cytoarchitectonic classification of this cortical structure?",
+    "choices": {
+      "A": "Precentral gyrus; Brodmann area 4",
+      "B": "Superior temporal gyrus; Brodmann areas 41 and 42",
+      "C": "Calcarine sulcus; Brodmann area 17",
+      "D": "Cingulate gyrus; Brodmann area 24",
+      "E": "Postcentral gyrus; Brodmann areas 3, 1, and 2"
+    },
+    "correct": "E",
+    "rationale": "The primary somatosensory cortex (S1) is located in the postcentral gyrus of the anterior parietal lobe, bounded rostrally by the central sulcus and caudally by the postcentral sulcus. It comprises Brodmann areas 3 (3a and 3b), 1, and 2. It receives thalamocortical projections from the VPL (body) and VPM (face) via the posterior limb of the internal capsule. Lesions of the primary somatosensory cortex result in loss of discriminative touch, stereognosis, two-point discrimination, and conscious proprioception in the contralateral body.",
+    "pearl": "Postcentral gyrus = Primary somatosensory cortex (S1, Brodmann areas 3, 1, 2); receives third-order thalamocortical fibers from VPL/VPM.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-006",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An axial T1-weighted brain MRI shows a localized lacunar infarction in the subcortical white matter between the thalamus and the lentiform nucleus (globus pallidus and putamen). The patient exhibits contralateral hemianesthesia and contralateral hemiparesis. Through which specific anatomical subdivision of the internal capsule do third-order somatosensory fibers travel from the VPL/VPM of the thalamus to the primary somatosensory cortex?",
+    "choices": {
+      "A": "Posterior limb of the internal capsule",
+      "B": "Anterior limb of the internal capsule",
+      "C": "Genu of the internal capsule",
+      "D": "Retrolenticular part of the internal capsule",
+      "E": "Sublenticular part of the internal capsule"
+    },
+    "correct": "A",
+    "rationale": "The internal capsule is a massive two-way highway of white matter fibers: (1) Anterior limb: carries frontopontine and thalamocortical fibers connecting the mediodorsal thalamus and prefrontal cortex; (2) Genu: carries corticobulbar motor fibers to cranial nerve motor nuclei; (3) Posterior limb: situated between the thalamus medially and the lentiform nucleus laterally, carries descending corticospinal motor fibers AND ascending third-order sensory thalamocortical projections from the VPL/VPM to the postcentral gyrus. An infarct in the posterior limb causes contralateral motor weakness and sensory loss.",
+    "pearl": "Posterior limb of the internal capsule = Transmits descending corticospinal motor fibers AND ascending somatosensory thalamocortical fibers (VPL/VPM $ ightarrow$ S1).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-007",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 24-year-old medical student is quizzed on cutaneous dermatomes during a clinical neurology rotation. The attending physician asks: \\'Which cervical dermatome provides sensory innervation to digit 1 (the thumb) as well as the lateral aspect of the forearm and arm?\\' Which dermatome is correct?",
+    "choices": {
+      "A": "C4",
+      "B": "C6",
+      "C": "C7",
+      "D": "C8",
+      "E": "T1"
+    },
+    "correct": "B",
+    "rationale": "The C6 dermatome covers the lateral (radial) aspect of the arm and forearm, the thenar eminence, and the entire thumb (digit 1). In contrast, C5 covers the lateral shoulder and upper arm; C7 covers the middle finger (digits 2 and 3); C8 covers the pinky (digits 4 and 5) and medial forearm; and T1 covers the medial arm and axilla.",
+    "pearl": "C6 dermatome = Digit 1 (thumb) and lateral aspect of the forearm and arm (remember: form the number \"6\" using your thumb and index finger).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D3-KC-008",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In an axial section of the caudal, closed medulla, a discrete dorsal nuclear mass receives the primary ascending axons of the fasciculus gracilis. What is this nucleus called, and what is the fate of the axons that emerge from its second-order neuronal cell bodies?",
+    "choices": {
+      "A": "Nucleus cuneatus; axons descend into the spinal cord as the rubrospinal tract",
+      "B": "Hypoglossal nucleus; axons exit ventrally as cranial nerve XII",
+      "C": "Nucleus gracilis; axons decussate as internal arcuate fibers to form the contralateral medial lemniscus",
+      "D": "Spinal trigeminal nucleus; axons ascend in the solitary tract",
+      "E": "Inferior vestibular nucleus; axons project to the flocculonodular lobe"
+    },
+    "correct": "C",
+    "rationale": "The nucleus gracilis is located in the dorsal medial caudal medulla. It receives uncrossed primary sensory axons ascending in the fasciculus gracilis (carrying tactile and proprioceptive information from the lower extremities and lower trunk). Axons emerging from second-order cell bodies in nucleus gracilis sweep ventromedially across the midline as internal arcuate fibers, decussating to form the contralateral medial lemniscus.",
+    "pearl": "Nucleus gracilis receives fasciculus gracilis (lower body) $ ightarrow$ Axons decussate as internal arcuate fibers $ ightarrow$ Contralateral medial lemniscus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-009",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old man presents with Wallenberg lateral medullary syndrome following thrombosis of the posterior inferior cerebellar artery (PICA). On neurological examination, he exhibits loss of pain and temperature sensation on the left side of his face and on the RIGHT side of his body. Which ascending tract in the lateral tegmentum of the rostral medulla was infarcted to produce the contralateral loss of body pain and temperature?",
+    "choices": {
+      "A": "Medial lemniscus",
+      "B": "Corticospinal tract",
+      "C": "Fasciculus cuneatus",
+      "D": "Spinothalamic tract (anterolateral system)",
+      "E": "Dorsal spinocerebellar tract"
+    },
+    "correct": "D",
+    "rationale": "In the lateral rostral medulla, the spinothalamic tract (part of the anterolateral system) is located in the anterolateral tegmentum, perfused by the posterior inferior cerebellar artery (PICA). Because spinothalamic fibers cross in the spinal cord near their level of entry, the spinothalamic tract in the medulla carries pain and temperature information from the *contralateral* side of the body. Infarction of the lateral medulla (PICA syndrome / Wallenberg syndrome) damages the spinothalamic tract (causing contralateral body pain/temperature loss) and the spinal trigeminal nucleus/tract (causing ipsilateral facial pain/temperature loss), producing a classic \"crossed\" sensory deficit.",
+    "pearl": "Wallenberg syndrome (PICA infarct): Lateral medulla damage to *Spinothalamic tract* (contralateral body pain/temp loss) + *Spinal trigeminal tract* (ipsilateral facial pain/temp loss).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-KC-010",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old woman undergoes neurological testing for fine tactile discrimination. She is tested with two fine compass points applied simultaneously to the skin. The minimum distance at which two separate points can be perceived as distinct is approximately 2 to 3 mm on the fingertip, but over 40 mm on the back. Which factor primarily determines this profound difference in two-point discrimination threshold between the fingertips and the back?",
+    "choices": {
+      "A": "The presence of unmyelinated C fibers in the back",
+      "B": "Total thickness of the stratum corneum in glabrous skin",
+      "C": "Conduction velocity of peripheral A-alpha fibers",
+      "D": "The diameter of the posterior cerebral artery",
+      "E": "Mechanoreceptor density and the size of peripheral receptive fields, reflected by the volume of primary somatosensory cortex dedicated to that body part"
+    },
+    "correct": "E",
+    "rationale": "Two-point discrimination threshold is the minimum physical separation between two simultaneous tactile stimuli required to perceive them as two distinct contacts. It depends on two interrelated anatomical factors: (1) Receptor density: the fingertips have a high density of Meissner corpuscles and Merkel discs with small, discrete receptive fields (1\u20132 mm), allowing independent activation of separate primary afferents; and (2) Cortical representation: the high peripheral receptor density is mapped to a disproportionately massive cortical area on the somatosensory homunculus in the postcentral gyrus. In contrast, the back has low receptor density and large receptive fields, resulting in poor spatial acuity.",
+    "pearl": "Fine two-point discrimination depends on high mechanoreceptor density, small receptive fields, and a large dedicated cortical representation in S1.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D3-KC-011",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A cross-section through the caudal pons at the level of the facial colliculus is examined. A ribbon of ascending white matter fibers lies horizontally in the ventral tegmentum, immediately dorsal to the basilar pons. The fibers originating from the contralateral lower extremity (derived from nucleus gracilis) occupy which position within this horizontal medial lemniscus ribbon?",
+    "choices": {
+      "A": "Lateral-most position",
+      "B": "Medial-most position",
+      "C": "Dorsal-most position along the ventricular floor",
+      "D": "Buried within the abducens nucleus",
+      "E": "Deep inside the superior olivary complex"
+    },
+    "correct": "A",
+    "rationale": "Somatotopic organization within the medial lemniscus rotates as it ascends: In the medulla, leg fibers (from nucleus gracilis) are ventral and arm fibers (from nucleus cuneatus) are dorsal. In the pons, as the lemniscus rotates to a horizontal ribbon, the fibers flip: lower extremity fibers (sacral/lumbar) shift to the *lateral* part of the medial lemniscus, while upper extremity fibers (cervical) occupy the *medial* part. In the midbrain, this lateral position of the leg fibers is maintained as it approaches the VPL thalamus.",
+    "pearl": "Medial lemniscus somatotopy in the pons: Leg fibers are *lateral*; Arm fibers are *medial*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D3-KC-012",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neuroanatomical specimen of the human spinal cord is prepared with a Nissl stain. A prominent nuclear column of large neurons is observed in the medial base of the dorsal horn (Rexed lamina VII), extending from C8 down to L3. What is this nucleus, and which sensory pathway originates from its cell bodies?",
+    "choices": {
+      "A": "Substantia gelatinosa; origin of the anterior spinothalamic tract",
+      "B": "Clarke\\'s nucleus (nucleus dorsalis); origin of the dorsal spinocerebellar tract",
+      "C": "Intermediolateral cell column; origin of preganglionic parasympathetic fibers",
+      "D": "Nucleus cuneatus; origin of the medial lemniscus",
+      "E": "Nucleus ambiguus; origin of special visceral efferent fibers"
+    },
+    "correct": "B",
+    "rationale": "Clarke\\'s column (nucleus dorsalis of Clarke) is a prominent column of large round neurons located in the medial base of the dorsal horn in Rexed lamina VII. It is present exclusively from spinal segments C8 down to L3. It receives unconscious proprioceptive inputs from muscle spindles and Golgi tendon organs of the ipsilateral lower extremity and trunk. Its second-order axons ascend uncrossed in the lateral funiculus as the dorsal spinocerebellar tract (DSCT), entering the cerebellum via the inferior cerebellar peduncle.",
+    "pearl": "Clarke\\'s column (C8\u2013L3, lamina VII): Relays unconscious proprioception from the lower body to the cerebellum via the *dorsal spinocerebellar tract*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-013",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man undergoes sensory testing. A wisp of cotton is brushed lightly across his anterior chest wall at the horizontal level of the nipples, and across his abdomen at the level of the umbilicus. Which spinal cord segments are evaluated by testing these two landmark dermatomes?",
+    "choices": {
+      "A": "T2 and T8",
+      "B": "T1 and T12",
+      "C": "T4 and T10",
+      "D": "T6 and L1",
+      "E": "T4 and L4"
+    },
+    "correct": "C",
+    "rationale": "Landmark thoracic dermatomes are standard board testing points: T4 is located at the horizontal line connecting the nipples (\"T4 at the teat\"), and T10 is located at the horizontal level of the umbilicus (\"T10 at the belly but-ten\").",
+    "pearl": "Nipple dermatome = T4; Umbilicus dermatome = T10; Inguinal crease = L1.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D3-KC-014",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old woman presents with severe tingling and numbness along the medial side of her hand, ring finger, and little finger. Physical examination confirms sensory loss strictly confined to digits 4 and 5, extending along the medial forearm. Triceps reflex is normal, but she has mild weakness of finger abduction. Which cervical nerve root dermatome corresponds to the medial hand and little finger?",
+    "choices": {
+      "A": "C5",
+      "B": "C6",
+      "C": "C7",
+      "D": "C8",
+      "E": "T2"
+    },
+    "correct": "D",
+    "rationale": "The C8 dermatome provides sensory innervation to the medial (ulnar) side of the hand, including the little finger (digit 5) and medial half of the ring finger (digit 4), extending onto the distal medial forearm. In contrast, C6 innervates the thumb and radial forearm; C7 innervates the middle finger; and T1 innervates the proximal medial forearm and arm.",
+    "pearl": "Hand dermatomes: C6 = Thumb (digit 1); C7 = Middle finger (digits 2\u20133); C8 = Pinky / little finger (digits 4\u20135).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D3-KC-015",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old man is brought to the clinic following a diving accident resulting in a cervical spine fracture. Neurological examination reveals that pinprick and thermal sensations are completely preserved on his right side, but he cannot feel pinprick or hot/cold stimuli on his entire left body below the C6 dermatome. Where in the spinal cord is the lesion located, and on which side?",
+    "choices": {
+      "A": "Left dorsal columns at C5",
+      "B": "Left anterolateral system at C4",
+      "C": "Right dorsal columns at C6",
+      "D": "Bilateral anterior white commissure at C5\u2013C6",
+      "E": "Right anterolateral system at C4\u2013C5"
+    },
+    "correct": "E",
+    "rationale": "The spinothalamic tract / anterolateral system (ALS) carries pain and temperature information that has already crossed the midline in the anterior white commissure approximately 1 to 2 segments above entry. Therefore, sensory loss of pain and temperature on the LEFT side of the body below C6 signifies a lesion in the *contralateral* (RIGHT) anterolateral system at or slightly above the C6 level (i.e., at C4\u2013C5).",
+    "pearl": "Loss of pain and temperature on one side of the body indicates a lesion in the *contralateral* anterolateral system (ALS) 1\u20132 segments above the sensory level.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-KC-016",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with an infarct in the primary somatosensory cortex has difficulty identifying common objects (such as a key or a coin) placed in his right hand when his eyes are closed, despite having normal primary touch detection. What is the clinical term for this high-level cortical tactile deficit, and in which cortical region is this synthesis performed?",
+    "choices": {
+      "A": "Astereognosis (tactile agnosia); Somatosensory association cortex (Brodmann areas 5 and 7 in superior parietal lobule)",
+      "B": "Allodynia; Insular cortex",
+      "C": "Tabetic ataxia; Vermis of the cerebellum",
+      "D": "Prosopagnosia; Fusiform face area in temporal lobe",
+      "E": "Anosognosia; Frontal eye field"
+    },
+    "correct": "A",
+    "rationale": "Astereognosis (tactile agnosia) is the inability to identify an object by active touch and manipulation in the absence of visual input, despite relatively intact primary touch sensation. Primary somatosensory cortex (postcentral gyrus, areas 3, 1, 2) extracts basic tactile features (shape, edges, texture) and projects them to the adjacent somatosensory association cortex in the superior parietal lobule (Brodmann areas 5 and 7). Here, these elementary features are integrated into a three-dimensional mental concept of the object. Damage to areas 5 and 7 or the primary sensory cortex produces astereognosis.",
+    "pearl": "Astereognosis = Inability to identify an object by touch with eyes closed; indicates dysfunction of the contralateral parietal somatosensory cortex (areas 5 and 7).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-017",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher performs electrical recordings along the dorsal surface of the human brainstem. At the level of the open medulla, the fourth ventricle floor (rhomboid fossa) is exposed. Which landmark sulcus on the ventricular floor marks the boundary between the medial somatic motor nuclei (e.g., hypoglossal trigone) and the lateral sensory nuclei (e.g., vestibular area)?",
+    "choices": {
+      "A": "Posterior median sulcus",
+      "B": "Sulcus limitans",
+      "C": "Calcarine sulcus",
+      "D": "Central sulcus of Rolando",
+      "E": "Sylvian fissure"
+    },
+    "correct": "B",
+    "rationale": "The sulcus limitans is an essential developmental and anatomical groove that extends along the floor of the fourth ventricle. In embryonic development, the sulcus limitans separates the dorsal alar plate (sensory) from the ventral basal plate (motor). In the adult brainstem, structures derived from the basal plate (somatic and visceral motor nuclei, such as the hypoglossal nucleus and motor nucleus of the vagus) lie *medial* to the sulcus limitans, whereas structures derived from the alar plate (sensory nuclei, such as the vestibular nuclei and solitary nucleus) lie *lateral* to the sulcus limitans.",
+    "pearl": "Sulcus limitans on the floor of the 4th ventricle separates medial motor nuclei (basal plate) from lateral sensory nuclei (alar plate).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-018",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old man undergoes cross-sectional imaging of the spinal cord. In the thoracic spinal cord, the gray matter contains the intermediolateral cell column in the lateral horn. Which type of neuronal cell bodies are located in the lateral horn from T1 to L2?",
+    "choices": {
+      "A": "Somatic alpha motor neurons supplying limb muscles",
+      "B": "Second-order spinothalamic projection neurons",
+      "C": "Preganglionic sympathetic autonomic neurons",
+      "D": "Primary pseudounipolar sensory neurons",
+      "E": "Gamma motor neurons supplying intrafusal muscle spindles"
+    },
+    "correct": "C",
+    "rationale": "The lateral horn (intermediolateral cell column, IML) is present in the spinal cord from segments T1 to L2/L3. It contains the cell bodies of preganglionic sympathetic autonomic neurons. Their myelinated axons exit the spinal cord via the ventral roots and travel in white rami communicantes to reach the paravertebral sympathetic chain ganglia. (A similar parasympathetic autonomic nucleus is located in the sacral cord at S2\u2013S4, but does not form a distinct lateral horn).",
+    "pearl": "Lateral horn of the spinal cord (T1\u2013L2) = Intermediolateral cell column containing *preganglionic sympathetic neurons*.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D3-KC-019",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old woman is tested with a pinprick along her lower extremity. The sharp sensation is mediated by primary afferents that enter the spinal cord and decussate to ascend in the spinothalamic tract. Through which anatomical structure do these second-order nociceptive axons decussate in the spinal cord?",
+    "choices": {
+      "A": "Posterior gray commissure",
+      "B": "Corpus callosum",
+      "C": "Internal arcuate decussation",
+      "D": "Anterior (ventral) white commissure",
+      "E": "Dorsolateral fasciculus of Lissauer"
+    },
+    "correct": "D",
+    "rationale": "Primary nociceptive axons (A-delta and C fibers) enter via dorsal roots, ascend/descend 1\u20132 segments in Lissauer\\'s tract, and synapse on second-order neurons in the dorsal horn (laminae I, II, and V). Axons of these second-order projection neurons then cross the midline obliquely within the anterior (ventral) white commissure, located immediately ventral to the central canal, before entering the contralateral anterolateral funiculus to ascend as the spinothalamic tract.",
+    "pearl": "Spinothalamic second-order fibers decussate in the *anterior white commissure* of the spinal cord (unlike DCML, which decussates as internal arcuate fibers in the medulla).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-KC-020",
+    "topic": "Somatosensory Cross-Sectional Neuroanatomy",
+    "lecture": "3.1 Knowledge Check",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old woman is examined for balance instability. When she stands with her eyes open, she is steady. When she closes her eyes, she sways and loses her balance (positive Romberg test). However, when her finger-to-nose and rapid alternating movements are tested with her eyes open, they are smooth, rapid, and accurate. Which statement accurately contrasts sensory ataxia from cerebellar ataxia?",
+    "choices": {
+      "A": "Cerebellar ataxia causes instability only with eyes closed, whereas sensory ataxia causes instability with eyes open and closed",
+      "B": "Sensory ataxia is accompanied by intention tremor, whereas cerebellar ataxia has no tremor",
+      "C": "Sensory ataxia causes unsteadiness when eyes are open, which disappears when eyes are closed",
+      "D": "Sensory ataxia is caused by a lesion in the spinothalamic tract, whereas cerebellar ataxia is caused by an anterior horn lesion",
+      "E": "Sensory ataxia causes instability specifically when visual compensation is removed (eyes closed), whereas cerebellar ataxia causes instability and dysmetria with eyes both open and closed"
+    },
+    "correct": "E",
+    "rationale": "In sensory (proprioceptive) ataxia (caused by dorsal column or large-fiber peripheral nerve lesions), the patient relies heavily on visual feedback to compensate for absent joint position sense. When eyes are open, the patient can maintain balance; when eyes are closed, visual compensation is removed and the patient sways or falls (positive Romberg sign). In cerebellar ataxia (caused by lesions of the cerebellar vermis or hemispheres), motor coordination and equilibrium circuits are intrinsically damaged; consequently, the patient is ataxic, unsteady, and exhibits dysmetria with eyes BOTH open and closed (negative Romberg, because closing the eyes does not significantly worsen the unsteadiness).",
+    "pearl": "Romberg test: Positive in *sensory ataxia* (dorsal columns: unsteady with eyes closed, steady with eyes open); Negative in *cerebellar ataxia* (unsteady with eyes open AND closed).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
   }
 ]
