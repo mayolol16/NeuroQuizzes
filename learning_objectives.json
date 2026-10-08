@@ -292,5 +292,180 @@
     "exam": "E1",
     "week": "E1-W1",
     "lecture": "Neuromuscular Junction Disorders & Cholinomimetics"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_01",
+    "text": "Select CT vs MRI based on the clinical scenario (trauma, hemorrhage, acute stroke vs tumor, infection, white matter disease, posterior fossa).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_02",
+    "text": "Interpret CT density (air \u2192 CSF \u2192 soft tissue \u2192 blood \u2192 bone/metal) and the appearance/evolution of intracranial hemorrhage.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_03",
+    "text": "Distinguish MRI sequences (T1, T2, FLAIR, DWI, ADC) and their clinical uses.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_04",
+    "text": "Explain the role of iodinated and gadolinium contrast, BBB breakdown, and contrast contraindications.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_05",
+    "text": "Describe functional/metabolic imaging (PET, SPECT, fMRI, MEG) and their indications.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_06",
+    "text": "Describe imaging of the spinal cord and CNS vasculature (spinal MRI, CT myelogram, MRA, CTA, catheter angiography).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_07",
+    "text": "Identify indications for urgent neuroimaging and contraindications to lumbar puncture (STOP).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_IMG_08",
+    "text": "Apply a systematic approach to image interpretation, including orientation, VINDICATE differential, and metastatic patterns.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_DCML_01",
+    "text": "Trace the 3-neuron DCML pathway (DRG \u2192 nucleus gracilis/cuneatus \u2192 VPL \u2192 postcentral gyrus), including decussation site and tracts.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_DCML_02",
+    "text": "Explain somatotopy in the dorsal columns (gracilis below T6, cuneatus at/above T6) and in the postcentral gyrus/paracentral lobule (homunculus).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_DCML_03",
+    "text": "Describe tactile mechanoreceptors (Meissner, Pacinian, muscle spindle) and the relation of axon diameter to conduction.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_DCML_04",
+    "text": "Explain the stretch reflex, its relation to the DCML 1st-order neuron, and reflex grading.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_DCML_05",
+    "text": "Localize lesions of the tactile pathway (tabes dorsalis, subacute combined degeneration, brainstem, thalamus, internal capsule, cortex) and agnosias/neglect.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_SC_01",
+    "text": "Describe spinal cord segments, roots, nerve exit rules, enlargements, gray/white matter, and horns (including lateral horn).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_SC_02",
+    "text": "Describe meninges/spaces, conus medullaris, cauda equina, filum terminale, lumbar cistern, and clinical uses (LP, epidural vs spinal anesthesia).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_SC_03",
+    "text": "Describe spinal cord blood supply and identify cord levels in cross section.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_SC_04",
+    "text": "Identify landmark dermatomes (C5\u2013C8, T4, T10, L4, L5, S1) and radicular patterns from disc herniation.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_01",
+    "text": "Distinguish nociception from pain and describe pain as a biopsychosocial experience.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_02",
+    "text": "Compare fast (A\u03b4, spinothalamic \u2192 postcentral gyrus) and slow (C, spino-reticulo-thalamic \u2192 cingulate/insula) pain.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_03",
+    "text": "Trace the ALS (DRG \u2192 dorsolateral fasciculus \u2192 marginal zone/nucleus proprius \u2192 anterior white commissure \u2192 VPL \u2192 cortex).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_04",
+    "text": "Localize lesions comparing tactile vs pain pathways (hemisection, syringomyelia, ALS lesion \"2 levels below\", brainstem, thalamus, cortex).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_05",
+    "text": "Describe descending pain modulation (PAG/5-HT, locus ceruleus/NE, opioid interneurons in substantia gelatinosa) and the withdrawal reflex.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_06",
+    "text": "Explain visceral pain pathways and referred pain (convergence-projection).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_07",
+    "text": "Recognize radiculopathy patterns and contrast tabes dorsalis with subacute combined degeneration.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_PAIN_08",
+    "text": "Interpret EMG/NCS findings (fasciculation vs fibrillation, demyelination vs axonal loss, conduction block, MG vs LEMS).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
   }
 ]

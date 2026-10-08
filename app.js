@@ -1187,22 +1187,28 @@
     // Mobile tap-to-unlock
     const lockEl = document.getElementById("stealth-lock");
     if (lockEl) {
-      const standbyText = lockEl.querySelector("h1");
+      const lockContent = lockEl.querySelector(".lock-content");
       
       // Tap the brain logo to re-lock (for mobile)
       const brainLogo = document.querySelector(".logo-icon");
       if (brainLogo) {
-        brainLogo.addEventListener("click", () => {
-          lockEl.style.display = "flex";
-          document.getElementById("app").style.display = "none";
-          secretBuffer = "";
+        ['click', 'touchstart'].forEach(evt => {
+          brainLogo.addEventListener(evt, (e) => {
+            e.preventDefault(); // prevent double firing
+            lockEl.style.display = "flex";
+            document.getElementById("app").style.display = "none";
+            secretBuffer = "";
+          }, {passive: false});
         });
       }
 
-      if (standbyText) {
-        standbyText.addEventListener("click", () => {
-          lockEl.style.display = "none";
-          document.getElementById("app").style.display = "flex";
+      if (lockContent) {
+        ['click', 'touchstart'].forEach(evt => {
+          lockContent.addEventListener(evt, (e) => {
+            e.preventDefault();
+            lockEl.style.display = "none";
+            document.getElementById("app").style.display = "flex";
+          }, {passive: false});
         });
       }
     }

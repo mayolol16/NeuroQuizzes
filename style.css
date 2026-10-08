@@ -1675,3 +1675,8 @@ body.theme-dark .exp-pearl-box {
   user-select: none;
   opacity: 0.6;
 }
+
+#stealth-lock .lock-content, .logo-icon {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}

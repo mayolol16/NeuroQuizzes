@@ -55,3 +55,44 @@ The web application is structured around the 4 core exams of IMC535:
   - ⏱️ **Exam Timer & Pause**: Conceals questions while paused to preserve testing integrity.
   - 📐 **KaTeX Math Engine**: Renders neurobiochemical notation and formulas.
   - 💾 **Local Progress Persistence**: Saves question attempts, bookmarks, and theme in `localStorage`.
+
+## 🔄 How to Add New Questions (For Agents and Users)
+
+To continuously expand this QBank, a specific workflow was established to convert generated USMLE-style Markdown questions into the web app's JSON datastore. 
+
+### 1. Generating Questions in Markdown
+Create a `.md` file for each block of questions (e.g., `W2_D1_Neuroimaging.md`) following this strict format:
+
+```markdown
+> - `exam: "E1"`, `week: "E1-W2"`, `topic: "Neuroimaging"`, `lecture: "1.1 Neuroimaging"`
+
+| LO_NEURO_E1_W2_IMG_01 | Select CT vs MRI based on the clinical scenario. |
+
+### W2D1-001
+[Question Stem goes here...]
+
+- A. Choice A
+- B. Choice B
+- C. Choice C
+- D. Choice D
+- E. Choice E
+
+**Answer:** C
+**Rationale:** Detailed explanation here.
+**Pearl:** Key high-yield takeaway.
+**LO:** LO_NEURO_E1_W2_IMG_01 · **Yield:** High
+```
+
+### 2. Ingesting into the Web App
+1. Write a python script (e.g. `parse_md.py` in the scratch directory) that loads the existing `questions.json` and `learning_objectives.json`.
+2. Use Regex to parse the questions, choices, and answers from the generated Markdown drafts.
+3. Validate that the new questions do not duplicate existing `id`s.
+4. Export the aggregated list to temporary `questions_out.json`, `los_out.json`, and `questions_data_out.js` files.
+5. Use the shell command `cp` to overwrite the existing files in the `/qbank` directory with the updated outputs:
+   ```bash
+   cp questions_out.json "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/questions.json"
+   cp questions_data_out.js "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/questions_data.js"
+   cp los_out.json "/Users/markyoussef_1/Desktop/Med School/M2/Fall/IMC535 Neuro/qbank/learning_objectives.json"
+   ```
+
+*Note: The script used to successfully ingest the Week 2 questions (Neuroimaging, DCML/Spinal Cord, and ALS/Pain) can be found in the Antigravity IDE `scratch` directory as `parse_md.py`.*

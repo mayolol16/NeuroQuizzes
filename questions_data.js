@@ -7918,5 +7918,1985 @@ window.ALL_QUESTIONS = [
     "learning_objectives": [
       "LO_CUSTOM_01"
     ]
+  },
+  {
+    "id": "W2D1-001",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 24-year-old man is brought to the emergency department at 3 AM after being ejected from a car. He is comatose, his right pupil is fixed and dilated, and his blood alcohol level is 0.33. Which of the following is the most appropriate initial imaging study?",
+    "choices": {
+      "A": "MRI of the brain with gadolinium",
+      "B": "Skull radiographs",
+      "C": "Non-contrast CT of the head",
+      "D": "Catheter cerebral angiography",
+      "E": "PET scan of the brain"
+    },
+    "correct": "C",
+    "rationale": "CT is fast, widely available, and the study of choice for acute trauma and suspected acute hemorrhage (epidural/subdural/SAH). A blown pupil suggests uncal herniation from an expanding mass lesion\u2014time matters. MRI (A) takes longer and is less sensitive for hyperacute blood; skull films (B) are rarely indicated and miss intracranial pathology; angiography (D) and PET (E) are not trauma screening tools. Non-contrast is used because contrast can mimic/obscure blood.",
+    "pearl": "\"Comatose + fixed pupil \u2192 get a CT stat.\" CT = trauma, hemorrhage, initial stroke, skull fracture.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_01"
+    ]
+  },
+  {
+    "id": "W2D1-002",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A radiology resident reviews a non-contrast head CT. Which of the following correctly orders tissues from LEAST dense (darkest) to MOST dense (brightest)?",
+    "choices": {
+      "A": "Air \u2192 CSF \u2192 brain parenchyma \u2192 acute blood \u2192 bone",
+      "B": "CSF \u2192 air \u2192 acute blood \u2192 brain parenchyma \u2192 bone",
+      "C": "Air \u2192 brain parenchyma \u2192 CSF \u2192 bone \u2192 acute blood",
+      "D": "Air \u2192 CSF \u2192 acute blood \u2192 brain parenchyma \u2192 bone",
+      "E": "CSF \u2192 brain parenchyma \u2192 air \u2192 acute blood \u2192 bone"
+    },
+    "correct": "A",
+    "rationale": "On CT, density (attenuation) increases from air (black) \u2192 fluid/CSF \u2192 soft tissue (brain) \u2192 blood (acute clot is hyperdense from concentrated hemoglobin/protein) \u2192 calcium/bone \u2192 metal (brightest).",
+    "pearl": "\"Air, fluid, soft tissue, blood, bone, metal\" \u2014 darkest to brightest.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_02"
+    ]
+  },
+  {
+    "id": "W2D1-003",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 19-year-old man is struck in the temple with a baseball bat. He loses consciousness briefly, wakes up and talks normally, then becomes progressively obtunded 2 hours later. CT would most likely show which of the following?",
+    "choices": {
+      "A": "Crescent-shaped hyperdensity crossing suture lines",
+      "B": "Hyperdensity filling the basal cisterns and sylvian fissures",
+      "C": "Diffuse loss of gray-white differentiation with no extra-axial collection",
+      "D": "Hypodense crescent along the convexity with midline shift",
+      "E": "Biconvex (lens-shaped) hyperdensity that does not cross suture lines"
+    },
+    "correct": "E",
+    "rationale": "Temporal bone fracture with middle meningeal artery tear produces an epidural hematoma\u2014a lens/lemon-shaped (biconvex) hyperdense collection limited by suture lines (dura is tightly adherent at sutures). Classic \"lucid interval.\" Crescentic (A) = subdural; cisternal blood (B) = SAH; hypodense crescent (D) = chronic subdural.",
+    "pearl": "Epidural = lens/lemon; Subdural = banana/crescent/sickle.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_02"
+    ]
+  },
+  {
+    "id": "W2D1-004",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 75-year-old man has had several weeks of gradually worsening confusion, headaches, listlessness, and an unsteady gait. He denies trauma but takes apixaban. Non-contrast CT shows a left fronto-parietal extra-axial crescentic collection that is darker than adjacent brain, with 2\u20133 cm of midline shift. What is the approximate age of this collection?",
+    "choices": {
+      "A": "Less than 1 hour",
+      "B": "More than 2\u20133 weeks",
+      "C": "1\u201324 hours",
+      "D": "3\u20135 days",
+      "E": "7\u201310 days"
+    },
+    "correct": "B",
+    "rationale": "Blood evolves on CT: hyperdense (acute, after ~30 min) \u2192 isodense (subacute, ~1\u20132 weeks) \u2192 hypodense (chronic, >2 weeks) as macrophages digest hemoglobin from the outside in. A hypodense crescent in an elderly patient with insidious symptoms = chronic subdural hematoma (bridging vein tear; atrophy and anticoagulation are risk factors).",
+    "pearl": "Hyper \u2192 iso \u2192 hypo: acute \u2192 subacute (1\u20132 wk) \u2192 chronic (>2 wk). Thicker clots take longer to change.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_02"
+    ]
+  },
+  {
+    "id": "W2D1-005",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A neurosurgeon notes that the sensitivity of non-contrast CT for intracranial blood declines over time. Approximately what is the sensitivity of CT for detecting blood 2 weeks after a bleed?",
+    "choices": {
+      "A": ">95%",
+      "B": "85\u201395%",
+      "C": "80%",
+      "D": "30%",
+      "E": "0%"
+    },
+    "correct": "D",
+    "rationale": "Per lecture: poor in the immediate first 30 min, 85\u201395% at 1\u201324 h, ~80% at 3 days, ~50% at 1 week, and ~30% at 2 weeks. As hemoglobin breaks down, blood becomes iso- then hypodense and harder to distinguish\u2014especially for SAH (where LP for xanthochromia may be needed).",
+    "pearl": "The longer you wait, the less sensitive CT is for blood.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_02"
+    ]
+  },
+  {
+    "id": "W2D1-006",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 68-year-old woman develops sudden right hemiparesis and aphasia 40 minutes ago. Head CT is unremarkable. Which MRI sequence would be most sensitive for confirming acute ischemic infarction at this time?",
+    "choices": {
+      "A": "Diffusion-weighted imaging (DWI)",
+      "B": "T1-weighted imaging without contrast",
+      "C": "T2-weighted imaging",
+      "D": "Functional MRI (fMRI)",
+      "E": "Magnetic resonance angiography (MRA) alone"
+    },
+    "correct": "A",
+    "rationale": "DWI detects restricted diffusion from cytotoxic edema within ~30 minutes of stroke onset; acute infarcts appear bright. T2/FLAIR may take several hours (~2+ h) to become abnormal. CT in the first 2\u20134 h shows only subtle changes, with maximal edema/shift at 3\u20135 days.",
+    "pearl": "DWI bright + ADC dark = acute stroke. DWI positivity persists ~2 weeks \u2192 helps date stroke (acute vs chronic).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_03"
+    ]
+  },
+  {
+    "id": "W2D1-007",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An MRI of the brain is displayed in which the white matter is bright, the cortical gray matter is gray, and the CSF in the ventricles is dark. This sequence is best described as which of the following?",
+    "choices": {
+      "A": "T2-weighted",
+      "B": "FLAIR",
+      "C": "T1-weighted",
+      "D": "Diffusion-weighted",
+      "E": "Apparent diffusion coefficient map"
+    },
+    "correct": "C",
+    "rationale": "T1 images best depict normal neuroanatomy: white matter is white (fat-rich myelin), gray matter gray, CSF black (\"T1 looks like the brain\"). T2 reverses this (CSF bright, white matter dark). FLAIR is T2-like but with dark CSF.",
+    "pearl": "\"World War 2\" \u2014 Water is White on T2.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_03"
+    ]
+  },
+  {
+    "id": "W2D1-008",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 29-year-old woman has had an episode of painful monocular vision loss and, 1 year later, an episode of leg numbness. Her physician wants the most sensitive sequence to detect periventricular demyelinating plaques without CSF signal obscuring them. Which sequence is best?",
+    "choices": {
+      "A": "T1-weighted without contrast",
+      "B": "T2-weighted",
+      "C": "Non-contrast CT",
+      "D": "Diffusion-weighted imaging",
+      "E": "Fluid-attenuated inversion recovery (FLAIR)"
+    },
+    "correct": "E",
+    "rationale": "FLAIR is a T2-based sequence in which CSF signal is suppressed (dark), so bright periventricular and subcortical white matter lesions are no longer obscured by adjacent bright CSF\u2014the main pitfall of standard T2 (B). This makes FLAIR the workhorse for multiple sclerosis.",
+    "pearl": "FLAIR = T2 with the CSF \"turned off\" \u2192 best for MS plaques.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_03"
+    ]
+  },
+  {
+    "id": "W2D1-009",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A patient with a suspected acute infarct has a lesion that is bright on DWI. The radiologist reviews an additional \"add-on\" map to confirm the lesion is truly acute rather than \"T2 shine-through.\" On this map, an acute stroke would appear:",
+    "choices": {
+      "A": "Bright (hyperintense)",
+      "B": "Dark (hypointense)",
+      "C": "Isointense to gray matter",
+      "D": "Isointense to CSF",
+      "E": "Invisible"
+    },
+    "correct": "B",
+    "rationale": "The apparent diffusion coefficient (ADC) map quantifies water diffusion. In true acute ischemia, diffusion is restricted \u2192 low ADC \u2192 dark. A lesion bright on both DWI and ADC is T2 shine-through rather than true restriction.",
+    "pearl": "Acute stroke: DWI bright / ADC dark.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_03"
+    ]
+  },
+  {
+    "id": "W2D1-010",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A non-contrast CT shows an ill-defined hypodense area in the left hemisphere. After IV contrast, a focal enhancing mass becomes obvious. Which of the following best explains why contrast improves lesion detection?",
+    "choices": {
+      "A": "Contrast is actively taken up by metabolically active neurons",
+      "B": "Contrast binds to myelin, making white matter more conspicuous",
+      "C": "Contrast increases CSF density, outlining the ventricles",
+      "D": "Contrast leaks across a disrupted blood-brain barrier into the lesion",
+      "E": "Contrast causes vasoconstriction of normal vessels, highlighting abnormal ones"
+    },
+    "correct": "D",
+    "rationale": "Neither iodinated (CT) nor gadolinium (MRI) contrast crosses an intact BBB. Destructive processes\u2014tumor (e.g., malignant glioma), abscess, acute stroke\u2014disrupt tight junctions, letting contrast leak into the parenchyma (\"enhancement\"). Metabolic uptake (A) describes PET tracers.",
+    "pearl": "Enhancement = BBB breakdown (tumor, abscess, infarct, active MS plaque).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_04"
+    ]
+  },
+  {
+    "id": "W2D1-011",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old man with stage 4 chronic kidney disease (eGFR 22) needs evaluation for a suspected intracranial aneurysm. Which study allows evaluation of the cerebral vessels without any IV contrast?",
+    "choices": {
+      "A": "CT angiography",
+      "B": "Time-of-flight MR angiography",
+      "C": "Conventional catheter angiography",
+      "D": "Contrast-enhanced CT head",
+      "E": "CT myelogram"
+    },
+    "correct": "B",
+    "rationale": "MRA can be performed without contrast (flow-based technique), making it useful in renal insufficiency or contrast allergy; gadolinium may be added to increase sensitivity. CTA (A) and catheter angiography (C) require iodinated contrast, which is more nephrotoxic than gadolinium.",
+    "pearl": "MRA: no radiation, contrast optional. CTA: better spatial resolution but radiation + iodinated contrast.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_06"
+    ]
+  },
+  {
+    "id": "W2D1-012",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 68-year-old woman is scheduled for a brain MRI to evaluate vertigo. Which of the following findings in her history is most important to address before the scan?",
+    "choices": {
+      "A": "Allergy to iodinated CT contrast",
+      "B": "History of claustrophobia",
+      "C": "Prior chest CT 2 months ago",
+      "D": "Use of metformin",
+      "E": "Presence of a cardiac pacemaker"
+    },
+    "correct": "E",
+    "rationale": "The strong magnetic field is the main MRI hazard. Most pacemakers are MRI-unsafe (some newer devices are MRI-conditional); many aneurysm clips and other metal implants/fragments must be screened. Cardiology should be involved for any implanted cardiac device. Iodinated contrast allergy (A) is irrelevant to gadolinium; claustrophobia (B) can be managed with benzodiazepines or an open MRI.",
+    "pearl": "Screen for metal before MRI\u2014pacemakers, aneurysm clips, orbital metal (skull X-ray can screen orbits).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_01"
+    ]
+  },
+  {
+    "id": "W2D1-013",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 30-year-old woman at 20 weeks' gestation develops a new severe headache with focal neurologic deficits. Which imaging approach best balances diagnostic sensitivity with fetal safety?",
+    "choices": {
+      "A": "Non-contrast MRI of the brain",
+      "B": "Contrast-enhanced CT of the head",
+      "C": "PET-CT of the brain",
+      "D": "CT myelogram",
+      "E": "MRI with gadolinium as the first-line study"
+    },
+    "correct": "A",
+    "rationale": "MRI uses no ionizing radiation and has no known adverse fetal effects, making it preferred in pregnancy. Gadolinium should be avoided in pregnancy if possible (E). CT, PET, and myelography expose the fetus to ionizing radiation.",
+    "pearl": "Pregnant + needs imaging \u2192 MRI without gadolinium when possible.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_04"
+    ]
+  },
+  {
+    "id": "W2D1-014",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 74-year-old man has new-onset vertigo, nystagmus, and gait ataxia. A non-contrast head CT in the ED is unremarkable. Why is an MRI still indicated?",
+    "choices": {
+      "A": "CT cannot detect hemorrhage after 1 hour",
+      "B": "MRI is faster and more widely available than CT",
+      "C": "CT poorly images the posterior fossa (brainstem and cerebellum)",
+      "D": "MRI is superior for detecting skull fractures",
+      "E": "CT exposes the patient to gadolinium"
+    },
+    "correct": "C",
+    "rationale": "Dense petrous and occipital bone creates beam-hardening artifact in the posterior fossa, making CT insensitive for brainstem/cerebellar infarcts. MRI is far better for the posterior fossa. CT is better for bone (D), and is faster (B).",
+    "pearl": "Posterior circulation stroke symptoms + normal CT \u2192 still get MRI (DWI).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_01"
+    ]
+  },
+  {
+    "id": "W2D1-015",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old man presents with fever, headache, and nuchal rigidity. He also has papilledema and a new left hemiparesis. Before lumbar puncture, which of the following CT findings would make LP contraindicated?",
+    "choices": {
+      "A": "Mild diffuse cerebral atrophy",
+      "B": "A small calcified pineal gland",
+      "C": "Normal ventricles with a symmetric appearance",
+      "D": "A posterior fossa mass with obstructive hydrocephalus",
+      "E": "Mucosal thickening of the maxillary sinus"
+    },
+    "correct": "D",
+    "rationale": "CT should precede LP whenever herniation is a risk (papilledema, focal deficits, altered mental status). Draining CSF from the lumbar cistern creates a pressure gradient that can precipitate tonsillar/transtentorial herniation. Mnemonic STOP: Shift (midline), Trauma, Obstruction (obstructive hydrocephalus\u2014ventricles enlarged proximal to lesion), Posterior fossa mass.",
+    "pearl": "Don't LP if CT shows Shift, Trauma, Obstruction, Posterior mass. Don't delay antibiotics for imaging in meningitis.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_07"
+    ]
+  },
+  {
+    "id": "W2D1-016",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman with a history of breast cancer develops headaches, confusion, and memory loss. Head CT is equivocal. Which study is most appropriate to evaluate for metastatic disease?",
+    "choices": {
+      "A": "Non-contrast CT repeated in 24 hours",
+      "B": "Skull radiographs",
+      "C": "MR angiography",
+      "D": "Diffusion-weighted MRI alone",
+      "E": "MRI of the brain with gadolinium"
+    },
+    "correct": "E",
+    "rationale": "Contrast-enhanced MRI is superior to CT for metastases (smaller lesions, posterior fossa, enhancement with BBB disruption). Metastases tend to lodge at the gray-white junction, where arteries taper into arterioles and tumor emboli become trapped.",
+    "pearl": "Brain mets: Breast, Bronchus (lung), Bowel, Kidney (+ melanoma). Gray-white junction.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D1-017",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 47-year-old woman has headaches, tinnitus, and right-sided sensorineural hearing loss. A contrast-enhanced T1 MRI shows a well-circumscribed, enhancing 2 \u00d7 2 cm mass at the cerebellopontine angle with a \"tail\" extending into the internal auditory canal. Which is the most likely diagnosis?",
+    "choices": {
+      "A": "Glioblastoma",
+      "B": "Vestibular schwannoma (acoustic neuroma)",
+      "C": "Brain abscess",
+      "D": "Chronic subdural hematoma",
+      "E": "Epidermoid cyst of the fourth ventricle"
+    },
+    "correct": "B",
+    "rationale": "A CPA mass extending into the internal auditory canal with unilateral SNHL and tinnitus is classic for vestibular schwannoma (CN VIII Schwann cells). Meningioma is the main differential (dural tail). Lecture point: CT showed only \"soft signs\"\u2014this is why posterior fossa masses need contrast MRI.",
+    "pearl": "CPA mass + unilateral hearing loss = schwannoma (bilateral \u2192 NF2).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_01"
+    ]
+  },
+  {
+    "id": "W2D1-018",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 77-year-old woman has difficulty walking, progressive memory loss, and urinary incontinence. A non-contrast T1 MRI shows enlarged ventricles and generous cisterns with periventricular white matter changes, no mass effect, and no midline shift. Which imaging characteristic best supports normal pressure hydrocephalus over atrophy (hydrocephalus ex vacuo)?",
+    "choices": {
+      "A": "Ventricular enlargement out of proportion to sulcal enlargement",
+      "B": "Proportionally enlarged ventricles and sulci",
+      "C": "Enlarged fourth ventricle with a posterior fossa mass",
+      "D": "Enlargement of only the lateral ventricles proximal to an obstruction at the foramen of Monro",
+      "E": "Hyperdense blood in the ventricles"
+    },
+    "correct": "A",
+    "rationale": "In NPH (communicating hydrocephalus with \"wet, wobbly, wacky\"), ventricles are disproportionately enlarged relative to sulci. In diffuse cortical atrophy/ex vacuo, ventricles and sulci enlarge proportionally (B). D describes obstructive hydrocephalus. The lecture case was read as diffuse cortical atrophy with non-specific white matter disease\u2014highlighting the need to compare ventricular vs sulcal size.",
+    "pearl": "NPH: ventriculomegaly > sulcal enlargement; responds to LP/shunt.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D1-019",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An 18-year-old pedestrian struck by a car is intubated and comatose. Non-contrast CT shows a 2 \u00d7 4 cm hyperdense extra-axial mass over the right parietal convexity, effacement of the right lateral ventricle, no visible sulcal pattern, and loss of the gray-white junction. Loss of the gray-white junction in this setting most strongly suggests which of the following?",
+    "choices": {
+      "A": "Chronic small vessel ischemic disease",
+      "B": "Normal age-related atrophy",
+      "C": "Contrast-enhancing primary brain tumor",
+      "D": "Diffuse cerebral edema/diffuse axonal injury with elevated ICP",
+      "E": "Communicating hydrocephalus"
+    },
+    "correct": "D",
+    "rationale": "Loss of gray-white differentiation and effacement of sulci/ventricles indicate diffuse cerebral swelling\u2014seen with diffuse axonal injury (shearing) and severe TBI\u2014implying elevated ICP and herniation risk. Lecture differential: epidural hematoma + TBI; \"a life-threatening injury.\"",
+    "pearl": "Systematic CT read: symmetry, gray-white differentiation, shift (mm), hyper/hypodensity, pneumocephalus, mass/foreign body.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D1-020",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A neurosurgeon is planning a temporal lobectomy for refractory epilepsy and wants to map the patient's language and motor cortex preoperatively by detecting regional changes in cerebral blood flow during tasks. Which technique is most appropriate?",
+    "choices": {
+      "A": "CT perfusion",
+      "B": "Diffusion-weighted MRI",
+      "C": "Functional MRI (fMRI)",
+      "D": "Skull radiography",
+      "E": "CT myelography"
+    },
+    "correct": "C",
+    "rationale": "fMRI detects changes in blood flow/oxygenation (BOLD signal) to map active \"eloquent\" cortex (motor, language, vision) in presurgical candidates (tumor resection, temporal lobectomy). Lecture notes it is used primarily in research/neuropsychology clinically.",
+    "pearl": "fMRI = blood flow mapping of activity; MEG = direct neuromagnetic signals with superior timing.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_05"
+    ]
+  },
+  {
+    "id": "W2D1-021",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 58-year-old man treated with radiation for glioblastoma now has a new enhancing lesion at the resection site on MRI. The team needs to distinguish radiation necrosis from recurrent tumor. Which study is most helpful?",
+    "choices": {
+      "A": "FDG-PET scan",
+      "B": "Non-contrast CT",
+      "C": "MR angiography",
+      "D": "CT myelogram",
+      "E": "Skull radiograph"
+    },
+    "correct": "A",
+    "rationale": "PET measures metabolic activity using a radiolabeled tracer (usually fluorine-18 FDG). Active tumor is hypermetabolic (high glucose uptake), whereas necrosis is hypometabolic. Lecture: PET \"helps distinguish necrosis from active disease.\"",
+    "pearl": "\"My 18 PETs ate SPECks of iodized salt\" \u2014 PET uses F-18; SPECT uses Tc-99m or iodine isotopes.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_05"
+    ]
+  },
+  {
+    "id": "W2D1-022",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "Compared with PET, single-photon emission computed tomography (SPECT) is best characterized by which of the following?",
+    "choices": {
+      "A": "Uses fluorine-18 and has better spatial resolution",
+      "B": "Requires no radioactive tracer",
+      "C": "Measures neuromagnetic fields directly from neurons",
+      "D": "Lower cost with lower contrast and spatial resolution; uses technetium-99m or iodine isotopes",
+      "E": "Is the study of choice for acute traumatic hemorrhage"
+    },
+    "correct": "D",
+    "rationale": "PET has better contrast and spatial resolution; SPECT is cheaper with lower resolution and uses \u03b3-emitters (Tc-99m, I-123, I-131). SPECT is used to localize seizure foci, evaluate brain injury, and localize tumors (antibody-linked tracers). C describes MEG.",
+    "pearl": "SPECT: cheaper, seizure focus localization.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_05"
+    ]
+  },
+  {
+    "id": "W2D1-023",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Low",
+    "stem": "Which imaging modality maps the electrical activity of neuronal populations by detecting the magnetic fields they generate, providing both spatial and precise timing information, and is available at only a handful of US centers?",
+    "choices": {
+      "A": "Functional MRI",
+      "B": "SPECT",
+      "C": "Magnetoencephalography (MEG)",
+      "D": "Electroencephalography alone",
+      "E": "CT perfusion"
+    },
+    "correct": "C",
+    "rationale": "MEG uses extraordinarily sensitive detectors to record neuromagnetic signals, giving direct spatial and temporal data\u2014more powerful than fMRI for relating function to structure. Co-registration with MRI (MEG-MRI) requires specialized equipment and expertise.",
+    "pearl": "fMRI = indirect (blood flow); MEG = direct (neuronal currents) with millisecond timing.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_05"
+    ]
+  },
+  {
+    "id": "W2D1-024",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old man with prior L4\u2013S1 fusion with pedicle screws develops new radicular pain down the right leg. Metal artifact limits MRI. Which study is best to evaluate nerve root impingement?",
+    "choices": {
+      "A": "MR angiography",
+      "B": "Plain lumbar radiographs alone",
+      "C": "PET scan",
+      "D": "Catheter spinal angiography",
+      "E": "CT myelogram"
+    },
+    "correct": "E",
+    "rationale": "Spinal MRI is generally the most sensitive study for cord and roots, but in patients with spinal hardware, CT myelogram is the alternative. Radiopaque contrast is injected intrathecally; roots appear as dark filling defects against bright contrast, revealing impingement. Contraindications: iodine allergy, significant renal dysfunction; relative: pregnancy. Can cause spinal headache.",
+    "pearl": "Spinal hardware or MRI contraindicated \u2192 CT myelogram for nerve roots.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_06"
+    ]
+  },
+  {
+    "id": "W2D1-025",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman has hyperreflexia in both legs, a Babinski sign bilaterally, and loss of sensation below the umbilicus. She has no implanted devices. Which is the best imaging study?",
+    "choices": {
+      "A": "Non-contrast head CT",
+      "B": "MRI of the thoracic spine",
+      "C": "Catheter-guided spinal angiography",
+      "D": "SPECT scan",
+      "E": "CT angiogram of the chest"
+    },
+    "correct": "B",
+    "rationale": "Bilateral UMN signs with a sensory level at T10 (umbilicus) suggests thoracic cord compression\u2014an indication for urgent imaging. Spinal MRI is the most sensitive modality for the cord, roots, discs, ligaments, tumors, and inflammation.",
+    "pearl": "Suspected cord compression = urgent MRI spine. T10 dermatome = umbilicus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_06"
+    ]
+  },
+  {
+    "id": "W2D1-026",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 34-year-old woman with systemic lupus erythematosus develops multifocal neurologic deficits. CNS vasculitis of small vessels is suspected, but MRA and CTA are unrevealing. Which study is most appropriate next?",
+    "choices": {
+      "A": "Repeat non-contrast CT",
+      "B": "Magnetoencephalography",
+      "C": "Conventional catheter angiography",
+      "D": "CT myelogram",
+      "E": "Diffusion-weighted MRI"
+    },
+    "correct": "C",
+    "rationale": "Conventional (catheter-guided) angiography has the highest spatial resolution and can detect medium- to small-vessel vasculitis often too small for MRA or CTA. It is also used for aneurysm, AVM, and atherosclerosis evaluation, and can be combined with biopsy.",
+    "pearl": "Small vessels missed on MRA/CTA \u2192 catheter angiography (gold standard).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_06"
+    ]
+  },
+  {
+    "id": "W2D1-027",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "In an axial head CT, a lesion appears on the left side of the image. Which side of the patient's brain contains the lesion, and why?",
+    "choices": {
+      "A": "Left, because images are viewed from above the head",
+      "B": "Left, because CT is displayed in true anatomic orientation",
+      "C": "It cannot be determined without a sagittal image",
+      "D": "Right, because images are viewed from the patient's back",
+      "E": "Right, because images are viewed from the feet looking toward the head"
+    },
+    "correct": "E",
+    "rationale": "By radiologic convention, axial images are viewed as if standing at the supine patient's feet looking up toward the head. Therefore the image's left side = patient's right side (and vice versa). Orientation errors are among the most common\u2014and preventable\u2014mistakes in image interpretation.",
+    "pearl": "Radiologic convention: image left = patient right.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D1-028",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A medical student reviewing a series of axial MRI slices from superior to inferior notes that the lateral sulcus is first oriented perpendicular to the lateral edge of the section, bordered by the parietal lobe. As slices descend, the lateral sulcus becomes more vertically oriented and a new lobe appears posteriorly. Which lobe appears?",
+    "choices": {
+      "A": "Temporal lobe",
+      "B": "Occipital lobe",
+      "C": "Frontal lobe",
+      "D": "Insula",
+      "E": "Cerebellum"
+    },
+    "correct": "A",
+    "rationale": "Per Dr. Cohan's tutorial, the lateral sulcus slopes upward posteriorly into the parietal lobe. On higher axial cuts, the sulcus is adjacent to parietal lobe and perpendicular to the edge; as the plane descends, the temporal lobe gradually appears posteriorly\u2014marked by a change to a more vertical sulcal orientation.",
+    "pearl": "Axial: lateral sulcus perpendicular \u2192 parietal level; vertical \u2192 temporal lobe appears.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D1-029",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man presents 90 minutes after onset of left arm and face weakness. He is a candidate for thrombolysis. What is the primary purpose of obtaining an emergent non-contrast head CT?",
+    "choices": {
+      "A": "To identify the ischemic core with high sensitivity",
+      "B": "To exclude intracranial hemorrhage before thrombolysis",
+      "C": "To visualize posterior fossa infarcts",
+      "D": "To demonstrate maximal cerebral edema",
+      "E": "To detect demyelinating lesions"
+    },
+    "correct": "B",
+    "rationale": "CT is fast and highly sensitive for acute hemorrhage. In acute stroke, a negative CT for blood allows consideration of thrombolysis. Ischemic changes are subtle at 2\u20134 h; maximal edema/shift appears at 3\u20135 days. CT perfusion/angiography can then show penumbra (increased time-to-peak) and large vessel occlusion (e.g., M1).",
+    "pearl": "Stroke CT question = \"rule out bleed before tPA.\"",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_01"
+    ]
+  },
+  {
+    "id": "W2D1-030",
+    "topic": "Neuroimaging",
+    "lecture": "1.1 Neuroimaging (Dr. Moreland)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A contrast CT shows a 2.5 cm ring-enhancing intraparenchymal mass in the right parietotemporal lobe with marked edema and 1.5 cm midline shift. MRI shows the lesion's inner wall is thin and smooth with restricted diffusion centrally. Which diagnosis is favored?",
+    "choices": {
+      "A": "Glioblastoma",
+      "B": "Epidural hematoma",
+      "C": "Chronic subdural hematoma",
+      "D": "Brain abscess",
+      "E": "Acute ischemic stroke"
+    },
+    "correct": "D",
+    "rationale": "Ring-enhancing lesion differential: metastasis, glioma (glioblastoma), abscess, lymphoma. Abscesses typically have a thin, smooth, uniform enhancing wall and central restricted diffusion (pus). Glioblastoma usually has a thick, irregular/ragged nodular rim with central necrosis. Pertinent questions to rule in abscess: fever, immunosuppression, dental/sinus/ear infection, endocarditis, IV drug use.",
+    "pearl": "Ring-enhancing: smooth thin wall + DWI-bright center \u2192 abscess; irregular thick wall \u2192 GBM/met. Ragged hypodensity favors malignancy.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_IMG_08"
+    ]
+  },
+  {
+    "id": "W2D2-001",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 34-year-old woman lightly touches her right index finger with a cotton swab. Where is the cell body of the first-order neuron carrying this information to the CNS?",
+    "choices": {
+      "A": "Posterior horn of the spinal cord",
+      "B": "Dorsal root ganglion",
+      "C": "Nucleus cuneatus",
+      "D": "Ventral posterolateral nucleus of the thalamus",
+      "E": "Anterior horn of the spinal cord"
+    },
+    "correct": "B",
+    "rationale": "First-order sensory neurons are pseudounipolar with cell bodies in the dorsal root ganglion (a peripheral ganglion in the intervertebral foramen). The peripheral process innervates the receptor; the central process enters the cord via the dorsal root and ascends ipsilaterally in the dorsal columns. Nucleus cuneatus (C) = 2nd order; VPL (D) = 3rd order.",
+    "pearl": "DCML: 1\u00b0 DRG \u2192 2\u00b0 nucleus gracilis/cuneatus (caudal medulla) \u2192 3\u00b0 VPL thalamus \u2192 postcentral gyrus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-002",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In the dorsal column\u2013medial lemniscus pathway, the second-order axons cross the midline at which location and via which fibers?",
+    "choices": {
+      "A": "Anterior white commissure of the spinal cord at the level of entry",
+      "B": "Rostral pons via the trapezoid body",
+      "C": "Midbrain via the decussation of the superior cerebellar peduncle",
+      "D": "Caudal medulla via the internal arcuate fibers",
+      "E": "Thalamus via the posterior commissure"
+    },
+    "correct": "D",
+    "rationale": "First-order axons synapse ipsilaterally on nucleus gracilis/cuneatus in the caudal medulla. Second-order axons sweep ventromedially as internal arcuate fibers, cross the midline (sensory decussation), and ascend contralaterally as the medial lemniscus. A describes spinothalamic (ALS) crossing.",
+    "pearl": "DCML is ipsilateral in the cord and contralateral from the caudal medulla upward.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-003",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man has a small demyelinating lesion confined to the medial-most portion of the left dorsal column at the T4 cord level. Which deficit is expected?",
+    "choices": {
+      "A": "Loss of vibration and proprioception in the left leg",
+      "B": "Loss of vibration and proprioception in the left arm",
+      "C": "Loss of vibration and proprioception in the right leg",
+      "D": "Loss of pain and temperature in the right leg",
+      "E": "Loss of light touch in both arms"
+    },
+    "correct": "A",
+    "rationale": "Fasciculus gracilis (medial) carries input from below T6 (lower trunk/leg); fasciculus cuneatus (lateral) is present at/above T6 and carries upper trunk/arm input. Dorsal columns are ipsilateral in the cord, so a left gracilis lesion \u2192 left leg deficit.",
+    "pearl": "Gracilis = Ground (legs, medial); Cuneatus = Ceiling (arms, lateral, at/above T6).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-004",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Second-order DCML axons ascending in the medial lemniscus terminate on third-order neurons located in which structure?",
+    "choices": {
+      "A": "Ventral posteromedial (VPM) nucleus of the thalamus",
+      "B": "Lateral geniculate nucleus",
+      "C": "Medial geniculate nucleus",
+      "D": "Ventral lateral (VL) nucleus of the thalamus",
+      "E": "Ventral posterolateral (VPL) nucleus of the thalamus"
+    },
+    "correct": "E",
+    "rationale": "The medial lemniscus (and spinothalamic tract) carrying body information ends in VPL. VPM (A) receives face information (trigeminothalamic). LGN = vision, MGN = hearing, VL = motor (cerebellum/basal ganglia).",
+    "pearl": "VPL = Limbs/body; VPM = Mouth/face.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_01"
+    ]
+  },
+  {
+    "id": "W2D2-005",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 68-year-old man has a lacunar infarct that eliminates conscious touch, vibration, and position sense from the entire left side of his body, with preserved strength. Third-order fibers were most likely interrupted at which location?",
+    "choices": {
+      "A": "Anterior limb of the left internal capsule",
+      "B": "Genu of the right internal capsule",
+      "C": "Posterior limb of the right internal capsule",
+      "D": "Left fasciculus cuneatus",
+      "E": "Right lateral corticospinal tract"
+    },
+    "correct": "C",
+    "rationale": "Third-order axons from VPL travel through the posterior limb of the internal capsule, then the corona radiata, to the postcentral gyrus. A contralateral (left-sided) hemisensory loss implies a right-sided lesion above the medullary decussation. The posterior limb is the \"sensory\" limb (also carries corticospinal fibers\u2014here a pure sensory lacune may also involve the thalamus).",
+    "pearl": "Internal capsule = \"major highway\" compressed between caudate, lentiform nucleus, and thalamus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-006",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 70-year-old woman has an occlusion of the right anterior cerebral artery. She has diminished touch and vibration sense in the left foot and leg with relative sparing of the face and arm. Which cortical region is most affected?",
+    "choices": {
+      "A": "Lateral postcentral gyrus near the sylvian fissure",
+      "B": "Posterior part of the paracentral lobule on the medial hemisphere",
+      "C": "Anterior part of the paracentral lobule only",
+      "D": "Superior temporal gyrus",
+      "E": "Calcarine cortex"
+    },
+    "correct": "B",
+    "rationale": "The postcentral gyrus does not continue onto the medial surface as a gyrus, but its functional area does: the posterior half of the paracentral lobule represents the leg/foot (sensory); the anterior half is motor. ACA supplies the medial hemisphere. The hand/face occupy the lateral convexity (MCA territory).",
+    "pearl": "Paracentral lobule: anterior = motor (leg), posterior = sensory (leg). ACA stroke \u2192 contralateral leg > arm.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-007",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 56-year-old man has a wide-based, stamping gait. He can stand steadily with his eyes open but falls when he closes them. He has absent vibration sense in both feet, absent ankle reflexes, lancinating leg pains, and pupils that accommodate but do not react to light. Which process best explains his deficits?",
+    "choices": {
+      "A": "Anterior spinal artery infarction",
+      "B": "Syringomyelia expanding the central canal",
+      "C": "Degeneration of anterior horn motor neurons",
+      "D": "Demyelination of the lateral corticospinal tracts",
+      "E": "Demyelination of large fibers in the dorsal roots and dorsal columns from tertiary syphilis"
+    },
+    "correct": "E",
+    "rationale": "Tabes dorsalis (tertiary neurosyphilis) damages large-fiber dorsal roots and dorsal columns bilaterally \u2192 loss of touch, vibration, and proprioception; positive Romberg (sensory ataxia unmasked by removing visual input); areflexia (afferent limb of the stretch reflex lost); Argyll Robertson pupils.",
+    "pearl": "Positive Romberg = proprioceptive (dorsal column) deficit, not cerebellar.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-008",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old woman with a history of pernicious anemia has paresthesias, loss of vibration and position sense in the legs, spastic weakness, and bilateral Babinski signs. Which combination of spinal cord tracts is most characteristically affected?",
+    "choices": {
+      "A": "Dorsal columns, lateral corticospinal tracts, and spinocerebellar tracts",
+      "B": "Spinothalamic tracts and anterior horn cells only",
+      "C": "Anterior white commissure only",
+      "D": "Dorsal columns only",
+      "E": "Anterior corticospinal tracts and ventral horns only"
+    },
+    "correct": "A",
+    "rationale": "Vitamin B12 deficiency causes subacute combined degeneration: demyelination of the dorsal columns (sensory ataxia, positive Romberg), lateral corticospinal tracts (spastic paresis, hyperreflexia, Babinski), and spinocerebellar tracts (ataxia). Lecture: begins in large fibers of the dorsal columns, then other tracts are affected.",
+    "pearl": "SCD (\"combined\" = sensory + motor). Also consider copper deficiency and nitrous oxide abuse (inactivates B12).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-009",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 66-year-old right-handed man can feel a key placed in his left palm (eyes closed) and reports that something is touching him, but he cannot identify the object. He also cannot identify numbers traced on his left palm. Primary touch, vibration, and proprioception are intact. Where is the lesion?",
+    "choices": {
+      "A": "Left postcentral gyrus",
+      "B": "Right VPL nucleus of the thalamus",
+      "C": "Right fasciculus cuneatus",
+      "D": "Right posterior parietal (somatosensory association) cortex",
+      "E": "Left medial lemniscus in the pons"
+    },
+    "correct": "D",
+    "rationale": "Agnosia = loss of a cognitive aspect of sensation despite intact primary sensation. Astereognosis and agraphesthesia result from lesions of the posterior parietal (association) cortex adjacent to the primary somatosensory cortex. Lesions in primary cortex, thalamus, or tracts (A\u2013C, E) cause loss of primary sensation.",
+    "pearl": "Primary cortex lesion \u2192 loss of perception; association cortex lesion \u2192 agnosia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-010",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "After a large right-hemisphere stroke, a 72-year-old woman shaves only the right side of her face, eats only food from the right side of her plate, and denies that her left arm belongs to her. Which region is most likely damaged?",
+    "choices": {
+      "A": "Left frontal eye field",
+      "B": "Left posterior parietal lobe",
+      "C": "Right posterior parietal lobe",
+      "D": "Right primary visual cortex",
+      "E": "Right anterior paracentral lobule"
+    },
+    "correct": "C",
+    "rationale": "Hemineglect\u2014disregarding the contralateral body and space as if it doesn't exist\u2014typically follows right (nondominant) posterior parietal lesions. Left parietal lesions rarely cause severe neglect because the right hemisphere attends to both hemifields.",
+    "pearl": "Right parietal \u2192 left neglect (\u00b1 anosognosia, asomatognosia).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-011",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a neurologic exam, a 128-Hz tuning fork is placed on the patient's medial malleolus. Which encapsulated, onion-like receptor in the deep dermis and periosteum is primarily responsible for detecting this stimulus?",
+    "choices": {
+      "A": "Pacinian corpuscle",
+      "B": "Meissner corpuscle",
+      "C": "Merkel disc",
+      "D": "Free nerve ending",
+      "E": "Golgi tendon organ"
+    },
+    "correct": "A",
+    "rationale": "Pacinian corpuscles are large, lamellated (onion-skin), rapidly adapting mechanoreceptors located in deep dermis, ligaments, joints, and periosteum\u2014detecting vibration and deep pressure. Free nerve endings (D) carry pain/temperature (ALS).",
+    "pearl": "Pacinian = Pressure + vibration (deep). Meissner = fine touch (fingertips, superficial).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-012",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "Which receptor, concentrated in the dermal papillae of glabrous (hairless) skin such as the fingertips and lips, is most responsible for fine, discriminative touch such as reading Braille?",
+    "choices": {
+      "A": "Pacinian corpuscle",
+      "B": "Muscle spindle",
+      "C": "Meissner corpuscle",
+      "D": "Ruffini ending",
+      "E": "Free nerve ending"
+    },
+    "correct": "C",
+    "rationale": "Meissner (tactile) corpuscles are encapsulated, rapidly adapting receptors in the superficial dermis of hairless skin, mediating light/fine discriminative touch and flutter. They are carried in large myelinated A\u03b2 axons in the DCML.",
+    "pearl": "Fingertips have high receptor density \u2192 large cortical representation in the homunculus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-013",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old woman has an absent right patellar reflex. Strength in the right quadriceps is normal, and there is numbness over the right medial leg. Interruption of which structure best explains the absent reflex with preserved strength?",
+    "choices": {
+      "A": "Right lateral corticospinal tract at T6",
+      "B": "Right L4 ventral root",
+      "C": "Left postcentral gyrus",
+      "D": "Right fasciculus gracilis at C2",
+      "E": "Right L4 dorsal root (Ia afferents from muscle spindles)"
+    },
+    "correct": "E",
+    "rationale": "The stretch reflex is monosynaptic: muscle spindle \u2192 Ia afferent (DRG neuron) \u2192 short branch synapses on anterior horn \u03b1-motor neuron \u2192 muscle contraction. The long branch of the same 1st-order axon ascends in the dorsal columns. Interrupting the afferent limb (dorsal root) abolishes the reflex while strength (ventral root, motor neuron) is preserved. The numbness over the medial leg (L4 dermatome) supports an L4 dorsal root lesion.",
+    "pearl": "Reflex grading 0, 1+, 2+ (normal), 3+, 4+ (clonus). Patellar = L3\u2013L4; Achilles = S1.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_04"
+    ]
+  },
+  {
+    "id": "W2D2-014",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A professional violinist undergoes functional imaging. Compared with non-musicians, the cortical representation of the fingers of her left hand in the right postcentral gyrus is markedly enlarged. Which concept best explains this finding?",
+    "choices": {
+      "A": "Wallerian degeneration",
+      "B": "Use-dependent cortical plasticity",
+      "C": "Agnosia",
+      "D": "Sensory decussation",
+      "E": "Denervation hypersensitivity"
+    },
+    "correct": "B",
+    "rationale": "The homunculus can change within limits: active cortical areas expand into adjacent unused/underused territory, and use recruits more cortical space. This plasticity underlies skill learning and recovery after brain injury (rewiring circuits).",
+    "pearl": "\"Use reshapes the homunculus.\" Recovery of function depends on the brain's ability to rewire.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_02"
+    ]
+  },
+  {
+    "id": "W2D2-015",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An MRI shows foraminal stenosis at the intervertebral foramen between the C4 and C5 vertebrae. Which spinal nerve is compressed?",
+    "choices": {
+      "A": "C3",
+      "B": "C4",
+      "C": "C6",
+      "D": "C5",
+      "E": "T1"
+    },
+    "correct": "D",
+    "rationale": "Spinal nerves C1\u2013C7 exit ABOVE their corresponding vertebrae, so the nerve exiting between C4 and C5 is C5. Because there are 8 cervical nerves but only 7 cervical vertebrae, C8 exits between C7 and T1, and from T1 downward all nerves exit BELOW their vertebrae (the nerve between T1 and T2 is T1).",
+    "pearl": "Cervical: nerve exits above its vertebra. T1 and below: nerve exits below its vertebra. C8 has no vertebra.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-016",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old man has a posterolateral disc herniation at L4\u2013L5. Which nerve root is most likely affected, and which finding is expected?",
+    "choices": {
+      "A": "L3; absent Achilles reflex",
+      "B": "L4; weakness of plantarflexion",
+      "C": "S1; numbness of the medial knee",
+      "D": "L4; numbness over the lateral little toe",
+      "E": "L5; numbness over the dorsum of the foot and great toe with weak great toe dorsiflexion"
+    },
+    "correct": "E",
+    "rationale": "A typical posterolateral lumbar disc herniation affects the next lower spinal nerve (disc L2\u2013L3 affects L3; disc L4\u2013L5 affects L5), because the nerve exiting at that level has already left above the disc. L5: dorsum of foot/great toe sensation, ankle/great toe dorsiflexion (extensor hallucis longus), foot drop. S1: lateral foot/little toe, plantarflexion, Achilles reflex.",
+    "pearl": "Lumbar disc \u2192 hits the lower root (L4\u2013L5 disc \u2192 L5).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-017",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old woman has neck pain radiating down the lateral forearm into the thumb, with a diminished biceps and brachioradialis reflex. Which dermatome/root is most likely involved?",
+    "choices": {
+      "A": "C6",
+      "B": "C5",
+      "C": "C7",
+      "D": "C8",
+      "E": "T1"
+    },
+    "correct": "A",
+    "rationale": "C6 dermatome covers the lateral (radial) forearm and thumb; C6 also mediates the biceps/brachioradialis reflexes. C5 = clavicle/shoulder (lateral arm); C7 = middle finger (triceps reflex); C8 = ring and little fingers, medial forearm; T1 = medial arm.",
+    "pearl": "\"Thumbs up = C6 (make a 6 with thumb and index).\" C7 index/middle; C8 ring/pinky.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-018",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 39-year-old man is stabbed in the back and loses sensation from the level of the nipples downward. Which is the most superior dermatome affected?",
+    "choices": {
+      "A": "C4",
+      "B": "T1",
+      "C": "T7",
+      "D": "T4",
+      "E": "T10"
+    },
+    "correct": "D",
+    "rationale": "Landmark dermatomes: T4 = nipple line, T6/T7 = xiphoid, T10 = umbilicus, L1 = inguinal ligament.",
+    "pearl": "\"T4 at the teat pore, T10 at the belly butTEN.\"",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-019",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A patient with acute appendicitis initially describes vague periumbilical pain. Visceral afferents from the appendix enter the spinal cord at the same segment that supplies the skin of the umbilicus. Which segment is this?",
+    "choices": {
+      "A": "T4",
+      "B": "T10",
+      "C": "T7",
+      "D": "L1",
+      "E": "S2"
+    },
+    "correct": "B",
+    "rationale": "The umbilicus is T10. Early appendicitis pain is referred to the T10 dermatome because visceral afferents converge with somatic afferents in the same dorsal horn segment. Pain localizes to McBurney point once the parietal peritoneum is irritated.",
+    "pearl": "T10 = umbilicus = referred appendix pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_04"
+    ]
+  },
+  {
+    "id": "W2D2-020",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A lumbar puncture is performed in an adult at the L4\u2013L5 interspace. Why is this level safe?",
+    "choices": {
+      "A": "The spinal cord terminates at T12 in all adults",
+      "B": "The dura terminates at L1, so no CSF is present below that level",
+      "C": "The conus medullaris ends at about L1\u2013L2; below this the lumbar cistern contains only cauda equina roots, which are displaced by the needle",
+      "D": "The filum terminale is absent at lumbar levels",
+      "E": "The epidural space is obliterated below L2"
+    },
+    "correct": "C",
+    "rationale": "The cord grows more slowly than the vertebral canal, so in adults the conus medullaris ends at ~L2 (L1\u2013L2). The subarachnoid space continues to S2 as the lumbar cistern, containing CSF and cauda equina roots (L2\u2013Coc1) that float away from the needle. The pia continues as the filum terminale to the coccyx.",
+    "pearl": "Adult cord ends ~L2; dural sac ends ~S2. LP at L3\u2013L4 or L4\u2013L5 (iliac crests \u2248 L4).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-021",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An anesthesiologist compares epidural anesthesia with spinal anesthesia for a cesarean delivery. Which statement is correct?",
+    "choices": {
+      "A": "The epidural space around the brain and spinal cord are both real, fat-filled spaces",
+      "B": "Epidural anesthesia is injected directly into the CSF of the lumbar cistern",
+      "C": "Epidural anesthesia produces a faster and more complete block than spinal anesthesia",
+      "D": "The spinal epidural space is a real space containing fat and veins, allowing catheter infusion for prolonged, segmentally limited block",
+      "E": "Spinal anesthesia can be safely placed at any vertebral level, including the cervical cord"
+    },
+    "correct": "D",
+    "rationale": "In the skull, the epidural space is only a potential space (dura fused to bone) that opens only with an epidural hematoma. In the vertebral canal it is a real space with fat and blood vessels; catheters can infuse anesthetic for long periods with limited diffusion (restricted dermatomal block). Spinal anesthesia (into the lumbar cistern CSF) produces a faster, more complete, but shorter block and must be kept low to avoid affecting cardiac and respiratory function.",
+    "pearl": "Spinal = subarachnoid (fast, dense, short). Epidural = outside dura (slower, catheter, titratable).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-022",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A histology slide of spinal cord shows a small lateral projection of gray matter between the dorsal and ventral horns. Neurons in this region are best described as which of the following?",
+    "choices": {
+      "A": "Lower motor neurons to skeletal muscle of the limbs",
+      "B": "Preganglionic sympathetic neurons, present from T1 to L2",
+      "C": "Second-order neurons of the DCML pathway",
+      "D": "Parasympathetic preganglionic neurons present from C1 to C8",
+      "E": "First-order sensory neurons"
+    },
+    "correct": "B",
+    "rationale": "The lateral horn (intermediolateral cell column) is present at T1\u2013L2(L3) and contains preganglionic sympathetic neurons whose axons exit via the ventral roots. Sacral parasympathetic neurons (S2\u2013S4) are in a similar position but do not form a distinct horn. Its presence identifies a thoracic cross section.",
+    "pearl": "Dorsal horn = sensory; ventral horn = somatic motor; lateral horn (T1\u2013L2) = sympathetic.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_01"
+    ]
+  },
+  {
+    "id": "W2D2-023",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man has severe low back pain after lifting, followed by bilateral leg weakness, numbness of the perineum and inner thighs, decreased ankle reflexes, and urinary retention. Imaging shows a large central disc herniation at L4\u2013L5. Which structure is compressed?",
+    "choices": {
+      "A": "Conus medullaris at T10",
+      "B": "Lateral corticospinal tracts",
+      "C": "Fasciculus cuneatus",
+      "D": "Filum terminale only",
+      "E": "Cauda equina nerve roots within the lumbar cistern"
+    },
+    "correct": "E",
+    "rationale": "Lesions below L2 affect cauda equina roots (L2\u2013Coc1), producing LMN signs (weakness, hyporeflexia), saddle anesthesia (S2\u2013S5), and bladder/bowel dysfunction. Causes: disc herniation, tumor, infection. It is a neurosurgical emergency.",
+    "pearl": "Cauda equina = LMN, often asymmetric, radicular pain. Conus medullaris = more symmetric, early bladder dysfunction, mixed UMN/LMN.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-024",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 9-year-old girl has progressive scoliosis, low back pain, leg weakness, and new urinary incontinence. Examination shows a lumbosacral hair tuft. MRI shows a low-lying conus medullaris at L4 with a short, thickened filum terminale. What is the diagnosis?",
+    "choices": {
+      "A": "Tethered cord syndrome",
+      "B": "Cauda equina syndrome from disc herniation",
+      "C": "Syringomyelia",
+      "D": "Anterior spinal artery syndrome",
+      "E": "Tabes dorsalis"
+    },
+    "correct": "A",
+    "rationale": "In tethered cord syndrome, the conus is abnormally anchored (to subcutaneous tissue, short filum, dural adhesions), preventing normal relative ascent. Traction produces lower body sensory/motor and bladder deficits, back pain, and scoliosis\u2014worsening with growth. Often associated with occult spinal dysraphism (hair tuft, dimple).",
+    "pearl": "Low-lying conus (below L2) + bladder issues + cutaneous stigmata \u2192 tethered cord.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-025",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 70-year-old man undergoes open repair of a thoracoabdominal aortic aneurysm. Postoperatively he has bilateral leg paralysis, loss of pain and temperature below T10, and urinary retention, but vibration and joint position sense in the legs are intact. Which vessel's compromise explains this?",
+    "choices": {
+      "A": "Posterior spinal arteries",
+      "B": "Basilar artery",
+      "C": "Great anterior segmental artery (of Adamkiewicz) supplying the anterior spinal artery",
+      "D": "Middle meningeal artery",
+      "E": "Vertebral artery at C1"
+    },
+    "correct": "C",
+    "rationale": "The anterior spinal artery supplies the anterior 2/3 of the cord (corticospinal tracts, spinothalamic tracts, anterior horns). The artery of Adamkiewicz is a major contributor for lower thoracic/upper lumbar cord. Dorsal columns are supplied by the paired posterior spinal arteries (with robust anastomoses), so vibration/proprioception are spared.",
+    "pearl": "Anterior spinal artery syndrome: everything lost except dorsal columns.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_03"
+    ]
+  },
+  {
+    "id": "W2D2-026",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A spinal cord cross section shows a large oval outline with abundant white matter, prominent ventral horns, a visible fasciculus cuneatus lateral to fasciculus gracilis, and no lateral horn. Which level is this?",
+    "choices": {
+      "A": "Lower cervical (cervical enlargement)",
+      "B": "Mid-thoracic",
+      "C": "Upper lumbar",
+      "D": "Sacral",
+      "E": "Coccygeal"
+    },
+    "correct": "A",
+    "rationale": "White matter is greatest at cervical levels (all ascending fibers have accumulated and descending fibers have not yet terminated). The cervical enlargement has large ventral horns for upper limb muscles. Fasciculus cuneatus exists only at/above T6. Thoracic: thin horns + lateral horn. Lumbosacral: large gray matter, relatively less white matter; sacral is small and mostly gray.",
+    "pearl": "White matter decreases cervical \u2192 sacral; gray matter largest at enlargements.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_03"
+    ]
+  },
+  {
+    "id": "W2D2-027",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "During spinal cord surgery, the neurosurgeon uses a series of about 20 paired, tooth-like lateral attachments as a landmark to separate dorsal from ventral roots. From which meningeal layer do these structures arise?",
+    "choices": {
+      "A": "Dura mater",
+      "B": "Arachnoid mater",
+      "C": "Pia mater",
+      "D": "Epineurium",
+      "E": "Ligamentum flavum"
+    },
+    "correct": "C",
+    "rationale": "Denticulate ligaments are lateral extensions of the pia that pierce the arachnoid and anchor the cord to the dura. They lie between dorsal and ventral roots, dividing the cord into anterior and posterior compartments\u2014a surgical landmark. The pia also continues caudally as the filum terminale.",
+    "pearl": "Pia \u2192 denticulate ligaments + filum terminale. Dura \u2192 becomes epineurium of spinal nerves.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_SC_02"
+    ]
+  },
+  {
+    "id": "W2D2-028",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 61-year-old woman develops sudden loss of touch, vibration, and position sense over the entire right side of her body, with left tongue deviation on protrusion and right-sided hemiparesis. Which structure carrying tactile information is damaged?",
+    "choices": {
+      "A": "Right fasciculus gracilis",
+      "B": "Right nucleus cuneatus",
+      "C": "Left VPM nucleus",
+      "D": "Right medial lemniscus",
+      "E": "Left medial lemniscus in the medulla"
+    },
+    "correct": "E",
+    "rationale": "Medial medullary syndrome (anterior spinal/vertebral artery branch) affects the medullary pyramid (contralateral hemiparesis), medial lemniscus (contralateral loss of touch/vibration/proprioception\u2014already crossed), and CN XII (ipsilateral tongue deviation toward the lesion). Left tongue deviation \u2192 left lesion \u2192 right body deficits.",
+    "pearl": "Once DCML axons decussate (caudal medulla), lesions produce contralateral deficits.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D2-029",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A lecturer states that an action potential travelling 1 meter from the finger to the spinal cord takes about 8 ms in the fastest axon but ~100 ms in the slowest mechanoreceptor axon. Which property most determines this difference?",
+    "choices": {
+      "A": "The number of synapses along the axon",
+      "B": "The modality of the stimulus only",
+      "C": "The distance between receptor and DRG",
+      "D": "Axon diameter and degree of myelination",
+      "E": "The concentration of extracellular potassium"
+    },
+    "correct": "D",
+    "rationale": "Larger diameter (lower internal resistance) and thicker myelin (saltatory conduction) increase conduction velocity. Different sensory systems use different axon sizes: DCML tactile/proprioceptive information travels in large myelinated A\u03b1/A\u03b2 fibers; pain/temperature in thin A\u03b4 and unmyelinated C fibers. Axon size also determines differential vulnerability to disease (e.g., large-fiber neuropathies).",
+    "pearl": "A\u03b1 (proprioception, Ia) > A\u03b2 (touch/vibration) > A\u03b4 (fast pain/cold) > C (slow pain/warmth).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_03"
+    ]
+  },
+  {
+    "id": "W2D2-030",
+    "topic": "Somatosensory / Spinal Cord",
+    "lecture": "2.1 Tactile Sensory Pathway (DCML) & Spinal Cord (Dr. Freedman / Dr. Cohan)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient has a lesion causing loss of touch and proprioception from the left side of the body. Which lesion location would produce this deficit?",
+    "choices": {
+      "A": "Left postcentral gyrus",
+      "B": "Right VPL nucleus of the thalamus",
+      "C": "Right fasciculus cuneatus at C5",
+      "D": "Right dorsal root ganglion at T2",
+      "E": "Left posterior limb of the internal capsule"
+    },
+    "correct": "B",
+    "rationale": "Because DCML fibers decussate in the caudal medulla, lesions above the medulla (medial lemniscus, VPL, internal capsule, postcentral gyrus) cause contralateral deficits; lesions in the cord, dorsal roots, or DRG cause ipsilateral deficits. Left-sided body loss \u2192 right thalamus/capsule/cortex, or left cord/root. Only B fits.",
+    "pearl": "Symptoms are always reported where the stimulus arose\u2014localize by level relative to the decussation.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_DCML_05"
+    ]
+  },
+  {
+    "id": "W2D3-001",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 40-year-old soldier sustains a severe leg wound in combat but reports minimal pain until he reaches safety hours later. Conversely, a 35-year-old woman reports severe pain in an amputated limb. These observations best illustrate which concept?",
+    "choices": {
+      "A": "Pain intensity is directly proportional to nociceptor firing rate",
+      "B": "Nociception and pain are identical processes",
+      "C": "Pain can only arise from stimulation of peripheral nociceptors",
+      "D": "Pain is a subjective biopsychosocial experience that can occur without nociceptor stimulation and vary with context",
+      "E": "Fast pain fibers are blocked by stress hormones"
+    },
+    "correct": "D",
+    "rationale": "Nociception is the detection and localization of a stimulated pain receptor; pain is the complex, subjective sensory and emotional experience. Pain can arise without nociceptor activation (phantom limb) and the same stimulus can be very painful in one context and almost painless in another (attention, emotion, environment). Encoding does not guarantee perception.",
+    "pearl": "Pain = nociception + psychological/emotional factors + environment.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_01"
+    ]
+  },
+  {
+    "id": "W2D3-002",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A man steps on a tack and immediately feels a sharp, well-localized pain before withdrawing his foot. Which fiber type and pathway carry this \"first pain\"?",
+    "choices": {
+      "A": "C fibers in the spino-reticulo-thalamic tract to the insula",
+      "B": "A\u03b4 fibers in the spinothalamic tract to VPL and the postcentral gyrus",
+      "C": "A\u03b2 fibers in the dorsal columns to the nucleus gracilis",
+      "D": "A\u03b1 fibers in the dorsal spinocerebellar tract",
+      "E": "C fibers in the dorsal columns to VPM"
+    },
+    "correct": "B",
+    "rationale": "Fast pain is carried by thinly myelinated A\u03b4 fibers in the spinothalamic tract \u2192 VPL \u2192 postcentral gyrus. It is sensory-discriminative (location, intensity, onset, duration) and is the pathway used for lesion localization (pin-prick testing).",
+    "pearl": "First pain: A\u03b4, sharp, localized, spinothalamic. Second pain: C, burning/aching, spino-reticulo-thalamic.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-003",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Several seconds after burning his hand on a stove, a cook experiences a prolonged, poorly localized, burning, throbbing pain that persists after the stimulus ends and is worsened by anxiety. Which structures mediate the unpleasant affective quality of this pain?",
+    "choices": {
+      "A": "A\u03b2 fibers \u2192 nucleus cuneatus \u2192 primary somatosensory cortex",
+      "B": "A\u03b4 fibers \u2192 marginal zone \u2192 postcentral gyrus",
+      "C": "Ia afferents \u2192 anterior horn motor neurons",
+      "D": "Corticospinal tract \u2192 anterior horn",
+      "E": "C fibers \u2192 substantia gelatinosa \u2192 spino-reticulo-thalamic tract \u2192 anterior cingulate gyrus and insula"
+    },
+    "correct": "E",
+    "rationale": "Slow pain uses the smallest, unmyelinated C fibers synapsing in the substantia gelatinosa (lamina II), with a multisynaptic route through the brainstem reticular formation to different thalamic nuclei, then to the anterior cingulate gyrus and insula (emotional \"disturbing\" quality). It is not used for localization and is the major target for drug therapy.",
+    "pearl": "Slow pain \u2192 cingulate + insula = \"how much it bothers you.\"",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-004",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "As the central processes of first-order pain and temperature neurons enter the spinal cord, they travel briefly in which tract before entering the dorsal horn?",
+    "choices": {
+      "A": "Dorsolateral fasciculus (tract of Lissauer)",
+      "B": "Fasciculus gracilis",
+      "C": "Medial lemniscus",
+      "D": "Anterior white commissure",
+      "E": "Lateral corticospinal tract"
+    },
+    "correct": "A",
+    "rationale": "First-order ALS axons (DRG cell bodies) enter via the dorsal root, travel up or down 1\u20132 segments in the dorsolateral fasciculus (Lissauer tract), then synapse ipsilaterally in the dorsal horn (marginal zone, lamina I; nucleus proprius; substantia gelatinosa for slow pain).",
+    "pearl": "ALS 1\u00b0 \u2192 Lissauer tract \u2192 dorsal horn (ipsilateral). 2\u00b0 crosses in anterior white commissure.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-005",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Second-order neurons of the spinothalamic tract cross the midline at which location?",
+    "choices": {
+      "A": "Caudal medulla via the internal arcuate fibers",
+      "B": "Posterior commissure of the midbrain",
+      "C": "Anterior white commissure of the spinal cord, near the level of entry",
+      "D": "Corpus callosum",
+      "E": "Decussation of the pyramids"
+    },
+    "correct": "C",
+    "rationale": "Second-order axons from the marginal zone and nucleus proprius cross in the anterior white commissure, rising rostrally ~2 segments as they cross, then ascend contralaterally in the ALS. Contrast with DCML (crosses in caudal medulla via internal arcuate fibers) and corticospinal (pyramidal decussation).",
+    "pearl": "Pain crosses early (cord); touch crosses late (medulla).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
+  },
+  {
+    "id": "W2D3-006",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A tumor compresses only the right anterolateral system at the C7 cord level. What sensory deficit results?",
+    "choices": {
+      "A": "Loss of pain and temperature on the right side below C7",
+      "B": "Loss of vibration on the right side below C7",
+      "C": "Bilateral loss of pain and temperature in a cape distribution",
+      "D": "Loss of pain and temperature on the left side from C7 upward",
+      "E": "Loss of pain and temperature on the left side beginning about 2 segments below the lesion (~T1) and downward"
+    },
+    "correct": "E",
+    "rationale": "The ALS carries pain/temperature from the opposite side (fibers already crossed). Because second-order axons ascend ~2 segments while crossing, a lesion in the ALS produces contralateral loss beginning about 2 levels below the lesion and continuing through the rest of the body. Dorsal columns are spared.",
+    "pearl": "ALS lesion \u2192 contralateral P&T loss starting ~2 segments below.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-007",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old man with a history of Chiari I malformation has burns on his hands he did not notice. Examination shows bilateral loss of pain and temperature over the shoulders, arms, and upper back with preserved vibration and proprioception. Later, hand muscle wasting develops. What is the mechanism of the sensory loss?",
+    "choices": {
+      "A": "Expansion of a central cavity compressing crossing fibers in the anterior white commissure",
+      "B": "Compression of the dorsal columns by a posterior disc",
+      "C": "Occlusion of the posterior spinal arteries",
+      "D": "Demyelination of the dorsal roots by Treponema pallidum",
+      "E": "Infarction of the lateral medulla"
+    },
+    "correct": "A",
+    "rationale": "Syringomyelia (syrinx, often cervical, associated with Chiari I) compresses the anterior white commissure first \u2192 bilateral, segmental \"cape-like\" loss of pain/temperature with preserved dorsal column function (dissociated sensory loss). Expansion into the anterior horns causes LMN signs (hand atrophy); into the lateral corticospinal tracts causes UMN signs.",
+    "pearl": "Cape-like bilateral P&T loss + preserved vibration = syringomyelia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-008",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 28-year-old man is stabbed in the back, hemisecting the right side of his spinal cord at T8. Which pattern of sensory loss is expected?",
+    "choices": {
+      "A": "Bilateral loss of all sensation below T8",
+      "B": "Left loss of vibration and right loss of pain/temperature below T8",
+      "C": "Right loss of vibration/proprioception below T8 and left loss of pain/temperature beginning ~T10",
+      "D": "Right loss of pain/temperature only, at the T8 dermatome",
+      "E": "Left loss of vibration and pain/temperature below T8"
+    },
+    "correct": "C",
+    "rationale": "Brown-S\u00e9quard syndrome: dorsal columns (uncrossed in cord) \u2192 ipsilateral loss of touch/vibration/proprioception below the lesion; lateral corticospinal \u2192 ipsilateral UMN weakness; ALS (already crossed) \u2192 contralateral P&T loss starting ~2 levels below. There may be ipsilateral segmental LMN signs and complete sensory loss at the lesion level.",
+    "pearl": "\"Lesion on one side of the cord \u2192 tactile loss same side, pain loss opposite side.\"",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-009",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old woman with chronic diabetic neuropathic pain is started on duloxetine, a serotonin-norepinephrine reuptake inhibitor. Its analgesic effect is thought to enhance a descending pathway in which neurons from which two brainstem regions act on interneurons in the substantia gelatinosa?",
+    "choices": {
+      "A": "Red nucleus (glutamate) and substantia nigra (dopamine)",
+      "B": "Periaqueductal gray of the midbrain (serotonin) and locus ceruleus of the pons (norepinephrine)",
+      "C": "Nucleus gracilis (glutamate) and nucleus cuneatus (glutamate)",
+      "D": "Inferior olive (glutamate) and vestibular nuclei (GABA)",
+      "E": "Nucleus basalis (ACh) and VTA (dopamine)"
+    },
+    "correct": "B",
+    "rationale": "Two descending systems\u2014from the periaqueductal gray (via raphe; 5-HT) and the locus ceruleus (NE)\u2014release neurotransmitters onto opioid (enkephalin) interneurons in the substantia gelatinosa. These interneurons block transmission from the 1st-order to 2nd-order neuron. SNRIs and TCAs augment this pathway.",
+    "pearl": "PAG (5-HT) + locus ceruleus (NE) \u2192 opioid interneurons in lamina II \u2192 gate pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_05"
+    ]
+  },
+  {
+    "id": "W2D3-010",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A child touches a hot iron and rapidly withdraws the arm while simultaneously stiffening the opposite leg to keep balance. Which statement best describes this reflex?",
+    "choices": {
+      "A": "Monosynaptic reflex involving only Ia afferents",
+      "B": "Reflex requiring cortical processing before the motor response",
+      "C": "Activation of extensors and inhibition of flexors on the stimulated side",
+      "D": "Multisynaptic, multilevel reflex activating ipsilateral flexors, inhibiting ipsilateral extensors, and activating contralateral extensors",
+      "E": "A reflex mediated by the dorsal columns"
+    },
+    "correct": "D",
+    "rationale": "The flexion/withdrawal reflex is polysynaptic and wired-in via spinal interneurons spanning several segments: activates flexors and inhibits extensors on the stimulated side, and crosses to the opposite side to activate extensors for postural stability (crossed extensor reflex). Contrast with the monosynaptic stretch reflex (A).",
+    "pearl": "Withdrawal = polysynaptic + crossed extensor. Stretch reflex = monosynaptic.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_05"
+    ]
+  },
+  {
+    "id": "W2D3-011",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 6-year-old boy has never felt pain; he has bitten through his tongue, has multiple painless fractures, and has burn scars. Touch, vibration, and strength are normal. A loss-of-function mutation in which protein is most likely?",
+    "choices": {
+      "A": "Voltage-gated K+ channel Kv1.1",
+      "B": "Nicotinic ACh receptor \u03b1 subunit",
+      "C": "Voltage-gated Na+ channel Nav1.7 (SCN9A) expressed in nociceptors",
+      "D": "Myelin protein zero",
+      "E": "P/Q-type voltage-gated Ca2+ channel"
+    },
+    "correct": "C",
+    "rationale": "Fast and slow pain fibers both use a specific Na+ channel isoform (Nav1.7). Loss-of-function mutations cause congenital insensitivity to pain; gain-of-function mutations cause increased pain (e.g., erythromelalgia, paroxysmal extreme pain disorder).",
+    "pearl": "Nav1.7 (SCN9A): loss \u2192 no pain; gain \u2192 too much pain. Novel analgesic target.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-012",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 62-year-old man with coronary artery disease presents with crushing substernal pressure radiating to the inner aspect of his left arm. What explains the arm pain?",
+    "choices": {
+      "A": "Direct ischemia of the brachial plexus",
+      "B": "Compression of the C5 root by the heart",
+      "C": "Phrenic nerve irritation (C3\u2013C5)",
+      "D": "Visceral afferents ascending in the dorsal columns to the arm area of cortex",
+      "E": "Convergence of cardiac visceral afferents (T1\u2013T4) onto the same dorsal horn neurons receiving somatic input from T1\u2013T4 dermatomes"
+    },
+    "correct": "E",
+    "rationale": "Convergence-projection: cardiac nociceptive afferents (cell bodies in T1\u2013T4 DRG, traveling with sympathetic cardiac nerves) synapse on the same 2nd-order projection neurons that receive somatic input from the chest wall and medial arm (T1\u2013T2). The brain, accustomed to somatic input, projects the pain onto those dermatomes = referred pain.",
+    "pearl": "Heart \u2192 T1\u2013T4 \u2192 left medial arm/chest. Gallbladder/diaphragm \u2192 C3\u2013C5 \u2192 shoulder. Appendix \u2192 T10 \u2192 umbilicus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_06"
+    ]
+  },
+  {
+    "id": "W2D3-013",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Two patients have positive Romberg signs and loss of vibration in the feet. Patient 1 has sudden, stabbing (\"lightning\") pains in the legs, areflexia, and no weakness. Patient 2 has spasticity, hyperreflexia, and bilateral Babinski signs without lancinating pain. Which pairing is correct?",
+    "choices": {
+      "A": "Patient 1: B12 deficiency; Patient 2: tabes dorsalis",
+      "B": "Patient 1: tabes dorsalis (dorsal roots + dorsal columns); Patient 2: B12 deficiency (dorsal columns + corticospinal tracts)",
+      "C": "Patient 1: syringomyelia; Patient 2: anterior spinal artery syndrome",
+      "D": "Both: amyotrophic lateral sclerosis",
+      "E": "Patient 1: Brown-S\u00e9quard; Patient 2: tabes dorsalis"
+    },
+    "correct": "B",
+    "rationale": "Tabes dorsalis damages dorsal roots (lancinating pain, areflexia) and dorsal columns (sensory ataxia) but spares corticospinal tracts (no UMN signs); more likely with HIV/low CD4. B12 deficiency (SCD) damages dorsal columns and lateral corticospinal tracts (UMN signs) and spares dorsal roots (no root pain).",
+    "pearl": "Tabes = sensory + root pain, no UMN. B12 = dorsal columns + UMN, no root pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-014",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "Compared with pain from a cut on the skin, pain from myocardial ischemia is dull, deep, poorly localized, and intensely unpleasant. Which statement best explains this difference?",
+    "choices": {
+      "A": "Visceral pain uses a four-neuron pathway that bypasses the thalamus",
+      "B": "Visceral pain afferents have cell bodies in the CNS rather than DRG",
+      "C": "Visceral pain ascends only in the dorsal columns",
+      "D": "The heart has relatively few sensory afferents, and its pain projects mainly to the cingulate cortex and insula with only minor somatosensory cortex input",
+      "E": "Visceral afferents synapse directly on anterior horn motor neurons"
+    },
+    "correct": "D",
+    "rationale": "Visceral pain uses a similar three-neuron pathway (DRG \u2192 dorsal horn \u2192 crossing \u2192 thalamus \u2192 cortex), but with sparse visceral innervation and predominant projection to limbic cortex (cingulate, insula), it is poorly localized and emotionally intense. Visceral afferents travel with autonomic (sympathetic/splanchnic) nerves.",
+    "pearl": "Visceral pain: diffuse, midline, autonomic features (nausea, sweating), referred.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_06"
+    ]
+  },
+  {
+    "id": "W2D3-015",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 48-year-old man has neck pain radiating down the back of the arm into the middle finger. Exam shows weakness of elbow extension and a diminished triceps reflex. MRI will most likely show compression of which root?",
+    "choices": {
+      "A": "C7",
+      "B": "C5",
+      "C": "C6",
+      "D": "C8",
+      "E": "T1"
+    },
+    "correct": "A",
+    "rationale": "C7 radiculopathy (most common cervical radiculopathy, often C6\u2013C7 disc): middle finger (digits 2\u20133) sensory loss, triceps/wrist extensor weakness, decreased triceps reflex. Radiculopathy follows a dermatomal/myotomal pattern with LMN findings (weakness, hyporeflexia).",
+    "pearl": "Reflexes: C5\u2013C6 biceps, C6 brachioradialis, C7 triceps, L4 patellar, S1 Achilles.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-016",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man has low back pain radiating down the back of the thigh and calf to the lateral foot and little toe. He has weak plantarflexion (cannot walk on toes) and an absent ankle jerk. Which root is most likely compressed?",
+    "choices": {
+      "A": "L4",
+      "B": "S1",
+      "C": "L3",
+      "D": "L5",
+      "E": "S3"
+    },
+    "correct": "B",
+    "rationale": "S1 radiculopathy (commonly from L5\u2013S1 disc): posterior thigh/calf, lateral foot, little toe; weak plantarflexion (gastrocnemius); absent Achilles reflex. L5: dorsum of foot/great toe, foot drop, reflexes usually normal. L4: medial leg, weak knee extension, decreased patellar reflex.",
+    "pearl": "S1 = \"Stand on toes,\" Achilles reflex, little toe.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-017",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A needle EMG of a resting muscle reveals spontaneous, brief, low-amplitude potentials that are not visible through the skin. They appeared 3 weeks after a crush injury to the nerve. What do these potentials represent?",
+    "choices": {
+      "A": "Fasciculations\u2014spontaneous discharges of entire motor units",
+      "B": "Normal end-plate noise",
+      "C": "Myotonic discharges from chloride channel dysfunction",
+      "D": "Fibrillations\u2014spontaneous firing of single denervated muscle fibers",
+      "E": "Decremental responses from NMJ failure"
+    },
+    "correct": "D",
+    "rationale": "Fibrillations are spontaneous discharges of individual muscle fibers that have lost their innervation (axonal injury). They are not visible clinically, are always abnormal, and appear days to weeks after injury (time for Wallerian degeneration). Fasciculations (A) are spontaneous discharges of an entire motor unit, visible as twitches.",
+    "pearl": "Fasciculation = whole motor unit, visible, can be benign. Fibrillation = single fiber, EMG only, always pathologic (denervation).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-018",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 58-year-old man has progressive asymmetric weakness, muscle atrophy, and visible twitching under the skin of his arms, along with hyperreflexia and Babinski signs. Sensation is normal. The visible twitches represent which phenomenon?",
+    "choices": {
+      "A": "Spontaneous discharge of an entire motor unit due to anterior horn cell disease",
+      "B": "Spontaneous firing of a single muscle fiber",
+      "C": "Conduction block from focal demyelination",
+      "D": "Activation of muscle spindles by stretch",
+      "E": "Myoclonus from cortical hyperexcitability"
+    },
+    "correct": "A",
+    "rationale": "Fasciculations are spontaneous discharges of a whole motor unit (motor neuron/axon + all its muscle fibers), visible to the naked eye. Combined with UMN signs, they suggest amyotrophic lateral sclerosis (anterior horn + corticospinal degeneration) with spared sensation. Fasciculations can be benign in normal people but are abnormal when accompanied by weakness.",
+    "pearl": "UMN + LMN signs, no sensory loss \u2192 amyotrophic lateral sclerosis.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-019",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 34-year-old woman develops ascending weakness and areflexia 2 weeks after a diarrheal illness. Nerve conduction studies are performed. Which pattern of findings is most consistent with the primary pathologic process?",
+    "choices": {
+      "A": "Normal latency, normal velocity, markedly decreased amplitude",
+      "B": "Incremental CMAP response with high-frequency stimulation",
+      "C": "Fibrillations only, with normal nerve conduction",
+      "D": "Decremental CMAP response with repetitive stimulation",
+      "E": "Increased distal latency, decreased conduction velocity, with relatively preserved amplitude"
+    },
+    "correct": "E",
+    "rationale": "Guillain-Barr\u00e9 syndrome (classically AIDP, post-Campylobacter) is a demyelinating polyneuropathy. Loss of myelin impairs saltatory conduction \u2192 increased latency and decreased NCV (NCV = distance \u00f7 latency difference); amplitude is relatively preserved early because axons are intact. Conduction block and temporal dispersion are also seen.",
+    "pearl": "Demyelination \u2192 slow (\u2191 latency, \u2193 NCV). Axon loss \u2192 small (\u2193 amplitude).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-020",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 66-year-old man with long-standing poorly controlled diabetes has stocking-distribution numbness. Sural nerve conduction shows a markedly reduced SNAP amplitude with normal latency and normal conduction velocity. What does this pattern indicate?",
+    "choices": {
+      "A": "Primary demyelination",
+      "B": "Conduction block at the fibular head",
+      "C": "Axonal loss with intact myelin on remaining fibers",
+      "D": "Neuromuscular junction failure",
+      "E": "A lesion proximal to the dorsal root ganglion"
+    },
+    "correct": "C",
+    "rationale": "Reduced amplitude reflects fewer functioning axons contributing to the compound potential; latency and velocity remain normal if the surviving axons have intact myelin. Diabetic length-dependent polyneuropathy is predominantly axonal.",
+    "pearl": "Amplitude = number of axons. Latency/velocity = myelin.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-021",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 40-year-old man who leans on his elbows at work has numbness of the ring and little fingers. Stimulating the ulnar nerve at the wrist produces a normal CMAP, but stimulating above the elbow produces a markedly reduced CMAP. What is the interpretation?",
+    "choices": {
+      "A": "Diffuse axonal neuropathy",
+      "B": "C8 radiculopathy",
+      "C": "Myasthenia gravis",
+      "D": "Anterior horn cell disease",
+      "E": "Focal conduction block from demyelination at the elbow"
+    },
+    "correct": "E",
+    "rationale": "Conduction block: focal myelin loss (entrapment, GBS) prevents propagation through a segment; CMAP is normal when stimulating distal to the block but markedly reduced proximal to it, pinpointing the lesion (here cubital tunnel).",
+    "pearl": "Normal distal, small proximal CMAP \u2192 conduction block between stimulation sites.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-022",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 31-year-old woman has ptosis and diplopia that worsen as the day progresses. Repetitive nerve stimulation at 3 Hz is performed. Which result and mechanism are expected?",
+    "choices": {
+      "A": "Incremental response due to presynaptic Ca2+ accumulation",
+      "B": "Decremental response due to antibodies against postsynaptic nicotinic ACh receptors",
+      "C": "Normal response because the defect is in the motor cortex",
+      "D": "Fibrillation potentials due to denervation",
+      "E": "Prolonged distal latency due to demyelination"
+    },
+    "correct": "B",
+    "rationale": "Myasthenia gravis: antibodies against postsynaptic nicotinic AChRs reduce receptor availability. With repetitive stimulation, ACh release per impulse declines, so fewer fibers reach threshold and the CMAP progressively decreases (decrement) \u2192 fatigable weakness.",
+    "pearl": "MG = decrement, worse with use. LEMS = increment, better with use.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-023",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 64-year-old smoker has proximal leg weakness, dry mouth, and hyporeflexia. A baseline CMAP is very small but rises dramatically after 10 seconds of maximal voluntary contraction or high-frequency stimulation. What is the mechanism?",
+    "choices": {
+      "A": "Autoantibodies to postsynaptic nicotinic receptors",
+      "B": "Loss of anterior horn cells",
+      "C": "Antibodies to presynaptic P/Q-type voltage-gated Ca2+ channels; repetitive activity builds Ca2+ in the terminal and increases ACh release",
+      "D": "Cleavage of SNARE proteins by botulinum toxin",
+      "E": "Inhibition of acetylcholinesterase"
+    },
+    "correct": "C",
+    "rationale": "Lambert-Eaton myasthenic syndrome (often paraneoplastic with small cell lung carcinoma): presynaptic VGCC antibodies impair ACh release \u2192 small baseline CMAP. High-frequency stimulation/brief exercise allows Ca2+ to accumulate \u2192 more ACh release \u2192 incremental response. Autonomic symptoms (dry mouth) are common.",
+    "pearl": "LEMS: incremental response, SCLC, autonomic symptoms, improves with use.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_08"
+    ]
+  },
+  {
+    "id": "W2D3-024",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 52-year-old man has numbness on the dorsum of the right foot. NCS shows a normal superficial fibular sensory nerve action potential (SNAP) despite clinical sensory loss in that territory. This finding best localizes the lesion to which site?",
+    "choices": {
+      "A": "The L5 nerve root, proximal to the dorsal root ganglion",
+      "B": "The common fibular nerve at the fibular head",
+      "C": "The superficial fibular nerve in the leg",
+      "D": "The sciatic nerve in the thigh",
+      "E": "Length-dependent axonal polyneuropathy"
+    },
+    "correct": "A",
+    "rationale": "SNAPs are recorded from peripheral sensory axons whose cell bodies lie in the DRG. In radiculopathy, the lesion is proximal to the DRG, so the peripheral axon remains connected to its cell body and the SNAP is preserved\u2014even though the patient has sensory loss. Lesions distal to the DRG (plexus, nerve) cause SNAP loss.",
+    "pearl": "Sensory loss + normal SNAP \u2192 preganglionic lesion (root). Abnormal SNAP \u2192 postganglionic (plexus/nerve).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_07"
+    ]
+  },
+  {
+    "id": "W2D3-025",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Three months after a small stroke, a 70-year-old woman who initially lost sensation on her left side develops severe, burning, spontaneous pain in the same left hemibody, worsened by light touch. Where is the lesion most likely located?",
+    "choices": {
+      "A": "Left postcentral gyrus",
+      "B": "Right anterior white commissure",
+      "C": "Left dorsolateral fasciculus",
+      "D": "Right ventral posterolateral (VPL) nucleus of the thalamus",
+      "E": "Right nucleus gracilis"
+    },
+    "correct": "D",
+    "rationale": "Thalamic pain syndrome (Dejerine-Roussy) follows a lesion of VPL (often a posterior cerebral artery branch lacune): initial contralateral hemisensory loss followed by severe contralateral burning pain and allodynia. VPL is where both medial lemniscus and spinothalamic fibers synapse onto 3rd-order neurons.",
+    "pearl": "Contralateral hemisensory loss \u2192 later burning pain/allodynia = thalamic (VPL) stroke.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-026",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "After a focal lesion of the left postcentral gyrus, a patient still perceives that a noxious stimulus on the right hand is unpleasant, but cannot accurately tell where on the hand the stimulus occurred, how intense it is, or how long it lasted. Why is the unpleasantness preserved?",
+    "choices": {
+      "A": "The slow-pain (spino-reticulo-thalamic) pathway projects to the anterior cingulate gyrus and insula, which are intact",
+      "B": "The fast pain pathway bypasses the thalamus",
+      "C": "Pain fibers ascend ipsilaterally",
+      "D": "The dorsal columns compensate for lost pain localization",
+      "E": "The lesion is in the association cortex, causing agnosia"
+    },
+    "correct": "A",
+    "rationale": "The fast pain pathway (spinothalamic \u2192 VPL \u2192 postcentral gyrus) provides sensory-discriminative information: location, intensity, onset, duration. Postcentral gyrus lesions impair these. The affective-motivational component (slow pain) projects to the anterior cingulate and insula, which remain intact.",
+    "pearl": "Postcentral gyrus lesion \u2192 can't localize pain; cingulate/insula \u2192 affect of pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-027",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A patient with intractable cancer pain undergoes a procedure targeting a cortical region. Afterward, he reports that he can still feel and localize the pain, but it \"no longer bothers\" him. Which region was targeted?",
+    "choices": {
+      "A": "Primary somatosensory cortex",
+      "B": "Primary motor cortex",
+      "C": "Calcarine cortex",
+      "D": "Superior temporal gyrus",
+      "E": "Anterior cingulate gyrus"
+    },
+    "correct": "E",
+    "rationale": "The anterior cingulate gyrus (with the insula) mediates the appreciation of the disturbing, emotional quality of pain. Cingulotomy reduces suffering while leaving discriminative perception (postcentral gyrus) intact\u2014an illustration of the dual fast/slow organization.",
+    "pearl": "Cingulate/insula lesion \u2192 \"pain asymbolia\": feel it, but don't mind it.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_02"
+    ]
+  },
+  {
+    "id": "W2D3-028",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 64-year-old man has sudden vertigo, dysphagia, hoarseness, ipsilateral (left) Horner syndrome, left limb ataxia, and loss of pain and temperature on the right side of his body. Vibration and proprioception are intact bilaterally. Which brainstem region contains the damaged ascending body pain fibers?",
+    "choices": {
+      "A": "Medial medulla (medial lemniscus)",
+      "B": "Midbrain tegmentum near the red nucleus",
+      "C": "Caudal pons, medial tegmentum",
+      "D": "Left lateral medulla (spinothalamic tract)",
+      "E": "Right dorsal columns of the cervical cord"
+    },
+    "correct": "D",
+    "rationale": "In the medulla, the spinothalamic tract (ALS) runs laterally, whereas the medial lemniscus is medial. Lateral medullary (Wallenberg) syndrome (PICA/vertebral) damages the ALS \u2192 contralateral body P&T loss, while the medial lemniscus is spared \u2192 touch/vibration intact. Other findings: nucleus ambiguus (dysphagia, hoarseness), descending sympathetics (Horner), inferior cerebellar peduncle (ataxia), vestibular nuclei (vertigo).",
+    "pearl": "Medulla: ALS lateral, ML medial. Lateral lesions spare touch; medial lesions spare pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_04"
+    ]
+  },
+  {
+    "id": "W2D3-029",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A 45-year-old woman with acute cholecystitis has right upper quadrant pain that also radiates to the tip of her right shoulder. Irritation of which nerve, and which spinal levels, explains the shoulder pain?",
+    "choices": {
+      "A": "Greater splanchnic nerve; T5\u2013T9",
+      "B": "Phrenic nerve; C3\u2013C5",
+      "C": "Vagus nerve; brainstem",
+      "D": "Intercostal nerve; T10",
+      "E": "Pelvic splanchnic nerves; S2\u2013S4"
+    },
+    "correct": "B",
+    "rationale": "Inflammation of the gallbladder irritating the diaphragmatic peritoneum activates phrenic nerve afferents (C3\u2013C5). The C3\u2013C5 dorsal horn neurons also receive somatic input from the shoulder (supraclavicular nerves, C3\u2013C4), so pain is referred to the shoulder tip (convergence-projection). Visceral gallbladder pain itself enters via splanchnic nerves (T5\u2013T9) to epigastrium/RUQ.",
+    "pearl": "Diaphragmatic irritation (gallbladder, spleen rupture\u2014Kehr sign) \u2192 shoulder tip pain (C3\u2013C5).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_06"
+    ]
+  },
+  {
+    "id": "W2D3-030",
+    "topic": "Pain Pathways / ALS",
+    "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "Medium",
+    "stem": "A neurologist wants to determine the precise upper border of a spinothalamic tract lesion in a patient with suspected cord compression. Which bedside test most directly assesses this pathway for localization?",
+    "choices": {
+      "A": "128-Hz tuning fork at the toes",
+      "B": "Joint position sense of the great toe",
+      "C": "Pin-prick sensation, testing upward to find a sensory level",
+      "D": "Graphesthesia on the palm",
+      "E": "Romberg test"
+    },
+    "correct": "C",
+    "rationale": "Pin-prick tests the fast-pain spinothalamic pathway (A\u03b4), which is used for lesion localization\u2014identifying a sensory level (remembering it lies ~2 segments below the actual cord lesion). Vibration, joint position, and Romberg test the dorsal columns; graphesthesia tests parietal association cortex.",
+    "pearl": "Pin-prick (and temperature) \u2192 ALS; vibration/proprioception \u2192 DCML.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_PAIN_03"
+    ]
   }
 ];
