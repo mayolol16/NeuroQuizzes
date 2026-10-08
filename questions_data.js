@@ -9898,5 +9898,1985 @@ window.ALL_QUESTIONS = [
     "learning_objectives": [
       "LO_NEURO_E1_W2_PAIN_03"
     ]
+  },
+  {
+    "id": "W2D4-001",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old man presents with loss of fine touch and vibration sensation on the right side of his face. Pain and temperature sensation are completely intact. A lesion is suspected in the brainstem. Which of the following nuclei is most likely affected?",
+    "choices": {
+      "A": "Chief sensory nucleus of V",
+      "B": "Spinal trigeminal nucleus",
+      "C": "Trigeminal motor nucleus",
+      "D": "Mesencephalic nucleus of V",
+      "E": "Facial nucleus"
+    },
+    "correct": "A",
+    "rationale": "The chief (main) sensory nucleus of the trigeminal nerve is located in the midpons and is responsible for processing fine touch, tactile, and proprioceptive information from the ipsilateral face. A lesion here would cause ipsilateral loss of tactile sensation while sparing pain and temperature (processed by the spinal trigeminal nucleus in the medulla).",
+    "pearl": "Chief sensory nucleus = Tactile/Touch (midpons). Spinal trigeminal nucleus = Pain/Temperature (medulla).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-002",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old woman has a stroke affecting the thalamus. She experiences complete loss of all sensation (touch, pain, and temperature) on the left side of her face. Which specific thalamic nucleus was most likely destroyed?",
+    "choices": {
+      "A": "Ventral posteromedial (VPM) nucleus",
+      "B": "Ventral posterolateral (VPL) nucleus",
+      "C": "Ventral anterior (VA) nucleus",
+      "D": "Medial geniculate nucleus (MGN)",
+      "E": "Lateral geniculate nucleus (LGN)"
+    },
+    "correct": "A",
+    "rationale": "The ventral posteromedial (VPM) nucleus of the thalamus receives second-order fibers from the trigeminal system (via the ventral trigeminothalamic tract) carrying all sensory modalities (tactile, pain, temperature) from the contralateral face. The VPL receives sensory input from the body.",
+    "pearl": "VPM = Face sensation (Makeup goes on the face). VPL = Body sensation (Legs/Limbs).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-003",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man develops a demyelinating plaque localized to the lateral aspect of the midpons. Which of the following functions would most likely be directly impaired?",
+    "choices": {
+      "A": "Synapsing of primary tactile afferents from the face",
+      "B": "Synapsing of primary pain afferents from the face",
+      "C": "Decussation of the medial lemniscus",
+      "D": "Cell bodies of the jaw-jerk reflex efferents",
+      "E": "Synapsing of third-order neurons to the cortex"
+    },
+    "correct": "A",
+    "rationale": "The midpons is the level at which the trigeminal nerve (CN V) enters the brainstem and is the location of the Chief Sensory Nucleus of V. Primary tactile afferents synapse here. Pain afferents enter at the midpons but travel caudally to the medulla to synapse in the spinal trigeminal nucleus.",
+    "pearl": "CN V enters at the midpons. The chief sensory nucleus is also in the midpons, right where it enters.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-004",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with chronic migraine reports that lightly brushing her hair during an attack causes severe, burning pain. This phenomenon, where a normally non-painful stimulus elicits pain, is best described as:",
+    "choices": {
+      "A": "Allodynia",
+      "B": "Hyperalgesia",
+      "C": "Neuropathy",
+      "D": "Paresthesia",
+      "E": "Anesthesia dolorosa"
+    },
+    "correct": "A",
+    "rationale": "Allodynia is the perception of pain from a stimulus that does not normally provoke pain (e.g., light touch or brushing). This occurs due to central sensitization, where mechanoreceptor (A-beta) fibers begin to activate sensitized pain pathways.",
+    "pearl": "Allodynia = \"Allo\" (other) + \"dynia\" (pain); normal stimulus -> pain. Hyperalgesia = painful stimulus -> exaggerated pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-005",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a neurological exam, the physician touches a wisp of cotton to the patient's right cornea. The patient blinks bilaterally. Which of the following nerves carries the afferent limb of this reflex?",
+    "choices": {
+      "A": "Ophthalmic division (V1)",
+      "B": "Maxillary division (V2)",
+      "C": "Mandibular division (V3)",
+      "D": "Facial nerve (VII)",
+      "E": "Optic nerve (II)"
+    },
+    "correct": "A",
+    "rationale": "The corneal reflex has its afferent limb carried by the ophthalmic division of the trigeminal nerve (V1), which senses the touch on the cornea. The efferent limb, which causes the orbicularis oculi muscles to contract (blinking), is carried by the facial nerve (CN VII).",
+    "pearl": "Corneal reflex: Afferent = V1 (feels the touch), Efferent = VII (closes the eye).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-006",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Primary afferent fibers carrying pain and temperature sensation from the face enter the brainstem at the midpons. Which tract do these fibers travel in to reach their target nucleus?",
+    "choices": {
+      "A": "Spinal trigeminal tract",
+      "B": "Ventral trigeminothalamic tract",
+      "C": "Medial lemniscus",
+      "D": "Spinothalamic tract",
+      "E": "Central tegmental tract"
+    },
+    "correct": "A",
+    "rationale": "First-order pain and temperature fibers from the face enter the midpons via CN V and immediately turn caudally to form the spinal trigeminal tract. They descend to the caudal medulla to synapse in the spinal trigeminal nucleus.",
+    "pearl": "The spinal trigeminal TRACT contains 1st order pain/temp fibers descending. The nucleus contains the 2nd order cell bodies.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-007",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old woman is diagnosed with syringobulbia, resulting in an expanding cavity within the lower medulla. She loses pain and temperature sensation on the right side of her face. The cavity most likely destroyed which of the following structures?",
+    "choices": {
+      "A": "Chief sensory nucleus of V",
+      "B": "Spinal trigeminal nucleus",
+      "C": "Mesencephalic nucleus of V",
+      "D": "Trigeminal ganglion",
+      "E": "Ventral posteromedial (VPM) nucleus"
+    },
+    "correct": "B",
+    "rationale": "The spinal trigeminal nucleus is located in the medulla (extending down into the upper cervical cord) and receives first-order pain and temperature fibers from the ipsilateral face. Destruction of this nucleus in the medulla causes ipsilateral facial analgesia.",
+    "pearl": "The spinal trigeminal nucleus is the facial equivalent of the dorsal horn of the spinal cord (for pain/temp).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-008",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "In the trigeminal pain and temperature pathway, where does the synapse between the first-order and second-order neurons occur?",
+    "choices": {
+      "A": "Midpons",
+      "B": "Caudal Medulla",
+      "C": "Thalamus",
+      "D": "Trigeminal Ganglion",
+      "E": "Midbrain"
+    },
+    "correct": "B",
+    "rationale": "Pain and temperature fibers from the face enter at the midpons, travel down the spinal trigeminal tract, and synapse in the spinal trigeminal nucleus, which is located in the caudal medulla.",
+    "pearl": "Tactile synapses in the midpons; Pain/temp synapses in the medulla. Both enter at the midpons.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-009",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient is tested for the jaw-jerk reflex. Tapping on the chin with the mouth slightly open elicits a brisk closure of the jaw. The cell bodies of the primary afferent neurons for this proprioceptive reflex are uniquely located in which of the following structures?",
+    "choices": {
+      "A": "Trigeminal ganglion",
+      "B": "Mesencephalic nucleus of V",
+      "C": "Chief sensory nucleus of V",
+      "D": "Trigeminal motor nucleus",
+      "E": "Dorsal root ganglion"
+    },
+    "correct": "B",
+    "rationale": "The mesencephalic nucleus of V is unique because it is the only instance in the CNS where primary sensory cell bodies (pseudounipolar neurons) are located inside the central nervous system rather than in a peripheral ganglion. They carry proprioception from the muscles of mastication (afferent limb of jaw-jerk reflex).",
+    "pearl": "Mesencephalic nucleus = CNS equivalent of a dorsal root ganglion for jaw proprioception.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-010",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Following a severe burn to the hand, a patient reports that a mildly painful pinprick in the affected area now feels excruciatingly painful. This exaggerated response to a noxious stimulus is called:",
+    "choices": {
+      "A": "Allodynia",
+      "B": "Hyperalgesia",
+      "C": "Hypoalgesia",
+      "D": "Neuropathy",
+      "E": "Causalgia"
+    },
+    "correct": "B",
+    "rationale": "Hyperalgesia is an increased pain response to a stimulus that is normally painful (noxious). This is a hallmark of peripheral sensitization, where inflammatory mediators lower the threshold of nociceptors, making them fire more robustly to pain.",
+    "pearl": "Hyperalgesia = increased response to painful stimulus. Allodynia = pain from non-painful stimulus.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-011",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old man presents with a right-sided facial droop and is diagnosed with Bell's palsy. When the right cornea is touched with a cotton wisp, which of the following responses is expected?",
+    "choices": {
+      "A": "Right eye blinks, left eye does not",
+      "B": "Left eye blinks, right eye does not",
+      "C": "Both eyes blink",
+      "D": "Neither eye blinks",
+      "E": "The jaw twitches"
+    },
+    "correct": "B",
+    "rationale": "In a right CN VII (facial nerve) palsy, the efferent limb on the right is damaged. Touching the right cornea still sends the afferent signal via V1 to the brainstem (intact), which communicates bilaterally to the facial nuclei. The left facial nucleus and nerve are intact, so the left eye blinks (consensual reflex). The right eye cannot blink due to the CN VII palsy.",
+    "pearl": "Afferent = V1 (sensing). Efferent = VII (blinking). Damage to VII abolishes the blink only on the affected side.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-012",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient requires dental work and receives a local anesthetic injection near the mandibular foramen. The cell bodies of the neurons transmitting tactile sensation from the lower teeth are located in the:",
+    "choices": {
+      "A": "Mesencephalic nucleus",
+      "B": "Trigeminal ganglion",
+      "C": "Chief sensory nucleus",
+      "D": "Spinal trigeminal nucleus",
+      "E": "Geniculate ganglion"
+    },
+    "correct": "B",
+    "rationale": "The trigeminal ganglion (Gasserian ganglion) contains the cell bodies of first-order sensory neurons carrying tactile, pain, and temperature sensation for all three divisions of the trigeminal nerve (V1, V2, V3), except for proprioception, which resides in the mesencephalic nucleus.",
+    "pearl": "Trigeminal ganglion = facial equivalent of the dorsal root ganglion for touch/pain/temp.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-013",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Second-order neurons for both the trigeminal tactile and pain pathways project their axons to the contralateral thalamus. These decussating and ascending fibers travel together in which of the following tracts?",
+    "choices": {
+      "A": "Medial lemniscus",
+      "B": "Spinothalamic tract",
+      "C": "Ventral trigeminothalamic tract",
+      "D": "Spinal trigeminal tract",
+      "E": "Central tegmental tract"
+    },
+    "correct": "C",
+    "rationale": "Axons from the chief sensory nucleus (tactile) and the spinal trigeminal nucleus (pain/temp) decussate across the midline and ascend together in the Ventral Trigeminothalamic Tract (VTT) to reach the contralateral VPM of the thalamus.",
+    "pearl": "VTT carries contralateral touch AND pain/temp from the face to the VPM.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-014",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Third-order neurons in the trigeminal sensory pathway have cell bodies in the VPM of the thalamus. Where do these axons primarily terminate?",
+    "choices": {
+      "A": "Precentral gyrus",
+      "B": "Superior temporal gyrus",
+      "C": "Postcentral gyrus",
+      "D": "Cingulate gyrus",
+      "E": "Occipital pole"
+    },
+    "correct": "C",
+    "rationale": "Third-order neurons from the VPM project through the posterior limb of the internal capsule to the primary somatosensory cortex, located in the postcentral gyrus of the parietal lobe. The face representation is located on the lateral aspect of this gyrus.",
+    "pearl": "Postcentral gyrus = Primary Somatosensory Cortex (S1). Face is lateral; legs are medial (paracentral lobule).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-015",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with an upper motor neuron lesion exhibits a hyperactive jaw-jerk reflex. Which of the following provides the efferent (motor) limb of this reflex?",
+    "choices": {
+      "A": "Facial nerve (CN VII)",
+      "B": "Hypoglossal nerve (CN XII)",
+      "C": "Trigeminal motor nucleus (CN V)",
+      "D": "Nucleus ambiguus",
+      "E": "Oculomotor nerve (CN III)"
+    },
+    "correct": "C",
+    "rationale": "The jaw-jerk reflex is a monosynaptic stretch reflex. The afferent limb is carried by Ia fibers with cell bodies in the mesencephalic nucleus, which synapse directly on the trigeminal motor nucleus. The efferent limb is carried by the motor root of V3 (mandibular division) to the muscles of mastication.",
+    "pearl": "Jaw-jerk reflex: Afferent = V3 (mesencephalic nucleus) -> Efferent = V3 (motor nucleus).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-016",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Following tissue injury, local release of prostaglandins, bradykinin, and histamine lowers the threshold of local nociceptors. This phenomenon is best termed:",
+    "choices": {
+      "A": "Central sensitization",
+      "B": "Allodynia",
+      "C": "Peripheral sensitization",
+      "D": "Wind-up phenomenon",
+      "E": "Neuropathic pain"
+    },
+    "correct": "C",
+    "rationale": "Peripheral sensitization occurs at the site of tissue injury where an \"inflammatory soup\" of chemicals (prostaglandins, bradykinin, histamine, substance P, CGRP) lowers the activation threshold of peripheral nociceptors (primary afferents), leading to primary hyperalgesia.",
+    "pearl": "Peripheral sensitization = local inflammatory soup acting on nerve endings. Central sensitization = changes in the spinal cord/brainstem synapses (NMDA, wind-up).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-017",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 65-year-old man presents with sudden onset vertigo, ataxia, and hoarseness. Neurological exam reveals loss of pain and temperature sensation on the LEFT side of his face and the RIGHT side of his body. An infarct in the lateral medulla is suspected. What is the name of this classic brainstem syndrome?",
+    "choices": {
+      "A": "Weber syndrome",
+      "B": "Medial medullary syndrome",
+      "C": "Wallenberg syndrome",
+      "D": "Locked-in syndrome",
+      "E": "Benedikt syndrome"
+    },
+    "correct": "C",
+    "rationale": "Wallenberg syndrome (Lateral Medullary Syndrome) is classically caused by occlusion of the PICA. It damages the spinal trigeminal tract/nucleus (causing ipsilateral facial pain/temp loss) and the adjacent spinothalamic tract (causing contralateral body pain/temp loss). This pattern is called \"alternating hemianalgesia.\"",
+    "pearl": "Lateral Medullary (Wallenberg) Syndrome = PICA infarct = Alternating hemianalgesia (ipsi face, contra body).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-018",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Fast, sharp, well-localized facial pain, such as from a needle stick, is primarily transmitted from the periphery to the trigeminal ganglion by which type of nerve fibers?",
+    "choices": {
+      "A": "A-alpha fibers",
+      "B": "A-beta fibers",
+      "C": "A-delta fibers",
+      "D": "C fibers",
+      "E": "B fibers"
+    },
+    "correct": "C",
+    "rationale": "A-delta fibers are lightly myelinated, fast-conducting fibers that transmit sharp, acute, well-localized \"first pain.\" C fibers are unmyelinated and slow-conducting, transmitting dull, aching, poorly localized \"second pain.\" A-beta fibers transmit non-painful tactile sensations.",
+    "pearl": "A-delta = Acute, sharp pain (myelinated). C fibers = Chronic, dull, aching pain (unmyelinated).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_02"
+    ]
+  },
+  {
+    "id": "W2D4-019",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Which of the following neurotransmitters/neuropeptides are primarily released by first-order nociceptive (C-fiber) terminals at their synapse in the spinal trigeminal nucleus to relay pain signals?",
+    "choices": {
+      "A": "Acetylcholine and Dopamine",
+      "B": "GABA and Glycine",
+      "C": "Serotonin and Norepinephrine",
+      "D": "Glutamate and Substance P",
+      "E": "Enkephalin and Dynorphin"
+    },
+    "correct": "D",
+    "rationale": "First-order pain afferents (C fibers) release excitatory neurotransmitters, primarily Glutamate (acting on AMPA and NMDA receptors) and neuropeptides like Substance P and CGRP, into the synaptic cleft at the spinal trigeminal nucleus (and dorsal horn of the spinal cord) to activate second-order pain neurons.",
+    "pearl": "Substance P and Glutamate are the primary excitatory neurotransmitters for pain transmission at the first synapse.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-020",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Repeated, high-frequency stimulation of nociceptors leads to a progressive increase in the discharge rate of second-order neurons in the brainstem or spinal cord. This \"wind-up\" phenomenon is heavily dependent on the activation of which receptor?",
+    "choices": {
+      "A": "GABA-A",
+      "B": "Muscarinic M1",
+      "C": "Dopamine D2",
+      "D": "NMDA (Glutamate)",
+      "E": "AMPA (Glutamate)"
+    },
+    "correct": "D",
+    "rationale": "\"Wind-up\" is a form of central sensitization. Massive release of glutamate from prolonged pain stimuli removes the Mg2+ block from NMDA receptors on second-order neurons, allowing calcium influx. This calcium cascade leads to long-term changes that make the neuron hypersensitive to subsequent inputs (central sensitization).",
+    "pearl": "Central sensitization and \"wind-up\" are driven by NMDA receptor activation and intracellular calcium influx.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-021",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient undergoes surgery for a parotid gland tumor. Postoperatively, she cannot clench her jaw on the right side, and her jaw deviates to the right when opened. Sensation over her entire face is intact. Which specific nerve branch was likely damaged?",
+    "choices": {
+      "A": "Facial nerve (CN VII)",
+      "B": "Ophthalmic division (V1)",
+      "C": "Maxillary division (V2)",
+      "D": "Mandibular division (V3)",
+      "E": "Chorda tympani"
+    },
+    "correct": "D",
+    "rationale": "The mandibular division of the trigeminal nerve (V3) is the ONLY division that carries branchial motor fibers. These fibers innervate the muscles of mastication (masseter, temporalis, medial/lateral pterygoids). Damage causes ipsilateral jaw weakness and deviation towards the side of the lesion (unopposed action of the contralateral lateral pterygoid).",
+    "pearl": "V3 is the only mixed division (sensory + motor). V1 and V2 are purely sensory. Jaw deviates TOWARDS the lesion.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-022",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old man experiences episodes of excruciating, lightning-like pain shooting across his right cheek and upper lip, triggered by brushing his teeth or chewing. This presentation is classic for trigeminal neuralgia. Which division of the trigeminal nerve is primarily affected in this patient?",
+    "choices": {
+      "A": "Optic nerve (II)",
+      "B": "Ophthalmic division (V1)",
+      "C": "Facial nerve (VII)",
+      "D": "Maxillary division (V2)",
+      "E": "Great auricular nerve"
+    },
+    "correct": "D",
+    "rationale": "The pain radiates across the cheek and upper lip, which is the dermatome supplied by the Maxillary division (V2) of the trigeminal nerve. V1 covers the forehead and cornea; V3 covers the jaw and lower lip. Trigeminal neuralgia often affects V2 or V3.",
+    "pearl": "V1 = Forehead/Eye, V2 = Cheek/Upper lip, V3 = Jaw/Lower lip. Trigeminal neuralgia involves severe, lancinating neuropathic pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-023",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a neuroanatomy dissection, a student traces the path of the trigeminal nerve. At which gross anatomical location does the trigeminal nerve emerge from the brainstem?",
+    "choices": {
+      "A": "Pontomedullary junction",
+      "B": "Interpeduncular fossa",
+      "C": "Caudal medulla",
+      "D": "Lateral midpons",
+      "E": "Dorsal midbrain"
+    },
+    "correct": "D",
+    "rationale": "The trigeminal nerve (CN V) classically emerges from the lateral aspect of the midpons as a large sensory root and a smaller motor root.",
+    "pearl": "CN V = Lateral midpons. CN VI, VII, VIII = Pontomedullary junction. CN III = Interpeduncular fossa.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-024",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A lesion completely transecting the right Ventral Trigeminothalamic Tract (VTT) in the upper pons will result in which of the following sensory deficits?",
+    "choices": {
+      "A": "Ipsilateral loss of facial tactile sensation only",
+      "B": "Ipsilateral loss of facial pain and temperature only",
+      "C": "Ipsilateral loss of all facial sensation",
+      "D": "Contralateral loss of all facial sensation (tactile, pain, temperature)",
+      "E": "Bilateral loss of facial pain and temperature"
+    },
+    "correct": "D",
+    "rationale": "The VTT carries decussated (crossed) second-order fibers from BOTH the chief sensory nucleus (tactile) and the spinal trigeminal nucleus (pain/temp). Therefore, a lesion of the VTT in the upper pons or midbrain will cause a complete contralateral loss of all somatosensation from the face.",
+    "pearl": "VTT lesion = CONTRALATERAL loss of touch AND pain/temp. Spinal trigeminal tract lesion = IPSILATERAL loss of pain/temp only.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-025",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with a brainstem stroke is found to have intact fine touch sensation on the left side of his face but a complete loss of pain and temperature sensation on the left side of his face. Where is the lesion most likely located?",
+    "choices": {
+      "A": "Right midpons",
+      "B": "Left VPM of the thalamus",
+      "C": "Right VPM of the thalamus",
+      "D": "Right caudal medulla",
+      "E": "Left caudal medulla"
+    },
+    "correct": "E",
+    "rationale": "Loss of pain/temperature with spared tactile sensation on the SAME side of the face implies a lesion of the first-order descending fibers or the second-order nucleus before decussation. This points to the ipsilateral (left) spinal trigeminal tract or nucleus, which is located in the medulla.",
+    "pearl": "Dissociated sensory loss on the face (pain/temp lost, touch spared) = Spinal Trigeminal Tract/Nucleus (Ipsilateral Medulla).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_04"
+    ]
+  },
+  {
+    "id": "W2D4-026",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A neurologist taps the chin of a patient, eliciting a brisk, exaggerated jaw-jerk reflex. In a healthy adult, this reflex is typically absent or very weak. A hyperactive jaw-jerk reflex strongly suggests a lesion in which of the following?",
+    "choices": {
+      "A": "Trigeminal ganglion",
+      "B": "Mesencephalic nucleus",
+      "C": "Trigeminal motor nucleus",
+      "D": "Neuromuscular junction",
+      "E": "Bilateral upper motor neurons projecting to the motor nucleus"
+    },
+    "correct": "E",
+    "rationale": "A hyperactive (brisk) jaw-jerk reflex is a classic sign of an Upper Motor Neuron (UMN) lesion above the level of the pons. Since the trigeminal motor nucleus receives bilateral UMN innervation, pseudobulbar palsy (bilateral UMN lesions) often presents with a brisk jaw jerk.",
+    "pearl": "Brisk jaw jerk = Bilateral UMN lesion (above the midpons). Absent jaw jerk = Normal, or LMN lesion (CN V3).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D4-027",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with long-standing diabetes develops burning, tingling pain in their feet despite having no active tissue injury or inflammation. This type of pain, caused by a primary lesion or dysfunction in the nervous system itself, is classified as:",
+    "choices": {
+      "A": "Nociceptive pain",
+      "B": "Inflammatory pain",
+      "C": "Referred pain",
+      "D": "Psychogenic pain",
+      "E": "Neuropathic pain"
+    },
+    "correct": "E",
+    "rationale": "Neuropathic pain arises as a direct consequence of a lesion or disease affecting the somatosensory system (e.g., diabetic peripheral neuropathy, post-herpetic neuralgia). It is characterized by burning, electric, or tingling sensations without obvious ongoing tissue damage.",
+    "pearl": "Nociceptive pain = tissue damage (somatic/visceral). Neuropathic pain = nerve damage (burning, tingling).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_05"
+    ]
+  },
+  {
+    "id": "W2D4-028",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "To reach the primary somatosensory cortex, third-order neurons from the VPM nucleus of the thalamus must project their axons through which white matter structure?",
+    "choices": {
+      "A": "Anterior limb of the internal capsule",
+      "B": "Genu of the internal capsule",
+      "C": "Corpus callosum",
+      "D": "Cerebral peduncle",
+      "E": "Posterior limb of the internal capsule"
+    },
+    "correct": "E",
+    "rationale": "All somatosensory radiation fibers from the thalamus (VPM for face, VPL for body) ascend to the postcentral gyrus by passing through the posterior limb of the internal capsule, continuing into the corona radiata.",
+    "pearl": "Posterior limb of internal capsule = Sensory (VPM/VPL to S1) and Motor (Corticospinal tract).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-029",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Which of the following components of the trigeminal system is correctly paired with its anatomical location?",
+    "choices": {
+      "A": "Chief sensory nucleus \u2014 Caudal medulla",
+      "B": "Spinal trigeminal nucleus \u2014 Midpons",
+      "C": "Trigeminal motor nucleus \u2014 Thalamus",
+      "D": "Trigeminal ganglion \u2014 Internal capsule",
+      "E": "Mesencephalic nucleus \u2014 Midbrain"
+    },
+    "correct": "E",
+    "rationale": "The mesencephalic nucleus of V is located in the midbrain (mesencephalon) and extends into the upper pons. The chief sensory nucleus is in the midpons. The spinal trigeminal nucleus is in the medulla. The trigeminal motor nucleus is in the midpons. The trigeminal ganglion is peripheral (Meckel's cave).",
+    "pearl": "Mesencephalic = Midbrain. Chief Sensory = Midpons. Spinal = Medulla.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_01"
+    ]
+  },
+  {
+    "id": "W2D4-030",
+    "topic": "Trigeminal Pathways",
+    "lecture": "4.1 Trigeminal Tactile & Pain",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 28-year-old woman with a history of multiple sclerosis presents with a loss of the corneal reflex in her left eye. When her left cornea is touched, neither eye blinks. When her right cornea is touched, both eyes blink. Where is the most likely location of the demyelinating plaque?",
+    "choices": {
+      "A": "Left facial nerve (VII)",
+      "B": "Right facial nerve (VII)",
+      "C": "Left medial longitudinal fasciculus (MLF)",
+      "D": "Right trigeminal nerve (V1)",
+      "E": "Left trigeminal nerve (V1)"
+    },
+    "correct": "E",
+    "rationale": "Touching the left cornea produces no response in either eye, meaning the afferent signal is not reaching the brainstem. This indicates a lesion in the left afferent limb (left CN V1). Touching the right cornea produces a normal bilateral blink, proving that the brainstem interneurons and both efferent limbs (left and right CN VII) are completely intact.",
+    "pearl": "Loss of direct AND consensual response when one side is stimulated = Afferent (V1) lesion on the stimulated side.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_TRIG_03"
+    ]
+  },
+  {
+    "id": "W2D5-001",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 28-year-old woman presents with recurrent, severe, throbbing headaches on the right side of her head. During these episodes, she is extremely nauseous and must lie down in a dark, quiet room. According to the diagnostic criteria for this primary headache disorder, what is the expected duration of an untreated attack?",
+    "choices": {
+      "A": "4 to 72 hours",
+      "B": "15 to 180 minutes",
+      "C": "30 minutes to 7 days",
+      "D": "Less than 15 minutes",
+      "E": "Continuous for > 3 months"
+    },
+    "correct": "A",
+    "rationale": "The patient has a classic migraine without aura (unilateral, pulsating, severe intensity, nausea, photophobia). According to ICHD-3 criteria, an untreated or unsuccessfully treated migraine attack lasts between 4 and 72 hours.",
+    "pearl": "Migraine duration: 4-72 hours. Cluster duration: 15-180 minutes. Tension duration: 30 mins to 7 days.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-002",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old woman with migraines takes a medication at the onset of a headache that successfully aborts the attack. The medication acts at the spinal trigeminal nucleus and on peripheral cranial blood vessels. What is the mechanism of action of this medication?",
+    "choices": {
+      "A": "5-HT 1B/1D receptor agonist",
+      "B": "CGRP receptor antagonist",
+      "C": "Calcium channel blocker",
+      "D": "GABA-A positive allosteric modulator",
+      "E": "Beta-1 adrenergic antagonist"
+    },
+    "correct": "A",
+    "rationale": "Triptans (e.g., sumatriptan) are acute treatments for migraine that act as selective serotonin 5-HT 1B/1D receptor agonists. They cause vasoconstriction of cranial vessels and inhibit the release of vasoactive peptides from the trigeminal nerve terminals.",
+    "pearl": "Triptans = 5-HT 1B/1D agonists.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-003",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 42-year-old man complains of frequent headaches that he describes as a \"tight band squeezing around my head.\" The pain is bilateral, dull, and mild to moderate in severity. He denies nausea, vomiting, or sensitivity to light. He can continue working through the pain. What is the most likely diagnosis?",
+    "choices": {
+      "A": "Tension-type headache",
+      "B": "Migraine without aura",
+      "C": "Cluster headache",
+      "D": "Medication overuse headache",
+      "E": "Trigeminal neuralgia"
+    },
+    "correct": "A",
+    "rationale": "Tension-type headache is the most common primary headache. It is characterized by bilateral, pressing/tightening (non-pulsating) pain of mild to moderate intensity. It is not aggravated by routine physical activity and lacks nausea, vomiting, and prominent photo/phonophobia.",
+    "pearl": "Tension headache = Bilateral, band-like, no N/V.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-004",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man presents to the emergency department with excruciating, stabbing pain behind his left eye that started 30 minutes ago. He is pacing the room in agitation. His left eye is tearing, red, and his left nostril is running. Which of the following is the most appropriate acute treatment?",
+    "choices": {
+      "A": "100% Oxygen via non-rebreather mask",
+      "B": "Oral sumatriptan",
+      "C": "Intravenous verapamil",
+      "D": "Oral ibuprofen",
+      "E": "Botulinum toxin injection"
+    },
+    "correct": "A",
+    "rationale": "The patient is experiencing a cluster headache attack (severe unilateral orbital pain, autonomic symptoms like lacrimation/rhinorrhea, and pacing/restlessness). First-line acute treatment is 100% oxygen via a non-rebreather mask. Subcutaneous (not oral) sumatriptan is also an option.",
+    "pearl": "Acute cluster headache treatment = 100% O2 or Subcutaneous Sumatriptan.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-005",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A researcher is studying the neurovascular mechanisms of primary headache disorders. They isolate a neuropeptide that is released from trigeminal nerve terminals, causing profound cranial vasodilation, mast cell degranulation, and neurogenic inflammation. Which of the following is the most likely neuropeptide?",
+    "choices": {
+      "A": "Calcitonin gene-related peptide (CGRP)",
+      "B": "Serotonin",
+      "C": "Dopamine",
+      "D": "GABA",
+      "E": "Norepinephrine"
+    },
+    "correct": "A",
+    "rationale": "Calcitonin gene-related peptide (CGRP), along with substance P and neurokinin A, is released by the trigeminovascular system during a migraine attack. It is a potent vasodilator and mediator of neurogenic inflammation.",
+    "pearl": "CGRP is the key neuropeptide mediating migraine pathophysiology.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_02"
+    ]
+  },
+  {
+    "id": "W2D5-006",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old female medical student suffers from migraines that occur 6-8 days per month, significantly impacting her studies. She requests a daily medication to reduce the frequency of her attacks. Which of the following is an appropriate first-line preventive medication?",
+    "choices": {
+      "A": "Propranolol",
+      "B": "Ubrogepant",
+      "C": "Sumatriptan",
+      "D": "Metoclopramide",
+      "E": "Ibuprofen"
+    },
+    "correct": "A",
+    "rationale": "Propranolol (a beta-blocker) is a first-line preventive (prophylactic) therapy for migraine, along with other options like topiramate, amitriptyline, and valproate. Ubrogepant, sumatriptan, metoclopramide, and ibuprofen are used for acute (abortive) treatment.",
+    "pearl": "Migraine prophylaxis: Beta-blockers, TCAs, Topiramate, Valproate, CGRP mAbs.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-007",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 38-year-old man presents with episodic, extremely severe, unilateral periorbital pain. He reports having 2 to 3 of these attacks daily for the past three weeks, usually waking him up at night. During an attack, which of the following behaviors is most characteristic of his condition?",
+    "choices": {
+      "A": "Lying perfectly still in a dark room",
+      "B": "Pacing the floor and rocking back and forth",
+      "C": "Massaging the temporal arteries",
+      "D": "Applying a warm compress to the neck",
+      "E": "Hyperventilating"
+    },
+    "correct": "B",
+    "rationale": "The patient has cluster headaches. A hallmark feature distinguishing cluster headaches from migraines is the patient's behavior: migraineurs typically seek a dark, quiet room and lie still to avoid exacerbating the pain, whereas patients with cluster headaches are profoundly restless, pacing, and agitated.",
+    "pearl": "Cluster headache = Restless, pacing. Migraine = Still, dark room.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-008",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with chronic migraine is started on a preventive therapy that involves a once-monthly subcutaneous injection. The medication is a monoclonal antibody (e.g., Erenumab). What is the primary target of this medication?",
+    "choices": {
+      "A": "5-HT 1B receptor",
+      "B": "CGRP or its receptor",
+      "C": "NMDA receptor",
+      "D": "Voltage-gated sodium channel",
+      "E": "Acetylcholinesterase"
+    },
+    "correct": "B",
+    "rationale": "Monoclonal antibodies for migraine prevention (Erenumab, Galcanezumab, Fremanezumab, Eptinezumab) target either the Calcitonin Gene-Related Peptide (CGRP) molecule itself or the CGRP receptor, preventing neurogenic inflammation and pain transmission.",
+    "pearl": "-mAbs for migraine (e.g., erenumab, galcanezumab) target the CGRP pathway.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-009",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 55-year-old man with a history of myocardial infarction and angina presents with a severe migraine. Which of the following acute migraine medications is strictly contraindicated in this patient?",
+    "choices": {
+      "A": "Ibuprofen",
+      "B": "Sumatriptan",
+      "C": "Acetaminophen",
+      "D": "Ubrogepant",
+      "E": "Prochlorperazine"
+    },
+    "correct": "B",
+    "rationale": "Triptans (e.g., sumatriptan) are 5-HT 1B/1D agonists that cause vasoconstriction. They are strictly contraindicated in patients with coronary artery disease (CAD), previous myocardial infarction, stroke, or peripheral vascular disease due to the risk of inducing severe vasospasm and ischemia.",
+    "pearl": "Triptans and ergotamines are contraindicated in cardiovascular disease. (Gepants and Ditans are generally safe alternatives).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-010",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old woman with chronic tension-type headaches desires daily preventive therapy. In addition to her headaches, she complains of poor sleep and mild depressive symptoms. Which of the following medications is most appropriate for headache prophylaxis in this patient?",
+    "choices": {
+      "A": "Verapamil",
+      "B": "Amitriptyline",
+      "C": "Sumatriptan",
+      "D": "Lithium",
+      "E": "Oxygen"
+    },
+    "correct": "B",
+    "rationale": "Amitriptyline is a tricyclic antidepressant (TCA) that is a first-line prophylactic treatment for tension-type headaches (and migraines). It is particularly useful in patients with comorbid insomnia or depression.",
+    "pearl": "Amitriptyline is the classic preventive therapy for Tension-type headaches.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-011",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 24-year-old woman requests a prescription for oral contraceptive pills (OCPs). She reports a history of migraines preceded by 30 minutes of seeing zig-zag lines and flashing lights. Why are estrogen-containing OCPs contraindicated in this patient?",
+    "choices": {
+      "A": "Increased risk of myocardial infarction",
+      "B": "Increased risk of ischemic stroke",
+      "C": "Increased risk of deep vein thrombosis",
+      "D": "Increased risk of medication overuse headache",
+      "E": "Decreased efficacy of the OCPs"
+    },
+    "correct": "B",
+    "rationale": "Women who suffer from migraine WITH AURA have an independently increased baseline risk of ischemic stroke. Adding estrogen-containing OCPs significantly multiplies this risk. Therefore, estrogen OCPs are contraindicated in patients with migraine with aura. (Progestin-only pills are safe).",
+    "pearl": "Migraine WITH aura + Estrogen OCPs = Unacceptable Ischemic Stroke Risk.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_05"
+    ]
+  },
+  {
+    "id": "W2D5-012",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old man who suffers from seasonal bouts of cluster headaches is seeking a daily medication to prevent the attacks from occurring during his current cluster period. Which of the following is the drug of choice for cluster headache prophylaxis?",
+    "choices": {
+      "A": "Topiramate",
+      "B": "Verapamil",
+      "C": "Amitriptyline",
+      "D": "Propranolol",
+      "E": "Ibuprofen"
+    },
+    "correct": "B",
+    "rationale": "Verapamil, a calcium channel blocker, is the first-line preventive (prophylactic) medication for cluster headaches. Lithium and galcanezumab are also used.",
+    "pearl": "Cluster headache: Acute = O2 / SC Triptan. Preventive = Verapamil.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-013",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman with a history of episodic migraines reports that her headaches have become almost daily over the last 6 months. She takes an over-the-counter combination analgesic (acetaminophen/aspirin/caffeine) every day. What is the most critical first step in managing her daily headaches?",
+    "choices": {
+      "A": "Start daily propranolol",
+      "B": "Order an MRI of the brain",
+      "C": "Discontinue the combination analgesic",
+      "D": "Switch her to a daily triptan",
+      "E": "Perform a lumbar puncture"
+    },
+    "correct": "C",
+    "rationale": "The patient has developed Medication Overuse Headache (MOH), also known as rebound headache, due to taking acute abortive medications for >15 days per month (or >8-10 days for triptans/combo pills). The essential treatment is to withdraw the offending acute medication.",
+    "pearl": "MOH occurs when acute meds are used >8-15 days/month. Treatment is discontinuation of the overused drug.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_04"
+    ]
+  },
+  {
+    "id": "W2D5-014",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with migraines cannot tolerate triptans due to severe chest tightness. Her physician prescribes an oral medication that acts as a small molecule, direct CGRP receptor antagonist for acute abortion of her migraine attacks. Which class of medication was prescribed?",
+    "choices": {
+      "A": "Triptans",
+      "B": "Monoclonal antibodies",
+      "C": "Gepants",
+      "D": "Ergot alkaloids",
+      "E": "NSAIDs"
+    },
+    "correct": "C",
+    "rationale": "\"Gepants\" (e.g., ubrogepant, rimegepant) are oral, small-molecule calcitonin gene-related peptide (CGRP) receptor antagonists used for the acute treatment of migraine. Unlike triptans, they do not cause vasoconstriction and are safe in patients with vascular disease.",
+    "pearl": "Gepants = oral CGRP antagonists for ACUTE treatment (some like rimegepant also for prevention).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-015",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a migraine attack, the sterile neurogenic inflammation that occurs around the meningeal blood vessels is sensed by primary afferent nerve fibers. These pain signals are transmitted to the CNS primarily via which cranial nerve?",
+    "choices": {
+      "A": "Facial nerve (VII)",
+      "B": "Glossopharyngeal nerve (IX)",
+      "C": "Trigeminal nerve (V)",
+      "D": "Vagus nerve (X)",
+      "E": "Hypoglossal nerve (XII)"
+    },
+    "correct": "C",
+    "rationale": "The meninges and cranial blood vessels are innervated by the ophthalmic (V1) and maxillary (V2) divisions of the Trigeminal nerve (CN V). The trigeminovascular system is the primary sensory pathway mediating the pain of a migraine.",
+    "pearl": "Migraine pain travels from the meninges to the brainstem via the Trigeminal nerve (CN V).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_02"
+    ]
+  },
+  {
+    "id": "W2D5-016",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 29-year-old woman describes episodes where she sees a bright, shimmering, zig-zag line in her visual field that slowly expands over 20 minutes, leaving a blind spot behind it. This resolves entirely, followed 30 minutes later by a severe, throbbing unilateral headache. The visual phenomenon is best described as:",
+    "choices": {
+      "A": "Amaurosis fugax",
+      "B": "Optic neuritis",
+      "C": "Migraine aura",
+      "D": "Retinal detachment",
+      "E": "Glaucoma"
+    },
+    "correct": "C",
+    "rationale": "This describes a classic visual aura (specifically, a scintillating scotoma). Auras are fully reversible neurological symptoms that typically develop gradually over 5-20 minutes and last less than 60 minutes, immediately preceding a migraine headache.",
+    "pearl": "Scintillating scotoma (zig-zag lines, fortification spectra) is the most common migraine aura.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-017",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old male college student complains of a mild, bilateral, pressing headache that occurs during finals week. He does not have nausea, and bright lights do not bother him. Which of the following is the most appropriate acute treatment?",
+    "choices": {
+      "A": "Oral sumatriptan",
+      "B": "100% Oxygen",
+      "C": "Oral ibuprofen",
+      "D": "Subcutaneous sumatriptan",
+      "E": "Ergotamine"
+    },
+    "correct": "C",
+    "rationale": "The patient's presentation is consistent with a tension-type headache (bilateral, pressing, mild/mod, no N/V). The first-line acute treatment for tension-type headache is a simple analgesic such as NSAIDs (ibuprofen, naproxen) or acetaminophen.",
+    "pearl": "Tension headache acute Rx = NSAIDs / Acetaminophen.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-018",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 50-year-old man presents with his first episode of severe, right-sided periorbital pain lasting 45 minutes, accompanied by right eye tearing and nasal congestion. He has never had headaches like this before. In addition to initiating acute treatment, what is the most appropriate next step in management?",
+    "choices": {
+      "A": "Prescribe daily ibuprofen",
+      "B": "Order a temporal artery biopsy",
+      "C": "Order an MRI of the brain",
+      "D": "Perform a lumbar puncture",
+      "E": "Reassure him that this is benign"
+    },
+    "correct": "C",
+    "rationale": "While the presentation is classic for a cluster headache, any patient presenting with a NEW onset of trigeminal autonomic cephalalgia (like cluster headache) requires neuroimaging (MRI of the brain with contrast) to rule out structural secondary causes (e.g., pituitary tumor, vascular malformation).",
+    "pearl": "New onset cluster headache ALWAYS requires an MRI of the brain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-019",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with frequent migraines is prescribed a preventive medication. A few weeks later, she complains of tingling in her fingers (paresthesias), weight loss, and difficulty finding words. Which medication was she most likely prescribed?",
+    "choices": {
+      "A": "Propranolol",
+      "B": "Amitriptyline",
+      "C": "Verapamil",
+      "D": "Topiramate",
+      "E": "Valproic acid"
+    },
+    "correct": "D",
+    "rationale": "Topiramate is an antiepileptic drug commonly used for migraine prophylaxis. Its notable side effects include paresthesias, weight loss, cognitive dulling (\"word-finding difficulty\"), and an increased risk of kidney stones.",
+    "pearl": "Topiramate side effects = Paresthesias, weight loss, cognitive dulling, kidney stones.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-020",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "To diagnose a migraine without aura according to ICHD-3 criteria, the headache must have certain features. If a patient's headache is unilateral, pulsating, and severe, but they DO NOT have photophobia or phonophobia, what other symptom MUST be present to make the diagnosis?",
+    "choices": {
+      "A": "Tearing of the eye",
+      "B": "Neck stiffness",
+      "C": "Ptosis",
+      "D": "Nausea and/or vomiting",
+      "E": "Visual aura"
+    },
+    "correct": "D",
+    "rationale": "ICHD-3 criteria for migraine require at least one of the following during the headache: 1) Nausea and/or vomiting, OR 2) Photophobia AND phonophobia. If the patient lacks light/sound sensitivity, they must have nausea or vomiting to meet the criteria.",
+    "pearl": "Migraine requires either (Nausea/Vomiting) OR (Photophobia + Phonophobia).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-021",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old man presents to the clinic with severe, stabbing pain around his right eye, tearing, and restlessness. He is diagnosed with a cluster headache. You order 100% oxygen, but he asks for a medication to stop the pain quickly. Which of the following is the most appropriate formulation?",
+    "choices": {
+      "A": "Oral sumatriptan",
+      "B": "Oral ibuprofen",
+      "C": "Intravenous verapamil",
+      "D": "Subcutaneous sumatriptan",
+      "E": "Oral amitriptyline"
+    },
+    "correct": "D",
+    "rationale": "Cluster headaches ramp up to excruciating severity very quickly (within minutes) and last a relatively short time (15-180 mins). Therefore, fast-acting therapies are required. Subcutaneous sumatriptan (or nasal spray) is the drug of choice for acute abortion, as oral triptans take too long to absorb and act.",
+    "pearl": "Acute cluster = Subcutaneous Triptan or Nasal spray (Oral takes too long).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-022",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 40-year-old woman is evaluating her headaches with a neurologist. She describes severe, throbbing pain on the left side of her head with nausea. Her attacks typically last for 1 hour before completely resolving on their own. Why does this NOT meet the classic ICHD-3 criteria for Migraine?",
+    "choices": {
+      "A": "Migraines are typically bilateral",
+      "B": "Migraines do not cause nausea",
+      "C": "The pain is described as throbbing",
+      "D": "The duration is too short",
+      "E": "She is female"
+    },
+    "correct": "D",
+    "rationale": "According to the ICHD-3 criteria, an untreated migraine attack must last between 4 and 72 hours. A headache lasting only 1 hour does not meet the criteria for migraine (and might prompt investigation for other etiologies or trigeminal autonomic cephalalgias).",
+    "pearl": "Migraine duration is strictly 4 to 72 hours.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-023",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Which of the following demographic profiles is most highly associated with cluster headaches?",
+    "choices": {
+      "A": "Young adult females",
+      "B": "Elderly females",
+      "C": "Adolescent males",
+      "D": "Young adult males",
+      "E": "Elderly males"
+    },
+    "correct": "D",
+    "rationale": "Cluster headaches are unique among the primary headache disorders in that they strongly predominate in men (historically a 4:1 male-to-female ratio), particularly young to middle-aged adult males. In contrast, migraines and tension-type headaches are more common in women.",
+    "pearl": "Cluster headache = Young adult males. Migraine = Young adult females.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-024",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 30-year-old woman presents to the ED with a severe migraine and intractable vomiting. She cannot keep any oral medications down. Which of the following intravenous medications treats both her nausea and aborts the migraine via dopamine and serotonin antagonism?",
+    "choices": {
+      "A": "Ondansetron",
+      "B": "Sumatriptan",
+      "C": "Ibuprofen",
+      "D": "Prochlorperazine",
+      "E": "Dexamethasone"
+    },
+    "correct": "D",
+    "rationale": "Prochlorperazine and metoclopramide are anti-emetics that act as dopamine receptor antagonists. However, they also possess specific anti-migraine properties (partly through 5-HT receptor modulation) and are excellent acute treatments in the emergency setting, especially when patients are actively vomiting.",
+    "pearl": "Prochlorperazine (Compazine) and Metoclopramide (Reglan) treat BOTH nausea and the migraine pain.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-025",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 27-year-old woman describes a headache as a \"pounding\" sensation strictly localized to her right temple. The pain is severe, scoring an 8/10. Which of the following primary headache disorders is most strongly characterized by unilateral, pulsating pain?",
+    "choices": {
+      "A": "Tension-type headache",
+      "B": "Cluster headache",
+      "C": "Trigeminal neuralgia",
+      "D": "Medication overuse headache",
+      "E": "Migraine"
+    },
+    "correct": "E",
+    "rationale": "The hallmarks of migraine pain are that it is unilateral (though it can be bilateral), pulsating/throbbing, and of moderate to severe intensity. Tension headaches are bilateral and non-pulsating. Cluster headaches are unilateral but typically described as stabbing/piercing, not pulsating.",
+    "pearl": "Migraine = Unilateral, Pulsating. Tension = Bilateral, Pressing/Tightening.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-026",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old woman has had headaches on 20 days per month for the last year. She limits her use of acute medications to twice a month. She is diagnosed with chronic migraine and wishes to pursue a procedural preventive treatment. Which of the following is FDA-approved, administered every 12 weeks, for this indication?",
+    "choices": {
+      "A": "Epidural steroid injection",
+      "B": "Occipital nerve block",
+      "C": "Trigger point injection with lidocaine",
+      "D": "Deep brain stimulation",
+      "E": "Onabotulinum toxin A (Botox) injections"
+    },
+    "correct": "E",
+    "rationale": "Onabotulinum toxin A (Botox) is an FDA-approved preventive treatment specifically for Chronic Migraine (>= 15 headache days/month). It is administered via 31 injections across the head and neck every 12 weeks.",
+    "pearl": "Botox is a proven preventive therapy specifically for Chronic Migraine.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-027",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient in the emergency department for a severe migraine is given an intravenous medication that is a non-selective serotonin receptor agonist and a potent vasoconstrictor derived from a fungus. What is the name of this medication?",
+    "choices": {
+      "A": "Sumatriptan",
+      "B": "Prochlorperazine",
+      "C": "Ubrogepant",
+      "D": "Ketorolac",
+      "E": "Dihydroergotamine (DHE)"
+    },
+    "correct": "E",
+    "rationale": "Dihydroergotamine (DHE) is an ergot alkaloid (derived from the ergot fungus) used for acute, intractable migraines. It acts as a non-selective 5-HT receptor agonist and is a potent vasoconstrictor. Like triptans, it is contraindicated in patients with cardiovascular disease.",
+    "pearl": "DHE = Ergot alkaloid, IV/Nasal rescue therapy for severe migraines. Contraindicated in CAD.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-028",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient is unsure if her headaches are migraines or severe tension-type headaches. According to diagnostic criteria, which of the following features is a requirement for Migraine but must specifically be ABSENT (or not aggravating) in Tension-Type Headache?",
+    "choices": {
+      "A": "Bilateral location",
+      "B": "Duration > 4 hours",
+      "C": "Female gender",
+      "D": "Triggered by stress",
+      "E": "Aggravation by routine physical activity"
+    },
+    "correct": "E",
+    "rationale": "A key distinguishing feature in the ICHD-3 criteria is that migraines are aggravated by (or cause avoidance of) routine physical activity (e.g., walking or climbing stairs). Tension-type headaches are explicitly NOT aggravated by routine physical activity.",
+    "pearl": "Migraineurs avoid movement (it hurts more). Tension headache sufferers can usually work through it.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D5-029",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 60-year-old man with frequent migraines has a history of severe coronary artery disease. He cannot take triptans. His neurologist prescribes a new acute therapy that is a selective 5-HT 1F receptor agonist, which lacks vasoconstrictive properties. Which drug was prescribed?",
+    "choices": {
+      "A": "Ubrogepant",
+      "B": "Erenumab",
+      "C": "Propranolol",
+      "D": "Sumatriptan",
+      "E": "Lasmiditan"
+    },
+    "correct": "E",
+    "rationale": "Lasmiditan is a \"-ditan\", a first-in-class selective 5-HT 1F receptor agonist. Unlike triptans (1B/1D agonists), it does not cause vasoconstriction and is safe to use in patients with cardiovascular disease. Note that it crosses the BBB and can cause dizziness (patients cannot drive for 8 hours).",
+    "pearl": "Lasmiditan = 5-HT 1F agonist. Safe in CAD. (No driving for 8 hours!).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_03"
+    ]
+  },
+  {
+    "id": "W2D5-030",
+    "topic": "Headache",
+    "lecture": "5.1 Headache",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient presents to the clinic complaining of near-daily headaches. To formally diagnose this patient with \"Chronic Migraine\", they must experience headache on at least how many days per month for >3 months?",
+    "choices": {
+      "A": "5 days/month",
+      "B": "8 days/month",
+      "C": "10 days/month",
+      "D": "12 days/month",
+      "E": "15 days/month"
+    },
+    "correct": "E",
+    "rationale": "Chronic migraine is defined as having a headache on >= 15 days per month for > 3 months (with at least 8 of those days having migrainous features). If it is < 15 days/month, it is considered Episodic Migraine.",
+    "pearl": "Chronic Migraine definition = >= 15 headache days/month for > 3 months.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_HA_01"
+    ]
+  },
+  {
+    "id": "W2D6-001",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An anesthesiologist employs a \"balanced anesthesia\" technique for a patient undergoing abdominal surgery. This involves using multiple different drug classes at lower doses. Which of the following best describes the four primary goals of this technique?",
+    "choices": {
+      "A": "Amnesia, Analgesia, Akinesia, Areflexia",
+      "B": "Anesthesia, Analgesia, Autonomic stability, Arousal",
+      "C": "Amnesia, Autonomic stability, Areflexia, Airway protection",
+      "D": "Analgesia, Anesthesia, Airway protection, Acid-base balance",
+      "E": "Akinesia, Autonomic stability, Acid-base balance, Arousal"
+    },
+    "correct": "A",
+    "rationale": "Balanced anesthesia utilizes a combination of agents (e.g., midazolam for amnesia, fentanyl for analgesia, propofol for unconsciousness, and paralytics for akinesia) to achieve the \"Four A's\": Amnesia (no memory), Analgesia (no pain), Akinesia (muscle relaxation), and Areflexia (suppression of autonomic and somatic reflexes).",
+    "pearl": "The Four A's of balanced anesthesia: Amnesia, Analgesia, Akinesia, Areflexia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_01"
+    ]
+  },
+  {
+    "id": "W2D6-002",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A new inhaled volatile anesthetic is being tested. Researchers find that the drug is highly soluble in lipids (high lipid:gas partition coefficient). Based on this property, how will its Minimum Alveolar Concentration (MAC) compare to a drug with low lipid solubility?",
+    "choices": {
+      "A": "It will have a lower MAC and higher potency",
+      "B": "It will have a higher MAC and lower potency",
+      "C": "It will have a lower MAC and lower potency",
+      "D": "It will have a higher MAC and higher potency",
+      "E": "MAC is entirely independent of lipid solubility"
+    },
+    "correct": "A",
+    "rationale": "The lipid:gas partition coefficient indicates how easily the drug dissolves in lipids and crosses the blood-brain barrier. It is inversely proportional to MAC. A highly lipid-soluble drug requires a very low concentration (low MAC) in the alveoli to achieve anesthesia, meaning it is highly potent.",
+    "pearl": "MAC = 1 / Lipid Solubility. High lipid solubility = High potency = Low MAC.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_02"
+    ]
+  },
+  {
+    "id": "W2D6-003",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Twenty minutes after induction of general anesthesia with sevoflurane and succinylcholine, a patient suddenly develops extreme muscle rigidity, tachycardia, and a rapidly rising core body temperature. Capnography shows a dramatic increase in exhaled CO2. Which of the following is the most appropriate definitive treatment?",
+    "choices": {
+      "A": "Dantrolene",
+      "B": "Neostigmine",
+      "C": "Sugammadex",
+      "D": "Flumazenil",
+      "E": "Naloxone"
+    },
+    "correct": "A",
+    "rationale": "The patient is experiencing malignant hyperthermia, a life-threatening hypermetabolic state triggered by volatile anesthetics (sevoflurane) and depolarizing neuromuscular blockers (succinylcholine) in susceptible individuals (RYR1 mutation). The antidote is dantrolene, which blocks calcium release from the sarcoplasmic reticulum ryanodine receptors.",
+    "pearl": "Malignant hyperthermia trigger = Halogenated anesthetics + Succinylcholine. Antidote = Dantrolene.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_06"
+    ]
+  },
+  {
+    "id": "W2D6-004",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A morbidly obese patient requires an inhaled anesthetic that will allow for the most rapid emergence (wake-up) after a long surgery. Which of the following agents is best suited for this purpose due to its extremely low blood:gas partition coefficient?",
+    "choices": {
+      "A": "Desflurane",
+      "B": "Halothane",
+      "C": "Isoflurane",
+      "D": "Sevoflurane",
+      "E": "Enflurane"
+    },
+    "correct": "A",
+    "rationale": "The speed of induction and emergence of an inhaled anesthetic is inversely proportional to its blood:gas partition coefficient (blood solubility). Desflurane has the lowest blood:gas coefficient (0.45) of the volatile agents, meaning very little dissolves in the blood; it rapidly equilibrates with the brain and is rapidly exhaled, leading to fast emergence.",
+    "pearl": "Low blood solubility = Fast induction & Fast recovery. Desflurane and N2O are the fastest.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_03"
+    ]
+  },
+  {
+    "id": "W2D6-005",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 4-year-old child requires brief sedation for the placement of tympanostomy tubes. The anesthesiologist chooses an intravenous agent that provides excellent analgesia and preserves respiratory drive but causes the patient to appear awake yet completely disconnected from their environment. Which drug was used?",
+    "choices": {
+      "A": "Ketamine",
+      "B": "Propofol",
+      "C": "Etomidate",
+      "D": "Thiopental",
+      "E": "Midazolam"
+    },
+    "correct": "A",
+    "rationale": "Ketamine is an NMDA receptor antagonist that produces \"dissociative anesthesia.\" The patient appears awake (eyes open) but is unresponsive to pain. It is unique among IV induction agents because it provides profound analgesia and maintains respiratory drive. A notable side effect on emergence is vivid hallucinations/nightmares.",
+    "pearl": "Ketamine = Dissociative anesthesia, NMDA antagonist, preserves breathing, causes hallucinations.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_04"
+    ]
+  },
+  {
+    "id": "W2D6-006",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a rapid sequence intubation, an anesthesiologist administers an intravenous paralytic agent. The patient's skeletal muscles immediately exhibit brief, generalized twitches before becoming completely flaccid. What is the mechanism of action of this paralytic agent?",
+    "choices": {
+      "A": "Agonist at nicotinic acetylcholine receptors",
+      "B": "Competitive antagonist at nicotinic acetylcholine receptors",
+      "C": "Inhibitor of acetylcholinesterase",
+      "D": "Blocker of voltage-gated calcium channels",
+      "E": "Activator of GABA-A receptors"
+    },
+    "correct": "A",
+    "rationale": "The drug is succinylcholine, a depolarizing neuromuscular blocker. It acts as a strong agonist at the postsynaptic nicotinic acetylcholine receptors at the neuromuscular junction, causing an initial depolarization (visible as muscle fasciculations or twitches) followed by persistent depolarization and flaccid paralysis (Phase I block).",
+    "pearl": "Succinylcholine = Depolarizing blocker. Causes initial fasciculations before paralysis.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-007",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An anesthesiologist is comparing two volatile anesthetics: Agent X has a blood:gas partition coefficient of 2.5, and Agent Y has a blood:gas partition coefficient of 0.5. Assuming equipotent dosing, which of the following statements is true regarding Agent Y compared to Agent X?",
+    "choices": {
+      "A": "Agent Y will have a higher MAC",
+      "B": "Agent Y will have a faster speed of induction",
+      "C": "Agent Y is more lipid soluble",
+      "D": "Agent Y requires liver metabolism for clearance",
+      "E": "Agent Y will cause slower emergence"
+    },
+    "correct": "B",
+    "rationale": "The blood:gas partition coefficient indicates how soluble the gas is in the blood. A lower blood:gas partition coefficient (like Agent Y's 0.5) means the gas does not dissolve easily in blood, allowing the partial pressure to rise rapidly in the blood and brain. This results in a faster speed of induction (and emergence).",
+    "pearl": "Blood solubility (blood:gas coefficient) dictates SPEED. Lower solubility = Faster induction/emergence.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_03"
+    ]
+  },
+  {
+    "id": "W2D6-008",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with an unknown family history receives general anesthesia for an emergency appendectomy. He develops a life-threatening hypermetabolic reaction characterized by severe muscle rigidity, high fever, and hypercapnia. This syndrome was most likely triggered by which of the following combinations?",
+    "choices": {
+      "A": "Propofol and rocuronium",
+      "B": "Sevoflurane and succinylcholine",
+      "C": "Etomidate and vecuronium",
+      "D": "Ketamine and midazolam",
+      "E": "Nitrous oxide and fentanyl"
+    },
+    "correct": "B",
+    "rationale": "Malignant hyperthermia is triggered by the administration of halogenated volatile anesthetics (e.g., sevoflurane, isoflurane, halothane) and/or the depolarizing neuromuscular blocker succinylcholine.",
+    "pearl": "Triggers for Malignant Hyperthermia: Volatile anesthetics (-fluranes, halothane) and Succinylcholine.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_06"
+    ]
+  },
+  {
+    "id": "W2D6-009",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 35-year-old man requires induction of general anesthesia. The anesthesiologist administers a milky-white intravenous medication that produces rapid unconsciousness and a pleasant emergence, but causes a brief, profound drop in blood pressure and respiratory depression. The drug acts by potentiating GABA-A receptors. Which drug was given?",
+    "choices": {
+      "A": "Ketamine",
+      "B": "Propofol",
+      "C": "Etomidate",
+      "D": "Dexmedetomidine",
+      "E": "Thiopental"
+    },
+    "correct": "B",
+    "rationale": "Propofol is the most commonly used IV induction agent. It is formulated in a lipid emulsion (milky-white appearance). It rapidly induces unconsciousness by potentiating GABA-A receptors. Its main side effects are significant vasodilation causing hypotension and profound respiratory depression.",
+    "pearl": "Propofol = Milky white, fast acting GABA-A potentiator, causes hypotension.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_04"
+    ]
+  },
+  {
+    "id": "W2D6-010",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a prolonged abdominal surgery, the surgical team requests additional muscle relaxation. The anesthesiologist administers a drug that acts as a competitive antagonist at the postsynaptic nicotinic acetylcholine receptor. Which of the following drugs was most likely given?",
+    "choices": {
+      "A": "Succinylcholine",
+      "B": "Rocuronium",
+      "C": "Sugammadex",
+      "D": "Neostigmine",
+      "E": "Dantrolene"
+    },
+    "correct": "B",
+    "rationale": "Rocuronium (along with vecuronium, pancuronium) is a non-depolarizing neuromuscular blocking agent. It acts by competitively antagonizing acetylcholine at the nicotinic receptors of the neuromuscular junction, preventing depolarization and causing flaccid paralysis without initial fasciculations.",
+    "pearl": "\"-curonium\" drugs = Non-depolarizing, competitive AChR antagonists.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-011",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 22-year-old anxious patient is waiting in the preoperative holding area. The anesthesiologist gives an intravenous medication that provides profound anxiolysis and anterograde amnesia, ensuring the patient will not remember the trip to the operating room. Which medication was most likely administered?",
+    "choices": {
+      "A": "Propofol",
+      "B": "Midazolam",
+      "C": "Fentanyl",
+      "D": "Ketamine",
+      "E": "Etomidate"
+    },
+    "correct": "B",
+    "rationale": "Midazolam is a short-acting benzodiazepine commonly given in the preoperative area. It potentiates GABA-A receptors to provide excellent anxiolysis, sedation, and anterograde amnesia, which fulfills the \"Amnesia\" component of balanced anesthesia.",
+    "pearl": "Midazolam (Versed) = Pre-op anxiolysis and amnesia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_04"
+    ]
+  },
+  {
+    "id": "W2D6-012",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An inhaled anesthetic is characterized as having an extremely fast speed of induction but very low potency, such that its Minimum Alveolar Concentration (MAC) is actually greater than 100%. Which of the following is this anesthetic?",
+    "choices": {
+      "A": "Halothane",
+      "B": "Nitrous oxide",
+      "C": "Sevoflurane",
+      "D": "Isoflurane",
+      "E": "Desflurane"
+    },
+    "correct": "B",
+    "rationale": "Nitrous oxide (N2O) has a MAC of 104%, meaning that even if the patient breathed 100% N2O (which would cause hypoxia), it still wouldn't be potent enough to provide full surgical anesthesia in all patients. However, its very low blood:gas partition coefficient (0.46) gives it a very rapid onset and offset.",
+    "pearl": "Nitrous oxide (N2O) = Lowest potency (MAC 104%), rapid onset, good analgesia but incomplete anesthesia alone.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_02"
+    ]
+  },
+  {
+    "id": "W2D6-013",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Historically, an inhaled anesthetic was used that had a very high blood:gas partition coefficient (2.54) and a very high lipid:gas partition coefficient. Based on these properties, which of the following profiles accurately describes this drug?",
+    "choices": {
+      "A": "Slow induction, low potency",
+      "B": "Fast induction, high potency",
+      "C": "Slow induction, high potency",
+      "D": "Fast induction, low potency",
+      "E": "Minimal systemic absorption"
+    },
+    "correct": "C",
+    "rationale": "A high blood:gas partition coefficient means the drug is highly soluble in blood, so it takes a long time for the blood to saturate and the brain to equilibrate, resulting in SLOW induction and emergence. A high lipid:gas partition coefficient means it easily enters lipid membranes, giving it a low MAC and HIGH potency. (This describes Halothane).",
+    "pearl": "Halothane = Slow induction (high blood solubility) and High potency (high lipid solubility).",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_03"
+    ]
+  },
+  {
+    "id": "W2D6-014",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient under general anesthesia with sevoflurane (without the use of any paralytic agents) is tapped on the patellar tendon with a reflex hammer. The knee-jerk reflex is completely absent. What is the primary mechanism for the loss of this reflex?",
+    "choices": {
+      "A": "Blockade of postsynaptic nicotinic receptors at the NMJ",
+      "B": "Depletion of acetylcholine at the presynaptic terminal",
+      "C": "Profound CNS suppression of spinal reflexes via GABA-A/glycine enhancement",
+      "D": "Direct inhibition of muscle contraction via RYR1 blockade",
+      "E": "Peripheral nerve conduction block"
+    },
+    "correct": "C",
+    "rationale": "Volatile anesthetics like sevoflurane cause areflexia (suppression of somatic and autonomic reflexes) not by paralyzing the muscle at the neuromuscular junction, but by acting centrally in the spinal cord and brainstem. They profoundly enhance inhibitory neurotransmission (GABA-A and glycine), shutting down the reflex arcs in the CNS.",
+    "pearl": "Inhaled anesthetics block reflexes centrally in the spinal cord, achieving areflexia without NMJ blockade.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_01"
+    ]
+  },
+  {
+    "id": "W2D6-015",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 10-year-old boy undergoes an inhaled induction with an agent that smells sweet and is well-tolerated without airway irritation. Halfway through the surgery, his temperature spikes, and his muscles become rigid. Which of the following volatile anesthetics is the most likely trigger?",
+    "choices": {
+      "A": "Nitrous oxide",
+      "B": "Propofol",
+      "C": "Sevoflurane",
+      "D": "Ketamine",
+      "E": "Thiopental"
+    },
+    "correct": "C",
+    "rationale": "Sevoflurane is the most commonly used volatile anesthetic for inhaled induction in children because it is non-pungent and sweet-smelling. However, like all halogenated volatile anesthetics, it is a potent trigger for malignant hyperthermia in susceptible individuals. (N2O, propofol, ketamine, and thiopental do NOT trigger MH).",
+    "pearl": "Sevoflurane = Sweet-smelling volatile agent, excellent for pediatric mask inductions, triggers MH.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_06"
+    ]
+  },
+  {
+    "id": "W2D6-016",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "When an anesthesiologist sets the dial on the vaporizer for an inhaled anesthetic, they target a specific alveolar concentration to ensure the patient remains immobile. Which of the following definitions best describes the Minimum Alveolar Concentration (MAC)?",
+    "choices": {
+      "A": "The concentration at which 100% of patients lose consciousness",
+      "B": "The concentration at which the blood is fully saturated with the gas",
+      "C": "The concentration that prevents movement in response to a surgical stimulus in 50% of patients",
+      "D": "The concentration that achieves complete amnesia in 50% of patients",
+      "E": "The minimum dose required to block autonomic reflexes"
+    },
+    "correct": "C",
+    "rationale": "The Minimum Alveolar Concentration (MAC) is the standard measure of anesthetic potency. It is defined exactly as the alveolar concentration of an inhaled anesthetic at 1 atmosphere that prevents skeletal muscle movement in response to a standard noxious stimulus (skin incision) in 50% of patients. It is analogous to the ED50.",
+    "pearl": "MAC = ED50 for inhaled anesthetics preventing movement.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_02"
+    ]
+  },
+  {
+    "id": "W2D6-017",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "As part of a balanced anesthesia plan, a patient is given an intravenous medication that provides profound analgesia but has minimal effects on amnesia. It acts by agonizing mu-opioid receptors. Which medication was administered?",
+    "choices": {
+      "A": "Midazolam",
+      "B": "Propofol",
+      "C": "Fentanyl",
+      "D": "Rocuronium",
+      "E": "Etomidate"
+    },
+    "correct": "C",
+    "rationale": "Fentanyl is a potent synthetic opioid that acts as a full agonist at the mu-opioid receptor. In the balanced anesthesia paradigm, its primary role is to provide analgesia and blunt the sympathetic response (tachycardia, hypertension) to painful surgical stimuli like intubation and incision.",
+    "pearl": "Fentanyl provides the \"Analgesia\" component of balanced anesthesia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_01"
+    ]
+  },
+  {
+    "id": "W2D6-018",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A 45-year-old man who sustained severe crush injuries in a motor vehicle accident three days ago is taken to the OR for orthopedic stabilization. During rapid sequence induction, the anesthesiologist uses a depolarizing neuromuscular blocker. Shortly after, the patient develops a wide QRS complex and goes into cardiac arrest. This catastrophic event is most likely due to a sudden increase in which electrolyte?",
+    "choices": {
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Potassium",
+      "D": "Magnesium",
+      "E": "Chloride"
+    },
+    "correct": "C",
+    "rationale": "Succinylcholine is a depolarizing blocker that opens nicotinic acetylcholine receptors, allowing sodium influx and potassium efflux. In patients with extensive denervation, burns, crush injuries, or prolonged immobilization, there is a massive upregulation of extrajunctional acetylcholine receptors. Administering succinylcholine causes massive potassium efflux, leading to lethal hyperkalemia.",
+    "pearl": "Succinylcholine is contraindicated in burn/crush/denervation injury due to the risk of severe hyperkalemia.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-019",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "The pathophysiology of malignant hyperthermia involves an uncontrolled, massive release of calcium from the sarcoplasmic reticulum into the skeletal muscle cytoplasm. This is due to a genetic mutation in which of the following receptors?",
+    "choices": {
+      "A": "Dihydropyridine receptor",
+      "B": "Nicotinic acetylcholine receptor",
+      "C": "Muscarinic M2 receptor",
+      "D": "Ryanodine receptor (RYR1)",
+      "E": "GABA-A receptor"
+    },
+    "correct": "D",
+    "rationale": "Malignant hyperthermia is an autosomal dominant pharmacogenetic disorder most commonly caused by mutations in the *RYR1* gene, which encodes the ryanodine receptor type 1. This receptor is the major calcium release channel in the sarcoplasmic reticulum of skeletal muscle.",
+    "pearl": "Malignant hyperthermia = RYR1 mutation = Calcium flood in skeletal muscle.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_06"
+    ]
+  },
+  {
+    "id": "W2D6-020",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Anesthesiologist A is using sevoflurane (Lipid:gas partition coefficient = 50), while Anesthesiologist B is using isoflurane (Lipid:gas partition coefficient = 99). Based strictly on these coefficients, which of the following is true?",
+    "choices": {
+      "A": "Sevoflurane will have a lower MAC than isoflurane",
+      "B": "Isoflurane will have a higher MAC than sevoflurane",
+      "C": "Sevoflurane will have a faster induction speed than isoflurane",
+      "D": "Isoflurane is more potent and will have a lower MAC than sevoflurane",
+      "E": "Isoflurane will have a faster emergence speed than sevoflurane"
+    },
+    "correct": "D",
+    "rationale": "The lipid:gas partition coefficient is directly proportional to potency and inversely proportional to MAC. Because isoflurane has a higher lipid solubility (99 vs 50), it is more potent than sevoflurane, meaning it requires a smaller concentration (lower MAC) to achieve anesthesia. (Note: induction speed is determined by blood:gas, not lipid:gas).",
+    "pearl": "Higher Lipid solubility = Higher Potency = Lower MAC.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_02"
+    ]
+  },
+  {
+    "id": "W2D6-021",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "An elderly patient with severe heart failure and a low ejection fraction requires induction of general anesthesia. The anesthesiologist selects an intravenous induction agent specifically because it has minimal effects on blood pressure, heart rate, and cardiac output, preserving cardiovascular stability. Which agent was selected?",
+    "choices": {
+      "A": "Propofol",
+      "B": "Thiopental",
+      "C": "Ketamine",
+      "D": "Etomidate",
+      "E": "Dexmedetomidine"
+    },
+    "correct": "D",
+    "rationale": "Etomidate is an IV induction agent that potentiates GABA-A receptors. Its distinct clinical advantage is its exceptional cardiovascular stability, causing almost no change in heart rate, blood pressure, or cardiac output. It is the induction agent of choice in hemodynamically unstable patients or those with severe cardiac disease. (Side effect: adrenal suppression).",
+    "pearl": "Etomidate = Hemodynamically stable induction. Watch out for adrenal suppression.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_04"
+    ]
+  },
+  {
+    "id": "W2D6-022",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "At the end of a surgery where rocuronium was used for muscle relaxation, the patient remains paralyzed. The anesthesiologist administers an agent to rapidly reverse the non-depolarizing blockade by encapsulating the drug in the plasma, rendering it inactive. Which reversal agent was used?",
+    "choices": {
+      "A": "Dantrolene",
+      "B": "Naloxone",
+      "C": "Flumazenil",
+      "D": "Sugammadex",
+      "E": "Neostigmine"
+    },
+    "correct": "D",
+    "rationale": "Sugammadex is a selective relaxant binding agent (a modified gamma-cyclodextrin) that encapsulates rocuronium and vecuronium in the plasma, rapidly reversing their effects without the cholinergic side effects of traditional acetylcholinesterase inhibitors like neostigmine.",
+    "pearl": "Sugammadex = Rapidly encapsulates and reverses rocuronium/vecuronium.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-023",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient is maintained on an inhaled anesthetic with a blood:gas partition coefficient of 0.45 during a 4-hour surgery. Upon turning off the vaporizer at the end of the case, what is the expected clinical consequence of this specific pharmacokinetic property?",
+    "choices": {
+      "A": "Prolonged sedation requiring a reversal agent",
+      "B": "Accumulation of the drug in adipose tissue",
+      "C": "Severe postoperative nausea and vomiting",
+      "D": "Rapid emergence from anesthesia",
+      "E": "Delayed return of spontaneous ventilation"
+    },
+    "correct": "D",
+    "rationale": "A blood:gas partition coefficient of 0.45 is very low (characteristic of desflurane). This means the drug is poorly soluble in blood. When the vaporizer is turned off, the drug rapidly moves from the brain back into the blood, and from the blood into the alveoli to be exhaled, resulting in a very rapid emergence.",
+    "pearl": "Low blood solubility = Fast wake-up.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_03"
+    ]
+  },
+  {
+    "id": "W2D6-024",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient receives a combination of inhaled sevoflurane and intravenous fentanyl during surgery. No paralytics are administered. When a surgical incision is made, the patient does not move. The inhibition of this somatic reflex arc is primarily occurring at which anatomical location?",
+    "choices": {
+      "A": "Neuromuscular junction",
+      "B": "Peripheral nerve axon",
+      "C": "Muscle spindle apparatus",
+      "D": "Central nervous system (spinal cord/brainstem)",
+      "E": "Dorsal root ganglion"
+    },
+    "correct": "D",
+    "rationale": "Inhaled anesthetics provide akinesia and areflexia by enhancing inhibitory neurotransmission (GABA/glycine) directly within the central nervous system (spinal cord). This depresses the reflex arcs at the level of the spinal cord synapses, preventing movement in response to pain, even without neuromuscular blockade.",
+    "pearl": "Inhaled anesthetics cause immobility (1 MAC) primarily by acting on the spinal cord.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_01"
+    ]
+  },
+  {
+    "id": "W2D6-025",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Unlike many intravenous medications that rely on hepatic metabolism and renal excretion for clearance, how are inhaled volatile anesthetics primarily eliminated from the body to facilitate emergence?",
+    "choices": {
+      "A": "Biliary excretion",
+      "B": "Plasma esterase degradation",
+      "C": "Hepatic CYP450 metabolism",
+      "D": "Renal tubular secretion",
+      "E": "Exhalation via the lungs"
+    },
+    "correct": "E",
+    "rationale": "The vast majority of inhaled volatile anesthetics (e.g., isoflurane, desflurane, sevoflurane) undergo minimal to no hepatic metabolism. They are eliminated almost entirely unmetabolized via exhalation from the lungs.",
+    "pearl": "Volatile anesthetics go in via the lungs and come out via the lungs.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_03"
+    ]
+  },
+  {
+    "id": "W2D6-026",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient receives a standard intubating dose of succinylcholine but remains paralyzed for over two hours, rather than the expected 5-10 minutes. This prolonged paralysis is most likely due to a genetic deficiency or atypical variant of which of the following enzymes?",
+    "choices": {
+      "A": "Acetylcholinesterase",
+      "B": "Monoamine oxidase",
+      "C": "Cytochrome P450 3A4",
+      "D": "Catechol-O-methyltransferase (COMT)",
+      "E": "Pseudocholinesterase (Butyrylcholinesterase)"
+    },
+    "correct": "E",
+    "rationale": "Succinylcholine is normally rapidly hydrolyzed in the plasma by pseudocholinesterase (butyrylcholinesterase), leading to its very short duration of action. Patients with a genetic deficiency or an atypical variant of this enzyme cannot break down the drug efficiently, resulting in prolonged neuromuscular blockade and apnea.",
+    "pearl": "Prolonged paralysis from succinylcholine = Pseudocholinesterase deficiency.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-027",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient with severe traumatic brain injury and elevated intracranial pressure (ICP) needs to be intubated. Which of the following intravenous induction agents is classically noted for decreasing cerebral metabolic rate, cerebral blood flow, and intracranial pressure?",
+    "choices": {
+      "A": "Ketamine",
+      "B": "Nitrous oxide",
+      "C": "Desflurane",
+      "D": "Isoflurane",
+      "E": "Thiopental"
+    },
+    "correct": "E",
+    "rationale": "Thiopental (a barbiturate) and propofol are potent cerebral vasoconstrictors. They decrease the cerebral metabolic rate for oxygen (CMRO2), which subsequently decreases cerebral blood flow and intracranial pressure, making them excellent choices for patients with elevated ICP. (Ketamine historically was thought to increase ICP, though this is debated).",
+    "pearl": "Barbiturates (Thiopental) and Propofol decrease ICP.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_04"
+    ]
+  },
+  {
+    "id": "W2D6-028",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "During a surgery utilizing rocuronium, the anesthesiologist places a peripheral nerve stimulator on the patient's ulnar nerve to monitor the depth of paralysis. They administer four rapid electrical pulses. This specific monitoring technique is known as:",
+    "choices": {
+      "A": "Bispectral index (BIS)",
+      "B": "Electromyography (EMG)",
+      "C": "Somatosensory evoked potentials (SSEP)",
+      "D": "Electroencephalography (EEG)",
+      "E": "Train-of-four (TOF) monitoring"
+    },
+    "correct": "E",
+    "rationale": "Train-of-four (TOF) monitoring involves delivering four successive electrical stimuli to a peripheral nerve (e.g., ulnar nerve) and observing the corresponding muscle twitches. With non-depolarizing blockers (rocuronium), the twitches progressively fade. This allows the anesthesiologist to accurately titrate paralytic dosing and ensure safe reversal.",
+    "pearl": "Train-of-Four (TOF) measures the depth of neuromuscular blockade.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-029",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "A patient arrives in the ED with acute appendicitis and reports eating a large meal 3 hours ago. The anesthesiologist elects to perform a Rapid Sequence Induction (RSI) using succinylcholine instead of rocuronium. What is the primary rationale for this choice in this specific patient?",
+    "choices": {
+      "A": "Succinylcholine prevents malignant hyperthermia",
+      "B": "Succinylcholine provides superior analgesia",
+      "C": "Succinylcholine prevents postoperative nausea",
+      "D": "Succinylcholine avoids histamine release",
+      "E": "Succinylcholine provides the fastest onset of profound paralysis"
+    },
+    "correct": "E",
+    "rationale": "A patient who recently ate a large meal (a \"full stomach\") is at high risk for regurgitating and aspirating gastric contents into their lungs when they lose consciousness. Rapid sequence induction (RSI) aims to minimize the time between loss of consciousness and securing the airway with an endotracheal tube. Succinylcholine provides the fastest onset of dense paralysis (~60 seconds), making it ideal for RSI.",
+    "pearl": "RSI is used for aspiration risk (full stomach). Succinylcholine is the classic RSI paralytic due to its rapid onset.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_05"
+    ]
+  },
+  {
+    "id": "W2D6-030",
+    "topic": "Anesthesia",
+    "lecture": "CBIL: Anesthesia",
+    "week": "E1-W2",
+    "exam": "E1",
+    "yield_level": "High",
+    "stem": "Research demonstrates that minoritized racial and ethnic groups frequently receive less adequate pain management in perioperative settings compared to their white counterparts. Which of the following best describes the primary mechanism driving this disparity?",
+    "choices": {
+      "A": "Genetic differences in opioid receptor density",
+      "B": "Variations in the pharmacokinetics of general anesthetics",
+      "C": "Higher baseline pain tolerance in minoritized groups",
+      "D": "Differences in Minimum Alveolar Concentration (MAC) requirements",
+      "E": "Implicit bias and structural healthcare inequities"
+    },
+    "correct": "E",
+    "rationale": "Extensive literature indicates that racial disparities in pain management are not driven by biological or genetic differences in pain perception or drug metabolism, but rather by provider implicit bias, false beliefs about biological differences, and structural inequities within the healthcare system that lead to the under-assessment and under-treatment of pain in patients of color.",
+    "pearl": "Racial disparities in pain management are a direct result of implicit bias and structural racism, not biology.",
+    "learning_objectives": [
+      "LO_NEURO_E1_W2_CBIL_01"
+    ]
   }
 ];

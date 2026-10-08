@@ -467,5 +467,117 @@
     "exam": "E1",
     "week": "E1-W2",
     "lecture": "3.1 Pain & Temperature Pathway (Dr. Freedman)"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_TRIG_01",
+    "text": "Describe the pathways that transmit tactile sensation from the face to the cortex (Chief sensory nucleus, VTT, VPM).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "4.1 Trigeminal Tactile & Pain"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_TRIG_02",
+    "text": "Describe the pathways that transmit pain/temp sensation from the face to the cortex (Spinal trigeminal tract/nucleus).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "4.1 Trigeminal Tactile & Pain"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_TRIG_03",
+    "text": "Describe the jaw-jerk reflex and corneal reflex, including afferent/efferent limbs and relevant nuclei.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "4.1 Trigeminal Tactile & Pain"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_TRIG_04",
+    "text": "Describe the effects of lesions at different locations along the pathways for tactile and pain/temp sensation for the face.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "4.1 Trigeminal Tactile & Pain"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_TRIG_05",
+    "text": "Explain pathophysiological mechanisms in pain, including sensitization, allodynia, and hyperalgesia.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "4.1 Trigeminal Tactile & Pain"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_HA_01",
+    "text": "Identify the diagnostic criteria for Migraine, Tension-Type, and Cluster headaches.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "5.1 Headache"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_HA_02",
+    "text": "Explain the pathophysiologic mechanisms of migraine, focusing on the trigeminovascular system and CGRP.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "5.1 Headache"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_HA_03",
+    "text": "Apply the therapeutic approach to primary headaches, selecting appropriate acute and preventive treatments.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "5.1 Headache"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_HA_04",
+    "text": "Recognize Medication Overuse Headache and the importance of limiting acute medication frequency.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "5.1 Headache"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_HA_05",
+    "text": "Identify the risks associated with migraine with aura, particularly regarding oral contraceptive pill (OCP) use.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "5.1 Headache"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_01",
+    "text": "Describe the components of balanced anesthesia (Amnesia, Analgesia, Akinesia, Areflexia).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_02",
+    "text": "Explain the relationship between Minimum Alveolar Concentration (MAC), lipid solubility, and anesthetic potency.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_03",
+    "text": "Explain how the blood:gas partition coefficient determines the speed of induction and emergence of inhaled anesthetics.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_04",
+    "text": "Identify the mechanisms of action, clinical uses, and side effects of intravenous anesthetics (propofol, ketamine, midazolam, etomidate, thiopental).",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_05",
+    "text": "Distinguish depolarizing (succinylcholine) and non-depolarizing (rocuronium) neuromuscular blockers, their side effects, and reversal agents.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
+  },
+  {
+    "id": "LO_NEURO_E1_W2_CBIL_06",
+    "text": "Recognize the signs, pathophysiology, triggers, and treatment of Malignant Hyperthermia.",
+    "exam": "E1",
+    "week": "E1-W2",
+    "lecture": "CBIL: Anesthesia"
   }
 ]
